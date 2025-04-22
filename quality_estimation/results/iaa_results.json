@@ -1,0 +1,445 @@
+{
+  "total_questions": 62,
+  "total_scores_calculated": 62,
+  "average_f1": 0.42261544923830835,
+  "median_f1": 0.4409722222222222,
+  "min_f1": 0.12903225806451615,
+  "max_f1": 0.7692307692307692,
+  "std_dev_f1": 0.1370248735380846,
+  "detailed_results": [
+    {
+      "question_id": 0,
+      "question": "Do dual-degree students have any special constraints on doing an overseas semester while completing both programs?",
+      "annotator1_answer": "Dual-degree students need both programs' approvals if courses abroad must count for both.",
+      "annotator2_answer": "Dual-degree students need approval from both programs if study abroad courses count toward both degrees.",
+      "f1_score": 0.7142857142857142
+    },
+    {
+      "question_id": 1,
+      "question": "Are there official orientation sessions or pre-departure training that UMSI requires for outbound exchange students?",
+      "annotator1_answer": "UMSI and the Global Engagement Office hold mandatory pre-departure briefings on safety, culture, and academics.",
+      "annotator2_answer": "UMSI requires pre-departure sessions on safety, academics, and cultural prep.",
+      "f1_score": 0.48
+    },
+    {
+      "question_id": 2,
+      "question": "What are some common pitfalls that can delay a student's graduation if they fail to plan carefully for abroad courses?",
+      "annotator1_answer": "Delay risks include courses not transferring properly or missing required BSI/MSI classes, so plan thoroughly.",
+      "annotator2_answer": "Graduation can be delayed if required courses aren\u2019t completed or credits don\u2019t transfer.",
+      "f1_score": 0.21428571428571427
+    },
+    {
+      "question_id": 3,
+      "question": "How does the credit conversion process work if the host university uses a different credit or grading system?",
+      "annotator1_answer": "Conversions vary by country; U-M sets equivalencies. You often need at least a \"C\" or equivalent to earn transfer credit.",
+      "annotator2_answer": "U-M converts grades based on country standards; a \u201cC\u201d or higher is usually needed.",
+      "f1_score": 0.2941176470588235
+    },
+    {
+      "question_id": 4,
+      "question": "Can students do a second study abroad or short-term exchange after returning from a prior international program?",
+      "annotator1_answer": "Yes, if scheduling and credits allow. Some do a full semester exchange first, then a separate short immersion later.",
+      "annotator2_answer": "Yes, students can study abroad more than once if their schedule allows.",
+      "f1_score": 0.12903225806451615
+    },
+    {
+      "question_id": 5,
+      "question": "Which academic or cultural celebrations does UMSI host annually, such as Lunar New Year or Diwali events?",
+      "annotator1_answer": "UMSI hosts a Lunar New Year celebration, among others, often supported by student orgs and OCC.",
+      "annotator2_answer": "UMSI hosts events like Lunar New Year with help from student orgs and OCC.",
+      "f1_score": 0.6000000000000001
+    },
+    {
+      "question_id": 6,
+      "question": "Are there any living-learning communities affiliated with the School of Information for undergraduates?",
+      "annotator1_answer": "There's no dedicated living-learning dorm for BSI, but some undergrads join communities like the Michigan Learning Communities.",
+      "annotator2_answer": "BSI students can join general U-M learning communities, though none are UMSI-specific.",
+      "f1_score": 0.27586206896551724
+    },
+    {
+      "question_id": 7,
+      "question": "Does UMSI provide secure lockers or equipment checkouts for students who need specialized gear?",
+      "annotator1_answer": "Equipment checkout or lockers vary by building; some labs have specific gear for class projects.",
+      "annotator2_answer": "Some labs offer lockers or gear checkout for project use.",
+      "f1_score": 0.56
+    },
+    {
+      "question_id": 8,
+      "question": "Are there designated quiet study areas for students who prefer minimal noise while working on assignments?",
+      "annotator1_answer": "Certain floors or corners in North Quad are designated quiet zones; check posted signage.",
+      "annotator2_answer": "Quiet zones exist in North Quad; check signs to locate them.",
+      "f1_score": 0.4799999999999999
+    },
+    {
+      "question_id": 9,
+      "question": "Does the university's central campus have easily accessible counseling and mental health services for grad students?",
+      "annotator1_answer": "CAPS is at multiple campus locations. Graduate students can also use Wolverine Wellness or UHS mental health services.",
+      "annotator2_answer": "Grad students can access mental health care through CAPS, UHS, or Wellness.",
+      "f1_score": 0.5333333333333333
+    },
+    {
+      "question_id": 10,
+      "question": "How do BSI students stay connected to each other if they're often spread among different campus buildings?",
+      "annotator1_answer": "BSI students keep in touch via Slack channels, group assignments, and events at North Quad or 777 N. University.",
+      "annotator2_answer": "BSI students connect via Slack, group work, and common areas like North Quad.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 11,
+      "question": "Which local or campus-wide resources are recommended for stress management or personal well-being?",
+      "annotator1_answer": "The university offers workshops on mindfulness and time management, plus a well-being app for students.",
+      "annotator2_answer": "U-M offers well-being apps and stress workshops for students.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 12,
+      "question": "Does UMSI host student appreciation events like coffee breaks, free lunches, or \"de-stress\" weeks?",
+      "annotator1_answer": "UMSI sponsors coffee breaks and stress-buster events, especially around midterms and finals.",
+      "annotator2_answer": "Coffee breaks and wellness events are common around exams.",
+      "f1_score": 0.4761904761904762
+    },
+    {
+      "question_id": 13,
+      "question": "Are there affordable on-campus or near-campus housing options that UMSI students commonly use?",
+      "annotator1_answer": "Central campus dorms or off-campus apartments near Maynard or State Street are popular for BSI and MSI.",
+      "annotator2_answer": "Many BSI/MSI students live in dorms or apartments near State or Maynard.",
+      "f1_score": 0.4827586206896552
+    },
+    {
+      "question_id": 14,
+      "question": "Does UMSI facilitate meetups for diverse student identities, such as international students or student parents?",
+      "annotator1_answer": "Various student identity groups meet up for lunches or events; UMSI fosters inclusive programming.",
+      "annotator2_answer": "UMSI hosts inclusive meetups for diverse identities, including parents and internationals.",
+      "f1_score": 0.23999999999999996
+    },
+    {
+      "question_id": 15,
+      "question": "How do students find part-time or on-campus jobs to help with living expenses, and which offices hire them?",
+      "annotator1_answer": "Part-time or on-campus jobs can be found in the library system, labs, dining, or as departmental assistants.",
+      "annotator2_answer": "Students can work in dining, libraries, or departments for part-time income.",
+      "f1_score": 0.35714285714285715
+    },
+    {
+      "question_id": 16,
+      "question": "Are there meal-plan-friendly dining options near UMSI buildings, or do most students bring lunch?",
+      "annotator1_answer": "There are many on-campus dining halls, plus local restaurants. Some classes are near Panera or cozy coffee shops.",
+      "annotator2_answer": "Dining halls and nearby cafes serve students; some eat near Panera or North Quad.",
+      "f1_score": 0.375
+    },
+    {
+      "question_id": 17,
+      "question": "Does UMSI coordinate any off-campus retreats or leadership workshops specifically for building class cohesion?",
+      "annotator1_answer": "Occasionally, UMSI organizes off-site leadership retreats or orientation experiences.",
+      "annotator2_answer": "UMSI occasionally runs off-campus retreats for bonding and leadership.",
+      "f1_score": 0.4444444444444444
+    },
+    {
+      "question_id": 18,
+      "question": "In what ways do faculty and staff try to maintain approachability and open communication with students?",
+      "annotator1_answer": "Faculty maintain open office hours, Q&A sessions, and encourage email/Canvas communication for a supportive environment.",
+      "annotator2_answer": "Faculty encourage communication via office hours, Canvas, and email.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 19,
+      "question": "Are there recommended strategies to achieve work-life balance while juggling heavy course loads at UMSI?",
+      "annotator1_answer": "Students should use time-management tools, exercise, and campus wellness resources to keep a balanced schedule.",
+      "annotator2_answer": "Time management and wellness tools help students stay balanced.",
+      "f1_score": 0.4166666666666667
+    },
+    {
+      "question_id": 20,
+      "question": "Are official transcripts requested via the UMSI Registrar or through the central U-M Registrar's Office?",
+      "annotator1_answer": "Official transcripts are requested via U-M's central Wolverine Access portal, not the UMSI registrar.",
+      "annotator2_answer": "Transcripts are ordered through Wolverine Access, not UMSI directly.",
+      "f1_score": 0.5217391304347826
+    },
+    {
+      "question_id": 21,
+      "question": "How does UMSI enforce the policy that all required courses must be completed with a grade of C- or better?",
+      "annotator1_answer": "A grade of C- or higher meets requirement; below that, you must retake or petition for an alternative.",
+      "annotator2_answer": "You need at least a C- in required courses; retake or petition if below.",
+      "f1_score": 0.43750000000000006
+    },
+    {
+      "question_id": 22,
+      "question": "What is the typical timeframe for final grades to be posted each semester?",
+      "annotator1_answer": "Final grades usually post within a week or two after exams, unless the instructor extends deadlines.",
+      "annotator2_answer": "Grades post 1\u20132 weeks after finals, unless instructors delay.",
+      "f1_score": 0.32
+    },
+    {
+      "question_id": 23,
+      "question": "Are there data retention policies at UMSI regarding submission of course assignments?",
+      "annotator1_answer": "UMSI or instructors typically keep assignment records for at least a term; you can ask if you need references.",
+      "annotator2_answer": "Assignments are retained at least one term; ask faculty if needed.",
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question_id": 24,
+      "question": "Can students be dismissed from the program for failing to make adequate progress, and how is that determined?",
+      "annotator1_answer": "Students who do not meet academic or professional standards risk dismissal, following a formal review process.",
+      "annotator2_answer": "Students may be dismissed after a formal review if progress is insufficient.",
+      "f1_score": 0.28571428571428575
+    },
+    {
+      "question_id": 25,
+      "question": "How does the grievance process work if a student has a complaint about a faculty member's conduct?",
+      "annotator1_answer": "If you have a grievance about faculty conduct, you can file through the official UMSI or UM procedures.",
+      "annotator2_answer": "Complaints about faculty can be filed through UMSI or university channels.",
+      "f1_score": 0.41379310344827586
+    },
+    {
+      "question_id": 26,
+      "question": "What resources exist if a student feels they've been discriminated against or harassed in a UMSI context?",
+      "annotator1_answer": "OIE (Office for Institutional Equity) addresses discrimination or harassment; UMSI supports that process.",
+      "annotator2_answer": "OIE handles reports of bias or harassment; UMSI supports affected students.",
+      "f1_score": 0.41666666666666663
+    },
+    {
+      "question_id": 27,
+      "question": "When does a student become subject to academic probation, and how can they return to good standing?",
+      "annotator1_answer": "Probation occurs if you don't meet GPA or progression standards; you must create a plan with advisors.",
+      "annotator2_answer": "Probation starts if GPA drops or progress stalls; a plan is required to recover.",
+      "f1_score": 0.3870967741935484
+    },
+    {
+      "question_id": 28,
+      "question": "Does the school track professional behavior or \"professional integrity\" outside of academic coursework?",
+      "annotator1_answer": "Non-academic misconduct, like violating professional codes on internship sites, can also trigger discipline.",
+      "annotator2_answer": "Unprofessional conduct can also affect academic standing.",
+      "f1_score": 0.2
+    },
+    {
+      "question_id": 29,
+      "question": "Are there any differences in policies for face-to-face instruction vs. short courses or half-semester courses?",
+      "annotator1_answer": "Short courses follow the same policy regarding contact hours, grading, and attendance.",
+      "annotator2_answer": "Short and half-term courses follow the same academic standards.",
+      "f1_score": 0.5714285714285715
+    },
+    {
+      "question_id": 30,
+      "question": "How does withdrawal from one SI course impact the rest of a student's schedule or progression?",
+      "annotator1_answer": "Withdrawing from one course won't remove you from others, but watch for credit minimums if you're on financial aid.",
+      "annotator2_answer": "Dropping a course doesn\u2019t cancel others, but beware of financial aid rules.",
+      "f1_score": 0.3225806451612903
+    },
+    {
+      "question_id": 31,
+      "question": "Does UMSI require immunizations or other health documentation for MHI students working in clinical settings?",
+      "annotator1_answer": "MHI students placed in clinical contexts may need immunizations or background checks.",
+      "annotator2_answer": "MHI students may need health checks for clinical work.",
+      "f1_score": 0.5714285714285715
+    },
+    {
+      "question_id": 32,
+      "question": "What is the official procedure for requesting or implementing an academic adjustment for a documented disability?",
+      "annotator1_answer": "Disability accommodations start with SSD certification; UMSI encourages early requests to coordinate seamlessly.",
+      "annotator2_answer": "For disability support, register with SSD early to coordinate accommodations.",
+      "f1_score": 0.608695652173913
+    },
+    {
+      "question_id": 33,
+      "question": "Can students petition for an exemption to the continuous enrollment requirement if personal circumstances arise?",
+      "annotator1_answer": "With valid reasons, you can request an exemption from continuous enrollment, but it's not automatic.",
+      "annotator2_answer": "You can request a break in enrollment for valid reasons, but approval isn\u2019t guaranteed.",
+      "f1_score": 0.4827586206896552
+    },
+    {
+      "question_id": 34,
+      "question": "Are there special rules for how many pass/fail or S/U credits can count toward the 48 credits needed for the MSI?",
+      "annotator1_answer": "Typically only a limited number of pass/fail credits may apply toward the 48-credit MSI total, so confirm with an advisor.",
+      "annotator2_answer": "Only a limited number of pass/fail credits count toward MSI requirements.",
+      "f1_score": 0.5806451612903226
+    },
+    {
+      "question_id": 35,
+      "question": "Are there special academic tracks or course groupings for students wanting to focus on library science?",
+      "annotator1_answer": "Library science-related interests can be pursued with SI 647 or other LIS electives under the MSI.",
+      "annotator2_answer": "Library science can be explored through electives like SI 647.",
+      "f1_score": 0.4615384615384615
+    },
+    {
+      "question_id": 36,
+      "question": "Is there a formal process to request an exception or petition for a course substitution if a requirement is nearly met?",
+      "annotator1_answer": "Students can petition the UMSI academic committee for a course substitution if it meets relevant learning objectives.",
+      "annotator2_answer": "Students can petition for course subs if goals match a requirement.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 37,
+      "question": "Do certain specialized courses have enforced prerequisites that students cannot bypass without a waiver?",
+      "annotator1_answer": "Enforced prerequisites are strict. If you lack them, you must secure a waiver or complete them first.",
+      "annotator2_answer": "You can\u2019t skip enforced prerequisites without a waiver.",
+      "f1_score": 0.4
+    },
+    {
+      "question_id": 38,
+      "question": "What is the difference between an enforced prerequisite and an advisory prerequisite in the UMSI course catalog?",
+      "annotator1_answer": "Advisory prerequisites are recommended but not strictly enforced; you can enroll if you feel prepared.",
+      "annotator2_answer": "Advisory prereqs are optional, but recommended for success.",
+      "f1_score": 0.3478260869565218
+    },
+    {
+      "question_id": 39,
+      "question": "Can MSI students switch their declared specialization or pathway mid-program, and how does that shift their course plan?",
+      "annotator1_answer": "Yes, changing your MSI pathway means adjusting your course plan with an advisor to ensure you meet all new prerequisites.",
+      "annotator2_answer": "MSI students can switch pathways but must revise their course plan.",
+      "f1_score": 0.19354838709677416
+    },
+    {
+      "question_id": 40,
+      "question": "Do MHI students use the same registration system as MSI students, or are there distinct steps to follow?",
+      "annotator1_answer": "MHI and MSI registration processes are quite similar, though MHI might have extra required health courses.",
+      "annotator2_answer": "MSI and MHI registration are similar; MHI may add health-related steps.",
+      "f1_score": 0.5185185185185185
+    },
+    {
+      "question_id": 41,
+      "question": "Are there recommended times to schedule an appointment with an advisor to avoid busy registration periods?",
+      "annotator1_answer": "Registration periods can be busy; it helps to see an advisor earlier in the term or mid-semester.",
+      "annotator2_answer": "Meet advisors mid-term to avoid registration rush.",
+      "f1_score": 0.16666666666666666
+    },
+    {
+      "question_id": 42,
+      "question": "How can students verify that an external course (e.g., from a different university) meets a BSI or MSI requirement?",
+      "annotator1_answer": "You must submit syllabi or official descriptions of external courses for evaluation if seeking UMSI credit.",
+      "annotator2_answer": "To count outside courses, submit syllabi for review.",
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question_id": 43,
+      "question": "What resources does the school provide for students struggling to meet academic requirements or keep up with the workload?",
+      "annotator1_answer": "If you struggle academically, UMSI's Academic Success team offers coaching, tutoring, and academic skills workshops.",
+      "annotator2_answer": "Academic coaching and tutoring are available through UMSI.",
+      "f1_score": 0.3478260869565218
+    },
+    {
+      "question_id": 44,
+      "question": "How do skill-based waivers for certain programming courses actually appear on the transcript?",
+      "annotator1_answer": "Skill-based waivers appear on your record as a satisfied prerequisite, but no credit is awarded.",
+      "annotator2_answer": "Skill-based waivers fulfill prereqs but don\u2019t give credit.",
+      "f1_score": 0.3478260869565218
+    },
+    {
+      "question_id": 45,
+      "question": "Are there condensed (7-week) courses offered in the MSI or MHI programs, and how do those fit into a full schedule?",
+      "annotator1_answer": "7-week or half-semester courses do exist, especially for some SI 504 or 505 \"mini\" courses.",
+      "annotator2_answer": "7-week \"mini\" courses exist, especially for intro-level tech skills.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 46,
+      "question": "What guidance is given to BSI students about balancing major requirements vs. general liberal arts credits?",
+      "annotator1_answer": "BSI students must balance SI core, advanced electives, and general ed or distribution requirements for their bachelor's degree.",
+      "annotator2_answer": "BSI students must balance major, elective, and general ed credits.",
+      "f1_score": 0.5
+    },
+    {
+      "question_id": 47,
+      "question": "How do graduate students track the 48 total credit hours needed for the MSI if they're also completing non-SI courses?",
+      "annotator1_answer": "MSI students can track the total 48 credits by referencing their online audit; up to 9 can be outside SI if approved.",
+      "annotator2_answer": "MSI students can count up to 9 non-SI credits toward their 48-credit total.",
+      "f1_score": 0.5142857142857142
+    },
+    {
+      "question_id": 48,
+      "question": "If a student fails a required course, how do they retake it or make alternate arrangements to fulfill that requirement?",
+      "annotator1_answer": "Retaking a failed required course is mandatory; the new grade replaces the old for that requirement, but both remain on your transcript.",
+      "annotator2_answer": "Failed required courses must be retaken; both grades show on the transcript.",
+      "f1_score": 0.3529411764705882
+    },
+    {
+      "question_id": 49,
+      "question": "Does UMSI have dedicated staff to assist students with external or third-party course approvals?",
+      "annotator1_answer": "The UMSI registrar helps handle official evaluations of external or transfer credit.",
+      "annotator2_answer": "The UMSI registrar handles official transfer and credit evaluations.",
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question_id": 50,
+      "question": "Are there any course planning worksheets or checklists specifically designed for each UMSI pathway?",
+      "annotator1_answer": "Yes, there are BSI and MSI planning worksheets in the handbooks and Canvas resources.",
+      "annotator2_answer": "Planning tools are available in UMSI handbooks and Canvas.",
+      "f1_score": 0.5217391304347826
+    },
+    {
+      "question_id": 51,
+      "question": "Is it possible to take online MADS courses as an MSI student, and if so, how does that count toward the residential program?",
+      "annotator1_answer": "MSI students generally cannot take MADS courses directly for credit, as MADS is a separate online program. Exceptions would require special approval.",
+      "annotator2_answer": "MADS courses don\u2019t count for MSI credit unless specially approved.",
+      "f1_score": 0.3125
+    },
+    {
+      "question_id": 52,
+      "question": "Are there best practices or ethical guidelines for negotiating an internship offer, especially regarding pay rates?",
+      "annotator1_answer": "The CDO advises ethical approaches: be honest, communicate promptly, and avoid reneging on accepted offers.",
+      "annotator2_answer": "When negotiating offers, be honest, timely, and professional.",
+      "f1_score": 0.3478260869565218
+    },
+    {
+      "question_id": 53,
+      "question": "How can students find remote internships, and are those treated the same for credit purposes?",
+      "annotator1_answer": "Remote internships are allowed if supervision and deliverables meet program guidelines.",
+      "annotator2_answer": "Remote internships are fine if well-supervised and goal-aligned.",
+      "f1_score": 0.5263157894736842
+    },
+    {
+      "question_id": 54,
+      "question": "How does the CDO help students with career planning beyond the internship, such as full-time job placement?",
+      "annotator1_answer": "Beyond internships, the CDO offers full-time job fairs, mock interviews, portfolio reviews, and career coaching.",
+      "annotator2_answer": "The CDO helps with job searches, mock interviews, and career strategy.",
+      "f1_score": 0.5384615384615385
+    },
+    {
+      "question_id": 55,
+      "question": "What is the difference between SI 681 and SI 690 for graduate internship courses?",
+      "annotator1_answer": "SI 681 is typically 1\u20133 credits; SI 690 can be 2\u20134 credits, with different reflection or assignment structures.",
+      "annotator2_answer": "SI 681 and SI 690 differ in credit and deliverables; check syllabi.",
+      "f1_score": 0.26666666666666666
+    },
+    {
+      "question_id": 56,
+      "question": "Do students have to complete the internship at a specific stage in their program, or is it flexible?",
+      "annotator1_answer": "Usually, students do the internship in summer after the first or second year (for MSI) or junior/senior summer (for BSI).",
+      "annotator2_answer": "Internships usually happen after year one for MSI or junior year for BSI.",
+      "f1_score": 0.4848484848484849
+    },
+    {
+      "question_id": 57,
+      "question": "Are there local Ann Arbor-based companies that regularly offer internships to UMSI students?",
+      "annotator1_answer": "Ann Arbor-based positions range from startups to big tech labs; many also find internships in Detroit or beyond.",
+      "annotator2_answer": "Many UMSI students intern locally or in the Detroit tech scene.",
+      "f1_score": 0.3448275862068966
+    },
+    {
+      "question_id": 58,
+      "question": "Does the UMSI CDO host career fairs or specialized recruiting events for information-focused employers?",
+      "annotator1_answer": "CDO organizes an annual career fair, plus smaller recruiting sessions for major employers.",
+      "annotator2_answer": "UMSI hosts both large career fairs and smaller employer events.",
+      "f1_score": 0.17391304347826086
+    },
+    {
+      "question_id": 59,
+      "question": "Is it possible to register a continuing, long-term internship for credit in multiple semesters?",
+      "annotator1_answer": "Continuing the same internship for multiple semesters is possible, but each term must show new learning objectives.",
+      "annotator2_answer": "Long-term internships can span terms if new learning is shown.",
+      "f1_score": 0.22222222222222224
+    },
+    {
+      "question_id": 60,
+      "question": "What are the consequences if an internship is terminated early or if the student can't complete the required hours?",
+      "annotator1_answer": "If the internship ends early, speak with the CDO promptly to salvage credit or transition to an alternative arrangement.",
+      "annotator2_answer": "If an internship ends early, the CDO can help with recovery options.",
+      "f1_score": 0.5161290322580646
+    },
+    {
+      "question_id": 61,
+      "question": "Can students earn academic credit for volunteer or research-based roles outside of the typical corporate internship?",
+      "annotator1_answer": "Nonprofit or research roles can count if they meet academic standards for SI internship courses.",
+      "annotator2_answer": "Volunteer or research roles can count if they meet academic standards.",
+      "f1_score": 0.7692307692307692
+    }
+  ]
+}

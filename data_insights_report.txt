@@ -1,0 +1,62 @@
+==================================================
+DATA INSIGHTS REPORT
+==================================================
+
+1. DOCUMENT STATISTICS
+--------------------------------------------------
+Total Documents: 25
+Text Files: 15
+PDF Files: 10
+
+2. METADATA STATISTICS
+--------------------------------------------------
+Documents with Title: 25
+Documents with Category: 25
+Documents with Source: 0
+
+Top 5 Categories:
+  - MSI Program: 6 documents
+  - About UMSI: 5 documents
+  - Course Schedules: 4 documents
+  - BSI Program: 3 documents
+  - Academic Information: 1 documents
+
+3. QUESTION-ANSWER STATISTICS
+--------------------------------------------------
+Training Set: 400 QA pairs
+Development Set: 150 QA pairs
+Test Set: 85 QA pairs
+Total QA Pairs: 635
+
+Average Question Length (words):
+  - Training: 14.56
+  - Development: 15.94
+  - Test: 15.76
+
+Average Answer Length (words):
+  - Training: 13.54
+  - Development: 16.29
+  - Test: 19.34
+
+Question Type Distribution (All Sets):
+  - how (?): 131 questions (20.6%)
+  - is/are (?): 120 questions (18.9%)
+  - do/does (?): 112 questions (17.6%)
+  - what (?): 105 questions (16.5%)
+  - which (?): 55 questions (8.7%)
+  - can/could (?): 42 questions (6.6%)
+  - other (?): 41 questions (6.5%)
+  - other (no ?): 11 questions (1.7%)
+  - when (?): 7 questions (1.1%)
+  - where (?): 7 questions (1.1%)
+  - who (?): 4 questions (0.6%)
+
+4. SUMMARY
+--------------------------------------------------
+The dataset consists of 25 documents (15 text files, 10 PDFs)
+with a total of 635 question-answer pairs.
+The main document category is 'MSI Program'.
+QA pairs are split as: 400 in training, 150 in development, 85 in test.
+The most common question type is 'how (?)'.
+
+Visualizations have been saved to the 'data_insights_figures' directory.

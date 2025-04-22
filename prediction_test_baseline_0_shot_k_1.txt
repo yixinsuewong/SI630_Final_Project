@@ -1,0 +1,85 @@
+No, the BSI program does not allow students to count prior learning or non-UM credits toward the 60 upper-level requirement.
+The context does not provide information about official BSI rubrics used to evaluate writing or presentation assignments.
+The BSI handles registration overrides for closed or waitlisted courses.
+BSI students should declare their chosen pathway (IA or UX) at the beginning of the program, and they cannot switch later.
+The context does not provide information about whether minors or certificate programs outside UMSI are common or can fit into the 120-credit total for a bachelor's degree in Information.
+BSI students can use advanced placement (AP) credits to reduce general education courses and focus more on SI coursework, but they cannot use them to reduce general education courses.
+The BSI's data analysis coursework teaches pandas, seaborn, and other Python libraries for data processing, with some big data.
+No, the BSI program does not have a special research track for undergraduates interested in academic or PhD pursuits.
+BSI students fulfill the advanced writing requirement at U-M by submitting a writing sample that meets the requirements of 011318-UINF.
+BSI students are not provided a recommended order for taking core courses.
+BSI classes rely on simulated scenarios.
+Calculus or discrete math is not required for BSI admission. The program focuses on advanced mathematics.
+The context does not provide information about specific learning outcomes or competencies that all graduates are expected to master in the BSI program.
+Yes, there is a practical design studio in the BSI for prototyping and user testing called Interaction Design Studio Enforced, which is a course in Fall 2025.
+BSI students do not take part in team-based projects each term.
+The provided context does not mention whether BSI students produce a senior thesis or not. It only provides information about the course and its prerequisites.
+The context does not provide information on how a BSI student's 120-credit total would be impacted if they have large block transfers from a community college.
+BSI exam formats are mostly essay-based.
+The BSI program does not require an oral defense or presentation of the final Capstone.
+BSI group projects typically last about 6 weeks and typically involve 3-4 students working together.
+The context does not provide information about whether the BSI program incorporates issues of data security and privacy throughout the coursework.
+UMSI expands BSI enrollment if demand exceeds capacity.
+No, there are not specialized BSI advising sessions addressing mental health and academic performance synergy.
+BSI instructors incorporate user interviews or usability testing for design-based assignments through the Intro Qual Methods course, which covers methods such as interviews, observations, and thematic analysis. Students learn how to collect, interpret, and apply qualitative data to inform user-centered design decisions.
+No, the BSI does not sponsor hackathon-like competitions specifically for undergraduates.
+The context does not provide information about the typical class size for BSI core courses versus upper-level electives.
+A BSI student can blend both IA and UX pathways by taking the course SI 307, which provides a foundational understanding of design principles within the context of user experience (UX).
+The context does not provide information on how often BSI course offerings are updated or revised to keep pace with new technology trends.
+No, BSI students are not required to compile a digital portfolio of their projects before graduation.
+The BSI program does not support small-group career treks or site visits to local tech companies.
+The provided context does not provide information about whether BSI lectures are recorded for later viewing if a student must miss class due to an emergency.
+The given context does not provide information about whether the BSI has a formal code of conduct distinct from general UMSI or UM policies.
+BSI students typically do research under a faculty member, but it is not common in graduate programs.
+BSI students can request assignment accommodations for scheduling conflicts or personal hardships.
+BSI students handle reading-intensive courses and project-intensive ones differently in the same semester.
+BSI students cannot enroll in certain graduate-level SI courses if they have advanced knowledge.
+BSI students get writing help specific to research-based or technical topics through GSIs who are warm and provide a lot of help. Communication with the client and teammates is important, and the course uses random group assignments.
+There are no on-campus competitions or showcases for BSI students to pitch new app ideas or data solutions.
+The BSI student can expect to master basic coding skills in the course, but it may be challenging for those without coding background.
+The context does not provide information about whether BSI alumni remain involved with the program in ways that benefit current students.
+The course SI 690, which is offered in Fall 2025, requires approval from the UMSI Career Development Office for internship experiences. It is only available to MSI/MHI students with approved internships.
+The MSI Mastery Course (SI 699) requires a high level of independence from students to demonstrate synthesis of the major theories, methods, and approaches to inquiry and/or schools of practice necessary for entry into a particular career in the information professions.
+Yes, an MSI student who waived SI 506 via a skill-based test can waive SI 507 automatically.
+No.
+The MSI program requires a mid-program review or check-in with faculty.
+The provided context does not mention any advanced user experience classes in the MSI that incorporate front-end frameworks.
+The provided context does not mention whether an MSI student interested in library science has a dedicated LIS faculty mentor.
+The difference between SI 681 and SI 690 for MSI internships is that SI 690 is a selected practical experience opportunity for students who perform at least 60 hours of work in an internship, and enrollment in this course must be approved in advance by the UMSI Career Development Office.
+The provided context does not mention a recommended course sequence for the Big Data Analytics Pathway beyond the official prerequisites.
+The context does not provide information about the length of a typical mastery project during the final semester.
+Yes, MSI students can incorporate an external research lab project into their Mastery if it meets the learning objectives of the SI Project Experience course. However, they will not receive Mastery Course credit towards the degree.
+There are optional advanced bootcamps or intensives for MSI students wanting extra skill depth in Python or data pipelines, but they are only available to MSI/MHI students and retroactively registered for the course once their Spring/Summer internship proposal is approved by the Career Development Office.
+The context does not provide information about whether MSI allows part-time enrollment to extend beyond two years.
+The context does not provide information about the recruitment of MSI pathways to big tech or nonprofits or academia.
+The context does not provide information on whether the advanced data courses in the MSI require high-performance computing resources or not.
+Yes, MSI students can re-take a course they passed with a low grade to strengthen their understanding.
+MSI students form synergy between design, data, and policy through the Career and Internship Studio course, which integrates practice, peer coaching, facilitation, and reflection. Students will also be exposed to industry and alumni speakers.
+The provided context does not mention any mandatory workshops on professional ethics or anti-bias training in the MSI.
+The context does not provide information about whether UMSI holds networking nights specifically for niche fields like healthcare data or digital archives.
+The provided context does not mention whether students pursuing the Social Computing sub-focus can combine it with the Big Data track.
+MSI courses typically entail a reading load of around 2,000 words per unit, especially for conceptual classes.
+MSI's advanced programming courses are only available to MSI/MHI students who are retroactively registered after their Spring/Summer internship proposal is approved by the Career Development Office.
+The context does not provide information about alternative stats or data classes offered by MSI students if a course like SI 544 is full.
+The MSI program does not involve field trips to data centers, libraries, or design agencies.
+MSI students are assigned computing labs or cluster accounts for big data or machine-learning projects, which are required for the course SIADS 516.
+There is no information provided about specialized tutoring or peer mentorship programs for advanced MSI classes like 670 (ML) or 511 (special topics).
+The provided context does not mention whether the MSI program requires a final reflective essay or not.
+MSI advanced seminars can count up to 3 credits, but some may run at 1.5 or 2 credits.
+It depends on the specific requirements of the MSI Mastery Courses program. Some courses require students to demonstrate synthesis of major theories, methods, and approaches to inquiry and/or schools of practice necessary for entry into a particular career in the information professions, while others may allow for collaboration and sharing of project deliverables. It is recommended to check with the specific course or department for more information.
+There is no information provided in the given context about whether any MSI courses delve into the Internet of Things (IoT) or embedded system data collection.
+The context does not provide information on how an MSI student can join a cross-functional team competition that includes engineering or business students.
+The context does not provide information about MSI having study lounge hours or tutoring labs for coding and data queries.
+The context does not provide information on whether an MSI student owns the intellectual property of their published papers.
+The provided context does not mention any recommended advanced reading lists for each MSI pathway.
+No, an MSI student cannot graduate early if they unexpectedly finish the required 48 credits in three semesters.
+The provided context does not mention any MSI courses specifically training students for product management roles in tech.
+Instructors in the MSI program handle peer evaluations on group assignments as a mentor, facilitator, or advisor.
+The context does not provide information about MSI students facilitating skill workshops for undergraduates or the broader campus.
+The document contains evaluations of MSI courses from Chinese senior students to provide reference for future students when selecting courses.
+There is no recommended technique or platform for MSI students to track their competencies across multiple courses.
+The context does not provide information about whether the Master of Health Informatics program has a special orientation addressing clinical data and privacy laws (HIPAA).
+The MHI curriculum is anchored in face-to-face clinical experiences, with SI 690 being a selected practical experience opportunity for students who perform at least 60 hours of work under the supervision of an onsite supervisor.
+The context does not provide information about separate admission committees for MHI and the School of Public Health vs. School of Information.
+SI 624 is a course that focuses specifically on analyzing patient outcomes or large-scale population health data.
+Yes, an MHI student can take MSI courses like SI 507 to build upon the foundation provided by 506 and prepare for more advanced courses that require programming skills.

@@ -1,0 +1,85 @@
+Does the BSI program allow students to count any prior learning or non-UM credits toward the 60 upper-level requirement?
+Are there official BSI rubrics that faculty use to evaluate writing or presentation assignments?
+How does the BSI handle registration overrides for closed or waitlisted courses?
+When should BSI students declare their chosen pathway (IA or UX), and can they switch later?
+For BSI, are minors or certificate programs outside UMSI common, and can they fit into the 120-credit total for a bachelor's?
+Can BSI students use advanced placement (AP) credits to reduce general education courses and focus more on SI coursework?
+What types of analytical tools are taught in the BSI's data analysis coursework, aside from Python?
+Does the BSI have a special research track for undergraduates interested in academic or PhD pursuits?
+How do BSI students fulfill the advanced writing requirement at U-M?
+Are BSI students provided a recommended order for taking core courses, or can they rearrange them?
+Do BSI classes incorporate real client-based projects or do most rely on simulated scenarios?
+Is calculus or discrete math required for BSI admission, and does the program focus on advanced mathematics?
+Does the BSI have specific learning outcomes or competencies that all graduates are expected to master?
+Are there practical design studios in the BSI, similar to architecture or art schools, for prototyping and user testing?
+Do all BSI students take part in team-based projects each term, or are there semesters with mostly individual assignments?
+Do BSI students produce a senior thesis, or is the SI 405/407 and 485/487 Capstone the main culminating project?
+If a BSI student has large block transfers from a community college, how is the 120-credit total impacted?
+Are BSI exam formats mostly essay-based, multiple-choice, or project-based?
+Does the BSI require an oral defense or presentation of the final Capstone?
+How long do BSI group projects typically last, and how many students usually work together?
+Does the BSI program incorporate issues of data security and privacy throughout the coursework?
+Does UMSI ever cap BSI enrollment if demand exceeds capacity, or do they expand seats accordingly?
+Are there specialized BSI advising sessions addressing mental health and academic performance synergy?
+How do BSI instructors incorporate user interviews or usability testing for design-based assignments?
+Does the BSI sponsor hackathon-like competitions specifically for undergraduates?
+What is the typical class size for BSI core courses vs. upper-level electives?
+Can a BSI student blend both IA and UX pathways, or do they have to commit to just one?
+How often are BSI course offerings updated or revised to keep pace with new technology trends?
+Are BSI students required to compile a digital portfolio of their projects before graduation?
+Does the BSI support small-group career treks or site visits to local tech companies?
+Are BSI lectures recorded for later viewing if a student must miss class due to an emergency?
+Does the BSI have a formal code of conduct distinct from general UMSI or UM policies?
+Do BSI students typically do research under a faculty member, or is that more common in graduate programs?
+What kinds of assignment accommodations can BSI students request if they have scheduling conflicts or personal hardships?
+How do BSI students handle reading-intensive courses vs. project-intensive ones in the same semester?
+Can BSI students enroll in certain graduate-level SI courses if they have advanced knowledge?
+How do BSI students get writing help specific to research-based or technical topics?
+Are there on-campus competitions or showcases where BSI students can pitch new app ideas or data solutions?
+How quickly can a BSI student expect to master basic coding skills if they come in with no programming background?
+Do BSI alumni remain involved with the program in ways that benefit current students?
+Does the MSI require summer enrollment for any mastery prerequisites, or can all be completed in fall/winter terms?
+Does the MSI Mastery Course (SI 699) permit collaboration among multiple students, or must projects be completed solo?
+Can an MSI student who waived SI 506 via a skill-based test also waive SI 507 automatically?
+Do MSI students often double-count electives to earn stackable certificates from other UM units?
+Does the MSI program require a mid-program review or check-in with faculty?
+Are there advanced user experience classes in the MSI that incorporate front-end frameworks (React, Vue, etc.)?
+If an MSI student is interested in library science, do they have a dedicated LIS faculty mentor?
+What is the difference between SI 681 vs. SI 690 for MSI internships?
+Does the MSI program have a recommended course sequence for the Big Data Analytics Pathway beyond the official prerequisites?
+How long does a typical mastery project run during the final semester?
+Can MSI students incorporate an external (non-SI) research lab project into their Mastery if it meets the path's learning objectives?
+Are there optional advanced bootcamps or intensives for MSI students wanting extra skill depth in Python or data pipelines?
+Does the MSI allow part-time enrollment to extend beyond two years?
+Are some MSI pathways more heavily recruited by big tech, while others appeal to nonprofits or academia?
+Do the advanced data courses in the MSI require high-performance computing resources, and does UMSI provide them?
+Can an MSI student re-take a course they passed with a low grade to strengthen their understanding?
+How do MSI students form synergy between design, data, and policy if they want a custom interdisciplinary path?
+Are there mandatory workshops on professional ethics or anti-bias training in the MSI?
+Does the MSI hold networking nights specifically for niche fields, like healthcare data or digital archives?
+Can students pursuing the Social Computing sub-focus combine it with the Big Data track?
+What reading load do MSI courses typically entail, especially for policy or conceptual classes?
+Are the MSI's advanced programming courses accessible to those who only started coding in grad school?
+If a course like SI 544 is full, do MSI students have alternative stats or data classes that fulfill that same requirement?
+Does the MSI program involve field trips to data centers, libraries, or design agencies?
+How are computing labs or cluster accounts assigned to MSI students for big data or machine-learning projects?
+Are there specialized tutoring or peer mentorship programs for advanced MSI classes like 670 (ML) or 511 (special topics)?
+Does the MSI require a final reflective essay separate from the Mastery project?
+Are MSI advanced seminars always 3 credits, or do some run at 1.5 or 2 credits?
+Can two MSI students share a single Mastery project deliverable if they have overlapping research interests?
+Do any MSI courses delve into the Internet of Things (IoT) or embedded system data collection?
+How can an MSI student join a cross-functional team competition (like data challenges) that includes engineering or business students?
+Does the MSI have "study lounge hours" or tutoring labs for coding and data queries?
+If an MSI student's research leads to published papers, do they own the intellectual property, or does UMSI?
+Are there recommended advanced reading lists for each MSI pathway, or is reading assigned at the individual course level?
+If an MSI student unexpectedly finishes the required 48 credits in three semesters, can they graduate early?
+Do any MSI courses specifically train students for product management roles in tech?
+How do instructors in the MSI handle peer evaluations on group assignments?
+Are there opportunities for MSI students to facilitate skill workshops for undergraduates or the broader campus?
+Does the MSI gather exit feedback from graduating students to update the curriculum?
+Is there a recommended technique or platform for MSI students to track their competencies across multiple courses?
+Does the Master of Health Informatics program have a special orientation addressing clinical data and privacy laws (HIPAA)?
+What proportion of the MHI curriculum is anchored in face-to-face clinical experiences, if any?
+Are there separate admissions committees for MHI from the School of Public Health vs. School of Information?
+Which MHI courses focus specifically on analyzing patient outcomes or large-scale population health data?
+If an MHI student wants more background on programming, can they take MSI courses like SI 507?

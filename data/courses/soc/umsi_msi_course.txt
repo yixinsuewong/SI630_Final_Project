@@ -1,0 +1,1686 @@
+Semester: Fall 2025
+Department: SI
+Course: SI 500
+Title: Problem-solving with People, Information, & Technology
+(Prob-solve w/ info)
+Units: 3
+Description: Many problems facing society today involve information, from the small and mundane to the large and socially complex. Students learn and apply interdisciplinary problem-solving and team-based techniques to identify problems involving information, investigate them, and design potential solutions. This course develops foundational skills essential for future information professionals. 
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: New Fall 2024 
+Replacing SI 501
+Syllabus: SI 500 Syllabus (Link: https://drive.google.com/drive/folders/1hLC8D4RCoKuGQEgyU2qaxLBjvhkqlUlP)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 504
+Title: Servers, The Shell, and Git 
+(Servers, Shell,&Git)
+Units: 1.5
+Description: This course will introduce students to common tasks completed in the shell including: executing standard linux commands, interacting with package management systems, and utilizing git for version control. Students will use git for individual and collaborative work, with emphasis on handling merge requests and branches.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 504 Syllabus (Link: https://drive.google.com/drive/folders/1l4bjXyaQbGl70nKaQZGEcbX_DcmV3HBZ?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 505
+Title: Career and Internship Studio: Design Your Success 
+(Career/Intern Studio)
+Units: 1
+Description: In this course, students will engage in a synthesis of knowledge and skill formation as well as practice in internship / career readiness and professional development.
+This course will integrate practice, as well as peer coaching and facilitation in small group activities and reflection. Students will also be exposed to various industry and alumni speakers.
+At the end of this course students will be able to articulate and implement professional development and career readiness skills that provide for the foundation of success in the internship search, the internship experience, as well as future professional environments.
+Typically Offered: Fall (2nd half)
+Last Offered: Fall 2025
+Notes: Available to first year MSI & MHI students only. 
+
+7 week course 
+Syllabus: SI 505 Syllabus (Link: https://drive.google.com/drive/folders/1EOqGD3mhayWDNAesualsTxFiT-NGKA--?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 506
+Title: Programming I 
+(Programming I)
+Units: 3
+Description: Introduction to Python programming with a focus on applications informatics. Covers the fundamental elements of a modern programming language and how to access data on the internet. Explores how humans and technology complement one another, including techniques used to coordinate groups of people working together on software development.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 506 Syllabus (Link: https://drive.google.com/drive/folders/1psYuhQm1NQqvINJwnG_Zv04yHRgJMOSt?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 507
+Title: Intermediate Programming 
+(Inter Programming)
+Units: 3
+Enforced Prerequisites: [(SI 506 or waiver) and (preceded or accompanied by SI 504 or waiver); (C-> or better)] or Graduate Standing Excluding UMSI Programs
+Description: The purpose of this course is to build upon the foundation provided by 506 and prepare students for more advanced courses that require programming skills. In particular, students in 507 will further develop core programming and software development skills, including: basic data structures, gathering and processing data, interactive programming, debugging the testing, using distributed code repositories, and object-oriented design. By the end of this course, students should be comfortable writing 500-1000 line object-oriented programs including data processing and interactivity, incorporate and integrate multiple third-party packages, and write effective test cases to validate a functional specification.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 507 Syllabus (Link: https://drive.google.com/drive/folders/1r2MUfiI-8YTJILVf6m8hs82rMp67d5MY?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 510
+Title: Information Ethics 
+(Information Ethics)
+Units: 3
+Description: Intensive review of ethical challenges bearing down on information professionals. Ethics are positioned as a foundation of professional identity while acknowledging that this foundation is undergoing critical evaluation and transformation. Contemporary controversies and conflicts are drawn upon that touch all MSI program areas and bring key issues into sharp relief.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 510 Syllabus (Link: https://drive.google.com/drive/folders/1xS-tLiuiiR-S4BDdRtqFzm1p7-wsPmTB?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 511
+Title: Special Topics
+Units: 1-6
+Description: Special Topics in Information
+Typically Offered: As Needed
+Last Offered: Fall 2025
+Syllabus: SI 511 Syllabi (Link: https://drive.google.com/drive/folders/197PzNnJ7MtSQODpPm32RV63RG7Z-XN8T)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 514
+Title: Special Topics
+Units: 1-6
+Description: Special topics
+Last Offered: Fall 2018
+Syllabus: SI 501 Syllabus
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 515
+Title: Motion Capture for Interaction Design
+MOCAP Interac Design
+
+[Owned by School of Music, Theatre & Dance]
+Units: 3
+Description: Students are introduced to motion capture methods, including acoustic tracking, inertial sensing, and visual motion tracking. Students explore each form of motion capture before completing a final project of their own design. Final projects might consist of an interactive game, a digital musical instrument or an interactive installation.
+Typically Offered: Winter
+Last Offered: Fall 2023
+Cross Listed: PAT 515
+Home Department: School of Music, Theatre & Dance
+
+Semester: Fall 2025
+Department: SI
+Course: SI 519
+Title: Intellectual Property and Information Law 
+(Intellectual Property and Information Law)
+Units: 3
+Description: This course explores related and sometimes competing legal and policy frameworks for the development and dissemination of ideas, and expression, and data in the Information Age. We will examine copyright, patent, and trademark law - as well as speech and privacy. We will look at ways in which principles of free speech and expression relate to intellectual property rights - and how these legal concepts are related to the advancement of knowledge and innovation. We will focus on these areas in a political and social context -- and their interrelation to the Internet and evolving technologies. We will consider the impact of ethics and values on the development and dissemination of ideas and information (such as security, privacy, local control v. national and international considerations, competition, and the protection of minors). The course will draw from the contexts of education, business, and government, with a special emphasis on the changing nature, roles and responsibilities of educational institutions. Each term starts with a conversation about students' particular interests, and the course is tailored appropriately where possible. Special topics from students have included cosplay, plant genetics, and fan fiction in the context of the course's themes.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 519 Syllabus (Link: https://drive.google.com/drive/folders/15j6QQ-E9vko0WDmYL1jOmISK5NiW1JxY?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 520
+Title: Graphic Design and Visual Communications 
+(Graphic Design)
+Units: 3
+Description: The conceptual part of the course covers the graphic design theory discourse. Students will reinforce the practical application of critical thinking, analyze and process of making and conceptualizing, learn how to "read" designs and how to apply them into a broader cultural, technological, and social context. In the hands-on part of the course, students will gain necessary software skills, learn how to follow or establish brand/identity guidelines, prepare work for print or web production, and select the right tools, media, and budget for their projects.  Students will improve their aesthetic sensibilities and design skills through mastering visual language vocabularies, understanding principles of effective visual communications, solving creative problems, and developing analytical thinking, promoting thus their ability to respond professionally to rapidly changing needs of the modern world.  Students should have familiarity with MS Office or iWork, Adobe Acrobat or Preview.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 520 Syllabus (Link: https://drive.google.com/drive/folders/1Q2nVNYLiJIAY0_TKUFxZO2SEWX647q_Q?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 521
+Title: Advanced Psychoacoustics  
+(Adv Psychoacoustics)
+
+[Owned by School of Music, Theatre & Dance]
+Units: 3
+Advisory Prerequisites: PAT 102 or permission of instructor
+Description: This course will focus on psychoacoustics, the study of how we perceive sounds.  Topics covered will include the anatomy and physiology of the ear, the perception of simple and complex sounds, ecological acoustics and auditory scene analysis.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Instructor Consent Required 
+Cross Listed: PAT 521
+Home Department: PAT
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 529
+Title: Online Communities (Online Communities)
+Units: 3
+Description: This course is intended to give students a background in theory and practice surrounding online interaction environments.  For the purpose of the course, a community is defined as a group of people who sustain interaction over time.  The group may be held together by a common identity, a collective purpose, or merely by the individual utility gained from the interactions.  An online interaction environment is an electronic forum, accessed through computers or other electronic devices, in which community members can conduct some or all of their interactions.  We will use the term eCommunity as shorthand, both for communities that conduct all of their interactions online and for communities that use online interaction to supplement face-to-face interactions.
+There will be two main treads that weave through the course, based on the two main texts.  One tread will be concerned with the practical issues of design and use of online tools to support communities, and how choices that must be made in design can impact the function and style of the resulting community.  The second thread will focus on the sociological theory that provides a frame to better understand communities in general.  These theoretical pieces will provide a lens for better understanding the implications of choices made on the more practical level.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 529 Syllabus (Link: https://drive.google.com/drive/folders/1inI9eqjCUbc_UhGIxGDZFfx3bG3wR_FF?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 530
+Title: Principles in Management 
+(Prin in Management)
+Units: 3
+Description: This course provides a foundation in management for information professionals interested in working in for-profit or non-profit organizations.  In this course students will learn about management principles (e.g. planning, organizing, leading, controlling).  Having a firm grasp of the principles is the first step.  This is a skills based course, so students are expected to apply what they learn in class by reading and analyzing case studies.  At all times students will be required to take on various roles (e.g. manager, employee, supplier, customer, competitor) to outline the issues managers face, evaluate managers' responses, and provide alternative courses of action.
+Typically Offered: Winter
+Last Offered: Winter 2022
+Syllabus: SI 530 Syllabus (Link: https://drive.google.com/drive/folders/14b0uyV3gvvks1SlPyzHp_z8Q7IYlYk24?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 534
+Title: Theories of Social Influence 
+(Theories Soc Influen)
+Units: 3
+Description: This course introduces the major theories of social influence in psychology and economics so that you may become a better decision architect and an effective leader. In this course we will learn why and under the conditions in individual's thoughts and actions can be influenced by those around them. We will touch on related theoretical ground in economics and in psychology but focus heavily on the empirical findings and how they can be applied to design and management tasks. The primary goal of this course is to realize a detailed picture of the traditional and contemporary thinking on this topic as it is addressed in economics and in social psychology and to have you applying the tools of influence from day one.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 534 Syllabus (Link: https://drive.google.com/drive/folders/1ol3q1CwUeBECF_XqUQTEKJQGkNiEV2qA?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 536
+Title: Introduction to Urban Informatics 
+(Intro to Urbn Inform)
+
+[Owned by Taubman College of Architecture and Urban Planning]
+Units: 3
+Description: This course provides students an introduction to the emerging field of urban informatics, an interdisciplinary field of research and practice that uses information technology for the analysis, management, planning, inhabitation, and usability of cities. Given these diverse application areas, the course is centered on a series of hands-on technical labs which are designed to build on the knowledge typically covered in a standard course in statistics. Lab topics include the use of databases, application programming interfaces, and web-based visualization and spatial data analysis. It is intended to serve as an introduction for more advanced coursework in databases, GIS, or data analysis. Seminar and lecture sessions cover topics related to the context and practice models associated with urban technologies, including civic technology, indicators, smart cities, and performance management.
+Typically Offered: Fall
+Last Offered: Winter 2025
+Cross Listed: URP 535
+Home Department: Architecture & Urban Planning
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 538
+Title: Citizen Interaction Design 
+(Citizen Inter Design)
+Units: 4
+Description: This course aims to create information tools that support 21st-century citizenship. This is a project-based, experiential learning course where students apply their skills to create information products in partnership with a Michigan community. Students will work with partners in Michigan communities to deliver information tools and services that foster an engaged citizenry. Students will work in teams, travel to the partner community, and have support of administrative staff to manage projects.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 538 Syllabus (Link: https://drive.google.com/drive/folders/1K1m51xY3eYhL_d-IwpJVvEmtVd-C8fel?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 539
+Title: Web Design: Responsiveness and Accessibility 
+(Web Design)
+Units: 3
+Enforced Prerequisites: Preceeded or accompanied by SI 506 or SI 506 waiver; (C- or better). Or Graduate Standing excluding UMSI Programs
+Description: The purpose of this course is to provide students with all necessary frontend development skills for designing and building responsive and accessible websites. Topics include recent changes to HTML, CSS and WCAG standards, media-queries, responsive frameworks, and manual and automated testing.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 539 Syllabus (Link: https://drive.google.com/drive/folders/1ElELsWS0n4yw9hGVloVkB1gmF5fZyBt_?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 540
+Title: Privacy in Information Technology 
+(Privacy in Info Tech)
+Units: 3
+Description: This course explores privacy and data protection in information technologies. Students will gain a critical understanding of privacy's role in society and tension between privacy, technology and secure. Students will learn to analyze privacy issues and design privacy-friendly and usable solutions by considering social, technical, legal and public policy aspects. 
+The course starts with a historical perspective on privacy and the tensions between privacy, technology and security as well as discourse on aspects affected privacy decisions of individuals. This is followed by an overview of the privacy laws and regulations in the United States and Europe, and other countries or even between sectors. The second half of the course focuses on the design of privacy-friendly systems under considerations of legal and regulatory requirements, technological safeguards and challenges, human factors, and organizational measures,
+Typically Offered: Alternating Winter terms
+(even years)
+Last Offered: Winter 2025
+Syllabus: SI 540 Syllabus (Link: https://drive.google.com/drive/folders/1R9wqrt9ZB2TawlgvNQKHyMEPM9pzfxvu?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms (evaluate if needed each term)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 542
+Title: Introduction to Health Informatics 
+(Intro to Health Infor)
+Units: 3
+Enforced Prerequisites: Graduate Standing
+Advisory Prerequisites: Graduate standing
+Description: Introduction to concepts and practices of health informatics. Topics include: a) major applications and commercial vendors; b) decision support methods and technologies; c) analysis, design, implementation, and evaluation of healthcare information systems; and d) new opportunities and emerging trends.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Home department will be SI beginning Fall 2023. 
+Syllabus: SI 542 Syllabus (Link: https://drive.google.com/drive/folders/1_Q-a_CNeQfLTioC3XVN7NbmG7rR694-W?usp=share_link)
+Cross Listed: HMP 668 BIOINF 668 LHS 668
+Home Department: SI
+Primary Requisite: 017838-MSI, MHI, GCHI
+Additional Requisite: LHS 668: 014652 - HILS
+
+Semester: Fall 2025
+Department: SI
+Course: SI 544
+Title: Introduction to Statistics and Data Analysis 
+(Intr Stat&Data Analy)
+Units: 3
+Description: The purpose of this class will be to provide students with a basic understanding of statistics, that is the ability to describe various populations and draw inferences about them.  It should also sharpen individual intuition about how to read data, interpret data, and judge others' claims about data.  It should be useful to a wide variety of students both as preparation for more advanced courses and as a means to professional advancement.
+Specifically, skills to be developed are:
+1. Abilities to characterize population data intuitively for oneself and others.  2. Ability to draw conclusions and novel inferences from population data.  3. Ability to check assumptions of others' claims and debug their putative "facts".  4. Ability to look for correlations while controlling for confounding effects.  5. Overall, the chief objective is to demystify the process of inquiry into what isn't known.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 544 Syllabus (Link: https://drive.google.com/drive/folders/1HKGC7MQNYIePArsxFJHt8cWr6bD_itV-?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 547
+Title: Engaging with Communities 
+(Engage w/Communities)
+Units: 3
+Description: Information-based community engagement work requires a special set of knowledge, skills, context sensitivity, self-awareness, and comportment. This course provides multidisciplinary approaches to soliciting, identifying, and meeting community needs to ensure truly collaborative endeavors. As a client-based course, it examines the principles, methods, and ethics to respectful, informed, and beneficial community collaboration across the engagement's lifecycle. It will highlight contextual inquiry, relevant data gathering and analysis methodologies, user centered design, project management, conflict resolution, relationship building, and other approaches to join student skillsets with community knowledge and expertise to best ensure pertinent, usable, and sustainable inputs. We will unpack key issues that can enhance, impair, and even derail engagement such as power dynamics, trust, social identities, race and class, and cultural and professional humility. Understanding community members' wants, needs, and aspirations can help information-based projects have greater impact, value, and enhance prospects for adoption and sustainability.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 547 Syllabus (Link: https://drive.google.com/drive/folders/1Ybqo2goUc4sea0mt71PJIfr2hIrrH0kW?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 548
+Title:  Principles of Software Design for Learning
+ (Prin Soft Design)
+
+[Owned by Marsal School of Education]
+Units: 3
+Advisory Prerequisites: 601/PREV/CONC
+Description: Students are introduced to the process of designing computer-based learning environments.  Students work in groups to design and prototype learning environments for real classrooms.  Attention is focused on ensuring designs are based upon sound pedagogical theory and that learning environments are embedded into curriculum.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Cross Listed: EDUC 626
+Home Department: EDUC
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 549
+Title: Transformative Learning and Teaching with Technology 
+(Trfrm Lrng Tchg Tech)
+
+[Owned by Marsal School of Education]
+Units: 3
+Description: What role does technology play in high-performance learning and teaching environments?  What are the most common mistakes schools, parents, and communities make when integrating technology into learning and teaching?  How does policy at the federal, state, local, and institutional level affect what is possible with technology?  We will explore the answers to these questions in this class as we examine ways technology has been used successfully (and not so successfully) in a variety of educational contexts.  Students are encouraged to develop critical perspectives about the uses of technology for learning and teaching.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Graded S/U
+Syllabus: SI 549 Syllabus (Link: https://drive.google.com/drive/folders/1dtNVyPsmJWFI6bqtv93XV8ApuvIukcat?usp=share_link)
+Cross Listed: EDUC 601
+Home Department: EDUC
+Primary Requisite: 000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 552
+Title: Introduction to Accessibility 
+(Accessibility Intro)
+Units: 3
+Description: This class is an introduction to accessibility. Students will engage in discourse on several models of disability, be exposed to different types of assistive technologies, and apply what they learn to real-world accessibility and technology challenges.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 552 Syllabus (Link: https://drive.google.com/drive/folders/1NqkHV3r4GCxDYmDHO_SQ8WPOE_SiSWNC?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 554
+Title: Consumer Health Informatics 
+(Consumer Hlth Inform)
+Units: 3
+Description: Consumer health informatics (CHI) gives health care consumers information and tools to facilitate their engagement.  Students will become familiar with, and evaluate, a range of CHI applications.  They will also assess the needs and technological practices of potential users, generate theory-informed design and implementation strategies, and select appropriate evaluation approaches.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 554 Syllabus (Link: https://drive.google.com/drive/folders/13pUfn1Qj73NXwbZWxBQTzT-aGhD3DlWW?usp=share_link)
+Cross Listed: HBHEQ 654
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 559
+Title: Introduction to AR/VR Application Design 
+(AR/VR Intro)
+Units: 3
+Description: This course will introduce students to Augmented Reality (AR) and Virtual Reality (VR) interfaces. This course covers basic concepts; students will create two mini-projects, one focused on AR and one on VR, using prototyping tools. The course requires neither special background nor programming experience.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 559 Syllabus (Link: https://drive.google.com/drive/folders/1KECAMLFdhkDcb_WUoXV9vCsldYd5Rm9h?usp=share_link)
+Primary Requisite: 018296 - MSI, MHI, & XR Cert
+
+Semester: Fall 2025
+Department: SI
+Course: SI 561
+Title: Natural Language Processing 
+(Nat Lang Proc)
+
+[Owned by EECS]
+Units: 3
+Advisory Prerequisites: Senior standing
+Description: Linguistics fundamentals of natural language processing (NLP), part of speech tagging, hidden Markov models, syntax and parsing, lexical semantics, compositional semantics, word sense disambiguation, machine translation. Additional topics such as sentiment analysis, text generation, and deep learning for NLP>
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 561 Syllabus (Link: https://drive.google.com/drive/folders/11lF0BknCulxwclRvM7VbNdZiXBH0lrz0?usp=share_link)
+Cross Listed: EECS 595 
+LING 541
+Home Department: EECS
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 563
+Title: Game Theory 
+(Game Theory)
+Units: 3
+Description: Simply knowing that people behave strategically is not a recipe for success, but acquiring a framework for strategic thinking is.  This course gives students the competitive edge to anticipate, formulate and analyze strategic interactions.  You will learn how to acquire and process information to act effectively in strategic situations, based on analysis of the motivations of other participants.  You will also learn how to incentivize the motivate users, collaborators and customers to further the objectives of an organization, community or society.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 563 Syllabus (Link: https://drive.google.com/drive/folders/1maSs1bpFz3IU1AG5GfFKOrW5j7pH0YJI?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 564
+Title: SQL and Databases 
+(SQL I)
+Units: 1.5
+Description: This course will introduce the students to beginning and intermediate database concepts to prepare the student to use databases as part of a data analysis workflow. The students will learn data modelling, SQL Syntax, understanding how to evaluate different database systems for suitability, how to evaluate and improve the performance of database operations, how to use a database in a multi-step analysis process.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 564 Syllabus (Link: https://drive.google.com/drive/folders/10TKrnrRwFQdsnhfScEWaTMMvW3GxlGfr?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 568
+Title: Becoming a Data Scientist
+(Becoming Data Sci)
+Units: 1.5
+Enforced Prerequisites: Preceded or accompanied by SI 618 or waiver; (C- or better)
+Description: This course provides a foundational introduction to the field of data science, equipping students with essential technical skills and an understanding of the human and ethical dimensions of the profession. Through a combination of hands-on activities, programming projects, and scenario planning, students will develop awareness for the skills needed in this career track. The course emphasizes practical programming skills and ethical case studies. These exercises are designed to reinforce core concepts and prepare students for more advanced applications in data science.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Changing to 1.5 credits beginning Winter 2024 Term. 
+
+Course title and description updated beginning Winter 2025 Term.
+Syllabus: SI 568 Syllabus (Link: https://drive.google.com/drive/folders/1jnsMdKn_iGozG4YgM4-N7I2T_sI3i6P2?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 569
+Title: Creating XR Experiences
+(CREATE XR EXP)
+Units: 3
+Enforced Prerequisites: Preceded or accompanied by SI 559 (C- or better)
+Description: Students gain hands-on experience with XR project management, design, development, and evaluation by working with clients from various U-M units to create XR experiences related to research and instructional programs. Weekly class lectures, readings, discussions, and assignments help to build skills and knowledge needed for creating successful XR experiences.
+Typically Offered: --
+Last Offered: Winter 2025
+Notes: Registration by application only - Winter 2025 Application Form
+Syllabus: SI 569 Syllabus (Link: https://drive.google.com/drive/folders/1vRHZ_ke_OqTKsFIs2DinZt5bW1R2BZ4M)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 574
+Title: Health Informatics Program Seminar 
+(Hl Program Seminar)
+Units: 1-2
+Advisory Prerequisites: SI 573 / PUBHLTH 573
+Description: This course is a requirement for second year students in the Master of Health Informatics program.  It focuses on reflection and presentations associated with the internship experience.  Presentation and constructive feedback as aspects of leadership will be emphasized.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 574 Syllabus (Link: https://drive.google.com/drive/folders/1SzR871v11IrgKqOHq8opR7Xnl3wNEn2A?usp=share_link)
+Primary Requisite: 017161 - MHI Students 
+
+Semester: Fall 2025
+Department: SI
+Course: SI 579
+Title: Building Interactive Applications 
+(Bldg Interactive App)
+Units: 3
+Enforced Prerequisites: (SI 506 or waiver) and [preceded or accompanied by (SI 539 or waiver) and (SI 504 or waiver)]; (C- or better)
+Description: This course introduces tools and techniques for building user interfaces that are reactive and responsive. It covers a variety of design heuristics for creating interfaces that are usable and accessible. It also teaches software design patterns to implement user interfaces at scale.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 579 Syllabus (Link: https://drive.google.com/drive/folders/1CgHmuhsedbVcYzAetce__X9x07LTROuY?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 580
+Title: Understanding Records and Archives 
+(Records & Archives)
+Units: 3
+Description: Provides an understanding of why societies, cultures, organizations, and individuals create and keep records.  Presents cornerstone terminology, concepts, and practices used in records management and archival administration.  Examines the evolution of methods and technologies used to create, store, organize, and preserve records and the ways in which organizations and individuals are archives and records for ongoing operations, accountability, research, litigation, and organizational memory.  Participants become familiar with the legal, policy, and ethical issues surrounding records and archives administration and become conversant with the structure, organization, and literature of the archival and records management professions.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 580 Syllabus (Link: https://drive.google.com/drive/folders/1YLdUBrIm6Lmx5M8Wh_1SIRxZp6g8HrpP?usp=share_link)
+Cross Listed: HISTORY 600
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 581
+Title: Preserving Information Resources in a Digital Age 
+(Pres Info Resources)
+Units: 3
+Enforced Prerequisites: SI 580 or SI 647; (C- or better)
+Description: With a special focus on libraries, archives, & research collections, this course provides a comprehensive overview of information preservation. It will cover basic concepts, challenges, assessment methodologies, and good practices of preservation for continued access by present and future users. Preservation is discussed both as a distinct function and as an embedded feature of key information processing & dissemination. Students will explore core principles of preservation management and current trends & issues related to preservation and sustainability of digital collections.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Beginning in Fall 2024, SI 580 and SI 647 were added as prerequisite options for this course.
+Syllabus: SI 581 Syllabus (Link: https://drive.google.com/drive/folders/1uWiFRYI3ZCId88a9d27uuWhx7RUtVqvC?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 582
+Title: Introduction to Interaction Design 
+(Intro Interac Design)
+Units: 3
+Description: This course will provide students with a hands-on introduction to interaction design. The course will focus on design methods and design thinking, and will allow students to develop their design sensibilities and practical skills through a series of design exercises. The course will cover individual and group ideation techniques; and contemporary perspectives on interaction design for common platforms (e.g., web, desktop, tablet, mobile, and beyond).
+The course will combine readings, lectures, and in-class exercises to convey and reinforce the intellectual content. Individual and group assignments will provide an opportunity to engage more deeply with the material. The course work may include substantial individual/group project at the end of the course or a semester-long individual project. In-class presentations, along with group critique will allow students to receive feedback from peers and instructors to improve and refine their craft. In-class discussions will rely heavily on concrete examples that are analyzed and critiqued by students and instructors alike, and are used to illustrate and reinforce the course content.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 582 Syllabus (Link: https://drive.google.com/drive/folders/1UpMt-pAbGWGzBshFkBe5TOIPdnNWcLk9?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 583
+Title: Managing Accountability Through Recordkeeping 
+(Info Accountability)
+Units: 3
+Description: Intensive overview for managing information as a critical organizational asset and the various accountability risks associated with their neglect. Social, legal, and policy requirements such as trust, evidence, compliance, and social transformation will be examined alongside ongoing tensions between preservation and destruction, secrecy and transparency, and privacy and openness.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 583 Syllabus (Link: https://drive.google.com/drive/folders/1PQkLIKNwc7SB3JL9ZxfqFHe_O6Ih3KJu?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 585
+Title: Scholarly Communication 
+(Scholarly Comm)
+Units: 3
+Enforced Prerequisites: SI 580 or SI 647; (C- or better)
+Description: Covers the production, access, and evaluation of scholarly information in print and digital formats. Focuses on current and historical challenges and opportunities, with emphasis on open access, peer review, modes of disseminating research and data, and the critical role of information institutions and professions in the scholarly communication landscape.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 585 Syllabus (Link: https://drive.google.com/drive/folders/1TGFH8LFkGky9aXw5ZavZ6xF6mnzzTf9x?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 588
+Title: Principles of User Experience
+(Foundations UX)
+Units: 3
+Description: Surveys basic principles of cognitive and social psychology relevant to the design and use of information systems. Focuses on important findings in social science and their implications for the design and use of information systems. Topics include the basics of human perception, memory capacity and organization, the development of skill and expertise, characteristics of everyday reasoning and decision making, social influences on behavior, and the role of emotion in user experience.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Beginning in Fall 2024 this course has a new title (previously Fundamentals of Human Behavior).
+Syllabus: SI 588 Syllabus (Link: https://drive.google.com/drive/folders/1RDGeOFryDsyjS6zuVsjuzTxNMfDhBYE2?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 591
+Title: Humanitarian Innovation 
+(Humanitarian Innov)
+Units: 3
+Description: Explore the role that innovation can and does play in how community development (e.g. refugee resettlement) works in the United States. This class will focus on participatory approaches for innovation, with particular attention to issues of power, gender, inclusion and psycho-social well-being. Students will work in teams to understand current challenges in selected resettlement communities, practice co-design and prototyping skills as they attempt to solve a specific design challenge, and develop tools for enhancing co-creation among various actors in the humanitarian space in SE Ml.
+
+Typically Offered: --
+Last Offered: Winter 2025
+Syllabus: SI 591 Syllabus (Link: https://drive.google.com/drive/folders/1nbCdh_rG7J4-zgpGBgMO5swm0_giah6o)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 599
+Title: SI Project Experience
+(SI Project)
+Units: 3
+Enforced Prerequisites: Graduate Standing
+Description: This project-based course requires students to demonstrate synthesis of the major theories, methods, and approaches to inquiry and/or schools of practice necessary for entry into a particular career in the information professions. Topic is assigned by section - meets concurrently with the corresponding section of 699. *Students enrolled in 599 will NOT receive Mastery Course credit towards the MSI degree*
+
+Semester: Fall 2025
+Department: SI
+Course: SI 594
+Title: Automotive User Experience
+(Auto UX)
+Units: 3
+Enforced Prerequisites: SI 582 or waiver; (C- or better)
+Description: This course provides hands-on experience with the best practices and theory that exist within Automotive User Experience (UX) design space. Students will be asked to create designs of their own to convey their understanding.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: New in Winter 2024!
+Syllabus: SI 594 Syllabus (Link: https://drive.google.com/drive/folders/1X65BUG5xTfGk1hoxJqzph1FeHZKR9Pky)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 597
+Title: Research Foundations for MTOP
+(MTOP Foundations)
+Units: 2
+Enforced Prerequisites: MTOP students only
+Description: This MTOP course focuses on formulating good research questions; conducting a literature search; writing a literature review; engaging with theory; and framing a research paper. Students will learn the theory and practice of these aspects of doing research. Many of the course assignments are intended to help students make progress on their own master’s thesis projects. This course is partly intended to create a sense of an MTOP cohort. A portion of the classroom time will be spent on discussions about how each student’s master’s thesis projects are going.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: New in Fall 2025
+
+Semester: Fall 2025
+Department: SI
+Course: SI 602
+Title: Mathematical Foundations for Applied Data Science
+(Math for ApplDataSci)
+Units: 3
+Enforced Prerequisites: (SI 504 or waiver), (SI 506 or SI 506 waiver), and (SI 544 or SI 544 waiver); (C- or better)
+Description: This course builds and strengthens the mathematical foundations required to succeed in applied data science. The course will review fundamental concepts in statistics, probability, linear algebra, and calculus, and demonstrate how these concepts are applied to core approaches in data analysis.
+Typically Offered: Winter
+Last Offered: Fall 2025
+Syllabus: SI 602 Syllabus (Link: https://drive.google.com/drive/folders/1a-CAC1Sbj8HUC4xQmhQg45ukIX8nNAYO)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 605
+Title: Interdisciplinary Problem Solving 
+(Interdisc Prob Solv)
+
+[Owned by the Law School]
+Units: 3
+Advisory Prerequisites: Graduate/Professional Standing
+Description: "Interdisciplinary Problem Solving" is a course offered at the Law School through the Problem Solving Initiative (PSI). (https://problemsolving.law.umich.edu/)  Through a team-based, experiential, and interdisciplinary learning model, small groups of U-M graduate and professional students work with faculty to explore and offer solutions to emerging, complex problems.
+Typically Offered: Fall
+Winter
+Last Offered: Winter 2025
+Notes: 
+Application Required. See topics here:
+
+https://problemsolving.law.umich.edu/
+Cross Listed: LAW-741 EAS-731 ECON-741 PUBPOL-710 PUBHLTH-741 SW-741 EDUC-717 
+Home Department: LAW
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 608
+Title: Networks 
+(Networks)
+Units: 3
+Enforced Prerequisites: [(SI 507 or SI 507 waiver) and (preceded or accompanied by SI 618 or waiver)]; (C- or better) or Graduate Standing in Applied Statistics, M.S. Data Science, or Engineering
+Description: This course will cover topics in network analysis, from social networks to applications in information networks such as the internet.  We will introduce basic concepts in network theory, discuss metric and models, use software analysis tools to experiment with a wide variety of real-world network data, and study applications to areas such as information retrieval.  For their final project, the students will apply the concepts learned in class to networks of interest to them.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 608 Syllabus (Link: https://drive.google.com/drive/folders/1xlbY-U3RG36ECh2zsNrbbWdLhrVpyIXT)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 610
+Title: Advanced Digital Studies Seminar 
+(Dig Studies Seminar)
+
+[Owned by LSA]
+Units: 3
+Description: This graduate theory seminar provides a comprehensive and introduction to the major theories, themes and issues in Digital Studies. The course focuses on key canonical and contemporary texts in this emerging field. This course or its equivalent is required for student who wish to receive the Digital Studies Graduate Certificate.
+Typically Offered: --
+Last Offered: Fall 2024
+Syllabus: SI 610 Syllabus (Link: https://drive.google.com/drive/folders/1xlbY-U3RG36ECh2zsNrbbWdLhrVpyIXT?usp=share_link)
+Cross Listed: AMCULT 610 COMM 610 FTVM 610 ENGLISH 610 DIGITAL 610
+Home Department: AMCULT
+
+Semester: Fall 2025
+Department: SI
+Course: SI 611
+Title: Special Topics in Information 
+(Spec Topics in Info)
+Units: nan
+Enforced Prerequisites: Varies by topic
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+
+Semester: Fall 2025
+Department: SI
+Course: SI 612
+Title: Pervasive Interaction Design 
+(Pervasv Interact Des)
+Units: 3
+Enforced Prerequisites: SI 582 or waiver; (C- or better)
+Advisory Prerequisites: SI 622
+Description: This course is advanced interaction design course the focuses on designing interactive applications for emerging mobile and context-aware technologies.  It follows a similar format to 582 (Interaction Design) in that course is studio-based, consists largely of a seminar-long group project with multiple milestones, and is supplemented by readings and discussion relevant to the topic.  Class meetings consist of brief lectures to introduce and frame course concepts, design methods, and technical tools; discussion of readings; in-class design exercises; and group work/lab time.  Some programming will be required in order to complete prototyping activities, though students have flexibility in choosing the platforms and languages used.  Programming will not be taught in the course.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 612 Syllabus (Link: https://drive.google.com/drive/folders/1lcSZgU8ESkOB2Qy6IqKpSNXPKs7VCAD7?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 616
+Title: Advanced Topics in Graphic Design and Communication 
+(Adv Graphic Design)
+Units: 3
+Enforced Prerequisites: SI 520 or 520 waiver; (C- or better)
+Advisory Prerequisites: SI 539, 622, and 639 or currently are strongly recommended
+Description: This multidisciplinary, hybrid course is for those students who want/need to deepen and broaden their graphic communication skills developed in SI 520: Graphic Design. This course supports students' further professional development by enhancing their conceptual problem solving skills and technical proficiency through a set of projects.
+Typically Offered: Fall
+Winter
+Last Offered: Winter 2025
+Syllabus: SI 616 Syllabus (Link: https://drive.google.com/drive/folders/1MuRafplWR5-cxs-H4c1nwrk2G2zBgdba?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 617
+Title: Choice Architecture 
+(Choice Architecture)
+Units: 3
+Advisory Prerequisites: SI 563
+Description: Designing a system or organization for humans requires understanding not just choice and behavior motivations (good in most cases, we hope), but also learning about the reasons we blunder and make mistakes.  Thus, even when incentives are "aligned" with overall system goals, there are many instances where we make poor choices because as human beings, we are all susceptible to a wide array of routine biases that can lead to an equally wide array of unwanted and unintended outcomes and decisions.  Our errors are what make us human, but up until now, they have been largely ignored by systems designers, whether these designers make complex public policy, manage a team or design an information system.  But knowing how people think, we can become choice architects who design environments that both yield better decision making on the part of users, and achieve behavior that is consistent with overall system goals while gaining a competitive design-edge.
+The first goal of this course is to inform future information system professionals, designers and managers about human decision rules and their associated biases so that these insights can be incorporated into their design, business or management strategies.  Knowledge of these issues can be a significant source of competitive advantage because they are unknown to most information systems professionals and they are not taught in most I-schools.  The second goal of this course is to clarify how these results can be leveraged to create original and more effective systems and institutions that meet the designer's goals.
+
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 617 Syllabus (Link: https://drive.google.com/drive/folders/1-FYLFIYolkJdwWPaZhM_sbiFLVaoRwta?usp=share_link)
+Primary Requisite: 000032-Grad Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 618
+Title: Data Manipulation and Analysis 
+(Data Man & Analysis)
+Units: 3
+Enforced Prerequisites: (preceded or accompanied by SI 507 or SI 507 waiver) and (SI 544 or SI 544 waiver or BIOSTAT 501 or BIOSTAT 521 or BIOSTAT 601); (C- or better) or Graduate standing in Applied Statistics, Data Science, or Engineering
+
+Advisory Prerequisites: SI 504
+Description: This course aims to help students get started with their own data harvesting, processing, aggregation, and analysis.  Data analysis is crucial to evaluating and designing solutions and applications, as well as understanding user's information needs and use.  In many cases the data we need to access is distributed online among many webpages, stored in a database, or available in a large text file.  Often these data (e.g. web server logs) are too large to obtain and/or process manually.  Instead, we need an automated way of gathering the data, parsing it, and summarizing it, before we can do more advanced analysis.  Therefore, students will learn to use Python and its modules to accomplish these tasks in a 'quick and easy' yet useful and repeatable way.  Next, students will learn techniques of exploratory data analysis, using scripting, text parsing, structured query language, regular expressions, graphing, and clustering methods to explore data.  R modules will be used to accomplish these tasks. Students will be able to make sense of and see patterns in otherwise intractable quantities of data.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 618 Syllabus (Link: https://drive.google.com/drive/folders/1GpVnhbvrNV6HKmiBM3c-hbM58SR9Mv9i?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 622
+Title: Needs Assessment and Usability Evaluation 
+(Usab Eval & Needs)
+Units: 4
+Description: Covers the key concepts of evaluation and a variety of methods used to determine the goals of a system or service, performs organizational analysis, assesses task/technology or service fit, determines ease of learning of new or existing services or systems, determines ease of use, assesses aspects of performance (including information retrieval), and evaluates the success in accomplishing the user/organizational goals. Methods include observation, survey, interviews, performance analysis, evaluation in the design/iteration cycle, usability tests, and assessment of systems in use.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 622 Syllabus (Link: https://drive.google.com/drive/folders/1NO4P0Ao8mCtt5f4eFwutj66zwVxXum30?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 623
+Title: Research Methods for Information Professionals 
+(Res Meth Info Prof)
+Units: 3
+Description: Research is key in the information professions:  we assist other people conducting research, read research studies to improve practice, engage in research to evaluate tools and services, and use research in reports, funding requests, and requests for proposals.  Much of our practice rests on a base of evidence and as responsible professionals it is important that we be able to weigh that evidence and apply it appropriately in our information setting.  Information professionals also conduct research studies to assist in their work or for promotion within their organizations.  We may also become a part or larger research teams conducting research studies.  This course is designed to help you conduct and consume research studies.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 623 Syllabus (Link: https://drive.google.com/drive/folders/1Cvmn1FsEg-Srqr8gQ9fQDXQHlsrz0tSb?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 624
+Title: Healthcare Data Application, Analysis,  Consulting and Communication 
+(Health Data Analysis)
+Units: 3
+Enforced Prerequisites: [(SI 506 or waiver) or LHS 610 or LHS 650] and ([SI 544 or waiver] or BIOSTAT 501 or BIOSTAT 521); (C- or better)
+Description: Step into the role of an HI data consultant, navigate technical problems, and conduct a business analysis at the level of a research project, a Quality Improvement initiative, and a wide-spread Population-level issue. For each of the 3 real world scenarios, a stakeholder will present their business objective to the class. Students will then scope the project, explore and evaluate the data, and present deliverables.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Beginning Winter 2025, LHS 610 or 650 will count as an alternate prerequisite to SI 506.
+Syllabus: SI 624 Syllabus (Link: https://drive.google.com/drive/folders/1VY_kp6ixTdBoRLCnJDBEmj2VkD1RlJ7t?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 626
+Title: Management of Non-Profit Libraries and Information Services
+(ManageNonprofitLib)
+Units: 3
+Description: This course introduces selected theories, principles and techniques of management science and their application to libraries, archives and information services in the non-profit and public sectors. Contemporary information 
+practice demands proactive leadership, regardless of one's formal position. Accordingly, this course will help to prepare students to act as change agents throughout their careers. Students will gain skills in strategic planning, 
+stakeholder management, non-profit financial management, human resources and organizational design for the sector, and change leadership. 
+Typically Offered: Alternating Winter terms
+(even years)
+Last Offered: Winter 2025
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 627
+Title: Managing Information Technology
+(Managing IT)
+Units: 3
+Description: Students will learn the roles and functions that information technology plays in an organization and how to manage these resources to meet the organization's goals. Students will also explore the 4 C’s of global work as applied to IT, incorporating critical thinking, communication, collaboration, and creativity. The course also examines the processes used in the selection, implementation, and evaluation of technology. 
+Typically Offered: Alternating Winter terms
+(odd years)
+Last Offered: Winter 2025
+Syllabus: SI 627 Syllabus (Link: https://drive.google.com/drive/folders/1onk_8rJt_JCouY0cvBfMe0J2cYQfzQq2?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 630
+Title: Natural Language Processing: Algorithms and People 
+(NLP Algorithm People)
+Units: 3
+Enforced Prerequisites: [(SI 507 or waiver) and (SI 544 or waiver or BIOSTAT 501 or 521 or 601)] and (SI 618 or waiver); (C- or better) or Graduate standing in Applied Statistics, Master's in Data Science, or Computer Science & Engineering
+Description: This course focuses on how to use machine learning techniques to understand, annotate, and generate the language we see in everyday situations.  The techniques learned in this course can be applied to any kind of text and enable turning qualitative evaluation of text in a precise quantitative measurement.  Students will learn the linguistics fundamentals of natural language processing (NLP), with specific topics of part of speech tagging, syntax and parsing, lexical semantics, topic models, and machine translation. Additional advanced topics will include sentiment analysis, crowdsourcing, and deep learning for NLP.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Beginning in Fall 2024, SI 618 will be a prerequisite for this course.
+Syllabus: SI 630 Syllabus (Link: https://drive.google.com/drive/folders/1a6JESjIsR313F21slv-7yE9kyS6MFGAA?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 631
+Title: Agile Software Development 
+(Agile Softwar Dev)
+Units: 1.5
+Description: This course provides an opportunity for students to apply skills in user experience analysis & software requirements gathering, drawing on Agile project management methodologies. These methods introduce students to tools for describing & tracking the work of a project in ways that support team collaboration, client relationship management, and the efficiency and quality of the finished project. Students will learn different agile methodologies and presentation techniques. Students will work on sample projects learning how to prioritize workflows and different client and stakeholder needs.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 631 Syllabus (Link: https://drive.google.com/drive/folders/1A1CNBoMpjZHuCzxxOyIsIgiud6qwBAsS?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 632
+Title: Appraisal and Collection Development 
+(Appraisal & Coll Dev)
+Units: 3
+Enforced Prerequisites: SI 580 or SI 647; (C- or better)
+Description: Covers concepts and practices collection development in archives and libraries. It provides deeper appreciation of selection practices as foundational to fulfilling institutional mandates and meeting user needs. Students will learn the various models, techniques, ethics, and policy considerations of growing and sustaining collections.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 632 Syllabus (Link: https://drive.google.com/drive/folders/181WzHdtIJM_wL5i6sWPfbhvcBd9LoGhB?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 633
+Title: Assessment in Cultural Institutions 
+(Assesmnt Cultrl Inst)
+Units: 3
+Description: Application of research methods in the design and implementation of assessment and evaluation of cultural heritage collections, services, programs, and tools to document and measure effectiveness, meet user needs, and social impact, including recommending actionable and specific steps to respond to study findings.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 633 Syllabus (Link: https://drive.google.com/drive/folders/1RAuo-TtOceR-WB5DT2C32LXjCNq1mX2p?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 639
+Title: Web Archiving 
+(Web Archiving)
+Units: 1.5
+Advisory Prerequisites: SI 506 or SI 106
+Description: The World Wide Web is the primary delivery mechanism for digital content.  Preservation administrators need to be familiar with the tools and appropriate techniques for preservation of information delivered through the "surface" Web (static Web pages, blogs, E-mail discussion lists, etc.) and information that is part of the "deep" Web (e.g. databases, streaming media, and authenticated resources).  Once Web content is captured and brought into a preservation environment, preservation administrators are responsible for transforming them into persistent formats and data structures.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Will be a full term course beginning Winter 2024. 
+Syllabus: SI 639 Syllabus (Link: https://drive.google.com/drive/folders/1oAoM0vzWP2IsGWOp5Cnb_rvhdOVC5D0m?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 642
+Title: Population Health Informatics 
+(Popultn Hlth Infmtcs)
+
+[Owned by School of Public Health]
+Units: 3
+Enforced Prerequisites: HMP 668 / SI 542 / BIOINF 668
+Description: This course explores the foundations of population health informatics, including information architecture; data standards and confidentiality as they pertain to population health management.  This course examines key concepts related to registries, electronic health records, epidemiological databases, biosurveillance, health promotion, and quality reporting in population health management.
+Typically Offered: Fall
+Last Offered: Fall 2021
+Notes: Will be numbered SI 642 beginning Winter 25 - formerly SI 611.
+Syllabus: SI 611 Syllabus (Link: https://drive.google.com/drive/folders/1N24eDGJA3SyOidw1pRw41nI77eqd0mVN?usp=share_link)
+Cross Listed: HMP 611
+Home Department: HMP
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 643
+Title: Instructional Skills for Information Professionals 
+(Instructional Skills)
+Units: 3
+Advisory Prerequisites: SI 501 or permission of instructor
+Description: Whether creating a tutorial for a new app, leading a workshop about archival materials, hosting a webinar for students or customers, or engaging colleagues in discussions around a provocative article, information professionals are frequently involved in teaching and learning activities. To engage others means moving beyond lecturing or "telling information" and, instead, to think about how you can empower others' learning. You'll learn about learning theories, then get practical strategies to help you plan, execute, reflect upon, and assess learning in multiple modalities: video tutorials, discussion groups, face-to-face workshops, and online webinars. You'll select teaching topics based on the needs, interests, and challenges you will face in future employment so that you can use your projects in your portfolio.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 643 Syllabus (Link: https://drive.google.com/drive/folders/1pHMOZpLocwO76GYviH47FOeYgr3TVAeJ?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 644
+Title: Advanced SQL & Databases
+(Adv SQL and Database)
+Units: 1.5
+Enforced Prerequisites: SI 564, preceded or accompanied by (SI 506 or waiver) and (SI 504 or waiver)
+Description: This course will cover a number of advanced topics in SQL. We will cover normalization, window functions, sets, using json data. We will be looking at using MySQL, Oracle, Postgres, and MSSQL and comparing and contrasting the differences. We will also cover NO SQL databases like mongodb, and elasticsearch. Lastly we will interface to SQL databases and noSQL databases using python.
+Typically Offered: --
+Last Offered: Fall 2025
+Notes:  New in Fall 2024
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 646
+Title: Information Economics 
+(Info Economics)
+Units: 1.5
+Advisory Prerequisites: SI 563 or equivalent course in intermediate microeconomics
+Description: Course provides a strong grounding in the economics of information goods and services. Students analyze strategic issues faced by for-profit and not-for-profit organizations: pricing, bundling, versioning, product differentiation and variety, network externalities, and rights management.
+Typically Offered: Alternating Fall terms
+(even years)
+Last Offered: Fall 2022
+Syllabus: SI 646 Syllabus (Link: https://drive.google.com/drive/folders/1E3KgtfugKomAyPDo4dKcPq9Vi_eAOU3f?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 647
+Title: Information Resources and Services 
+(Info Resources&Serv)
+Units: 3
+Description: This course introduces the principles and practice of reference and information services and provides practical guidelines for evaluating and using a variety of information sources. The course focuses on providing students with practical experience, but it also covers how research findings related to reference interaction can be translated into practical guidelines and implemented by information professionals in various work settings. The core theme of this course revolves around understanding reference services and sources from a user information needs and seeking perspective rather than from a bibliography- or source-centered viewpoint.  Upon completion of this course, students will be able to: (1) Demonstrate the ability to conduct effective reference service interviews; (2) Identify and use appropriate reference sources to find answers to reference questions; (3) Apply criteria to be used in evaluating reference sources; (4) Demonstrate knowledge of users? information needs, seeking, and use; (5) Possess familiarity with current problems, trends, and issues in the field of reference and information services.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 647 Syllabus (Link: https://drive.google.com/drive/folders/1RDJI8xchIYgcn37XmjFSgYZE4b6PFdqy?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 648
+Title: Evaluation and Research Methods for Health Informatics and Learning Systems 
+(Eval Methods in HI)
+
+[Owned by Learning Health Sciences]
+Units: 3
+Advisory Prerequisites:  	
+Graduate level introductory statistics course
+Description: This course provides a foundational introduction to empirical methods, both qualitative, that are applicable to health informatics and learning health systems, and that support both evaluation and research studies. Quantitative methods are introduced with a heavy emphasis on measurement theory and the development of measurement instruments. Each week, as new methods are introduced, they are examined through analysis of published studies, including several classic papers, of applications of information technology applied to health care, population health, and personal health. Students complete two study design exercises a key learning experiences in the course.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 648 Syllabus (Link: https://drive.google.com/drive/folders/1F8soNtpZ_-RZ2cCahIv1mXkNPUAkN8IW?usp=share_link)
+Cross Listed: LHS 660  
+HMP 648
+Home Department: LHS
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 649
+Title: Information Visualization 
+(Info Visualization)
+Units: 3
+Enforced Prerequisites: (SI 506 or waiver) and (SI 507 or waiver) and (SI 544 or waiver) or Graduate Standing Excluding UMSI Programs
+Advisory Prerequisites: SI 582, 618 and 622 are strongly encouraged. EECS 493 or graduate standing and (C or better) or equivalent.
+Description: Introduction to information visualization. Topics include data and image models, multidimensional and multivariate data, design principles for visualization, hierarchical, network, textual and collaborative visualization, the visualization pipeline, data processing for visualization, visual representations, visualization system interaction design, and impact of perception. Emphasizes construction of systems using graphics application programming interfaces (APIs) and analysis tools.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: Beginning in Fall 2024 SI 507 and SI 544 will be added as prerequisites to this course.
+Syllabus: SI 649 Syllabus (Link: https://drive.google.com/drive/folders/1UraqfqKfTBvW9CzFyiwqrG9sNZf9Zdfe?usp=share_link)
+Cross Listed: EECS 548
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 650
+Title: Information Retrieval
+(Informatn Retrieval)
+Units: 3
+Enforced Prerequisites: (SI 507 or Waiver) and (SI 618 or waiver) or Graduate Standing Excluding UMSI Programs
+Description: Information is everywhere. We encounter it in our everyday lives in the form of E-mail, newspapers, television, the Web, and even in conversations with each other. Information is hidden in a variety of media: text, images, sounds, videos. While casual information consumers can simply enjoy its abundance and appreciate the existence of search engines that can help them find what they want, information professionals are responsible for building the underlying technology that search engines use. Building a search engine involves a lot more than indexing some documents -- information retrieval is the study of the interaction between users and large information environments. It covers concepts such as information need, documents and queries, indexing and searching, retrieval evaluation, multimedia and hypertext search, Web search, as well as bibliographical databases. In this course, students go over some classic concepts of information retrieval and then quickly jump to the current state of the art in the field, where crawlers, spiders, and hard-of-hearing personal butlers roam.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Beginning in Fall 2024 SI 618 will be a prerequisite for this course.
+Syllabus: SI 650 Syllabus (Link: https://drive.google.com/drive/folders/1KFdRDaVZl71DMPRCRRLWm8xx04VIqDI3?usp=share_link)
+Cross Listed: EECS 549
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 652
+Title: Incentives and Strategic Behavior in Computational Systems 
+(Incentive&Strategic)
+Units: 3
+Description: Modeling and analysis of strategic decision environments from combined computational and economic perspectives. Essential elements of game theory, including solution concepts and equilibrium computation. Design and analysis of mechanisms for problems motivated by areas such as electronic commerce, social computing, social choice, and information elicitation.
+Typically Offered: --
+Last Offered: Winter 2025
+Notes: Starting in Winter 2024 the course will be crosslisted with CSE 547 instead of EECS 547
+Syllabus: SI 652 Syllabus (Link: https://drive.google.com/drive/folders/15B82Tp0nVN7VD8F-g04jgnVybSL3SBr-?usp=share_link)
+Cross Listed: EECS 547
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 654
+Title: Critical Policy Issues in Health IT 
+(Pol Issues in HIT)
+Units: 3
+Advisory Prerequisites: SI 542 or HMP 600 or permission of instructor
+Description: This course will introduce the critical policy issues related to the use of Health Information Technologies (HIT) with a primary focus on the U.S. The course will explore issues from both a national perspective as well as the perspective of organizations that use these systems.
+Typically Offered: --
+Last Offered: Winter 2021
+Syllabus: SI 654 Syllabus (Link: https://drive.google.com/drive/folders/12wb_SvtobI1hIX0fjx83CA7ieudf8rlY?usp=share_link)
+Cross Listed: HMP 659
+Home Department: SI
+
+Semester: Fall 2025
+Department: SI
+Course: SI 657
+Title: Information Technology and International Development 
+(Info Tech and Inter)
+Units: 3
+Description: This course will provide an intensive introduction to the field of information technology and global development, in its historical, policy, and design dimensions. Part one offers an overview of key historical and contemporary debates in international development, and an introduction to recent theoretical works on technology and development including. We explore a broad range of work from historical academic literature on development to contemporary commentary on issues such as economic growth, urban and infrastructural change, culture, environment, humanitarian issues, healthcare, and quality of life. Part two explores the growing literature on technology and development. Through readings, discussions, and course assignments, students will gain an understanding of several of the key issues being faced in the developing world, and examine the role of technology in these. Through geographically focused project and discussion groups, students will also develop specific regional or country-level knowledge and experience.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 657 Syllabus (Link: https://drive.google.com/drive/folders/13krEqUkXesUNYCgQlb-ueQsFBlLWN4HY?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 658
+Title: Information Architecture 
+(Information Architecture)
+Units: 3
+Description: Everything is complex. Distinctions between physical and digital space are dissolving. Profound events in human culture unfold in places made of and from information.  The architecture of information for a Bay Area startup's new IOS app, or for a municipal government's sharepoint portal, or up in the cloud of an "omnichannel" enterprise is rarely somebody's specific job.  This course will examine the progression of IA theory and expand students' familiarity with architecture, architects, and architectural and critical theory. In this class you'll engage in a peculiar and spirited examination of arguments for why it ought to be. You'll learn how to apply architectural thinking and practices in complex information spaces, and how to design structures that make the complex clear.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 658 Syllabus (Link: https://drive.google.com/drive/folders/14utBtuNC16NZtJJhN2LsjVhAB6SqQK_p?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 659
+Title: Developing AR/VR Experiences 
+(AR/VR Advanced)
+Units: 3
+Enforced Prerequisites: [SI 506 or waiver] and [539 or waiver] and [582 or waiver]; (C- or better)
+Advisory Prerequisites: Additional experience with JavaScript beyond SI 539
+Description: This course will focus on creating augmented reality (AR) and virtual reality (VR) interfaces that blend or substitute elements of the physical world with digital content. Given that AR/VR technologies have a high technical barrier of entry and are rapidly evolving, the course will cover methods and tools to mitigate these issues. Students will learn how to approach technical problems in interaction design, to systematically study requirements, and balance technological limitations.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 659 Syllabus (Link: https://drive.google.com/drive/folders/1F_OZlfiKK-LHOvqbEGuEFLAFMnWJk-zk?usp=share_link)
+Primary Requisite: 018296 - MSI, MHI, & XR Cert
+
+Semester: Fall 2025
+Department: SI
+Course: SI 661
+Title: Managing Health Informatics 
+(Mgmt in Health Info)
+Units: 3
+Advisory Prerequisites:  	
+SI 542/HMP 668/BIOINF 668
+Description: This course prepares students to take on management challenges faced in health informatics leadership roles within a variety of organizational settings.  Through a combination of seminar and case study work, it is a highly interactive course in which students have the opportunity to discuss real-world health informatics scenarios from a variety of perspectives in order to gain familiarity with different managerial approaches.  The course also draws on organizational and managerial theory to provide students with more generalized knowledge about how to be an effective leader.  Students build knowledge and develop skills to consider multiple dimensions of possible solutions to health informatics-related issues, arrive at decisions, and articulate the reasoning behind the approaches to their decision-making.  This course has a strong organizational orientation and is appropriate for any student preparing for a health informatics career that includes managerial responsibilities.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 661 Syllabus (Link: https://drive.google.com/drive/folders/1D6DoFkiVvcVSOwvjZZAEKSpAbcIPBWtG?usp=share_link)
+Cross Listed: HMP 661
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 664
+Title: Database Application Design 
+(Database App Design)
+Units: 3
+Enforced Prerequisites: SI 506 or waiver; or Graduate Standing in Applied Statistics, Master's in Data Science, or Engineering (C- or better)
+Advisory Prerequisites: Basic Python Programming
+Description: This course is an introduction to database management systems (DBMS). It covers both theoretical and practical aspects of DBMS, including database design, use, and implementation using the database language SQL. Topics in physical database design are also discussed. An essential part of the course is a programming project through which students design and develop a practical database system for library access, electronic commerce, information retrieval, or a similar application. Students use a Python web framework connected to a MySQL database throughout the course.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 664 Syllabus (Link: https://drive.google.com/drive/folders/1HCIVX5mcysFuNgobR10keZ6NMtK4eLlC?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 666
+Title: Organization of Information Resources 
+(Org of Inf Resources)
+Units: 3
+Description: Students interested in careers in digital curation, digital repositories, and metadata and data management need a broad foundation in knowledge organization theory and approaches in a variety of domains, formats and methods. Further, they need a foundation in the different KO strategies ideal for use by organization, humans, and machines. In this course, students will learn the core concepts and principles of describing, grouping, arranging and relating information-bearing objects for different audiences. Through much of the semester focuses on the arrangement of documents and bibliographic information, this course additionally covers the organization of museum objects and their catalogs, biomedical data and records, and beyond. 
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 666 Syllabus (Link: https://drive.google.com/drive/folders/1c4w-RC4pESwa6wXBTKU8FP0GTm9a2ijf?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 667
+Title: Foundations of Digital Curation 
+(Digital Curation)
+Units: 3
+Description: The course will provide students with a foundational understanding of the core theoretical, conceptual, and practical problems in digital curation; students  will put these insights into practice through hands-on projects. Digital curation is the active involvement of information professionals in the management of digital data through its lifecycle of interest and usefulness to science, scholarship and education. Students interested in careers in this growing field will need a strong grounding in the fundamentals of digital preservation and migration; an understanding of the data practices and needs of researchers; trends and obstacles to data sharing and reuse; and experience making data fit for preservation and range of different users and uses. This course draws on current research information science, archival and library service, and cognate fields.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 667 Syllabus (Link: https://drive.google.com/drive/folders/1Dp00ings7SlLxIV2Kh9g7clafB-M5Kt3?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 669
+Title: Developing Mobile Experiences 
+(Dev Mobile Exp)
+Units: 3
+Enforced Prerequisites: (SI 506 or waiver) and [(SI 507 or waiver) or SI 579] and (SI 539 or waiver); (C- or better)
+Description: Develop mobile applications using state of the art tools and platforms. Learn how to use standard testing, monitoring, and debugging tools to find and fix software bugs. Gain familiarity with other mobile app development approaches, UX principles and methods, and emerging mobile technologies such as wearables and Augmented Reality.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 669 Syllabus (Link: https://drive.google.com/drive/folders/1_HDxc4F0yHyLkojFQv6CWx1hqrUehfz6?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 670
+Title: Applied Machine Learning
+ (Appld Machine Learng)
+Units: 3
+Enforced Prerequisites: Preceeded by (SI 507 or waiver) and (SI 544 or waiver) and (SI 618 or waiver) and preceeded or accompanied by SI 602 OR Graduate standing in Applied Statistics, Master's in Data Science, or Electrical Engineering & Computer Science; (C- or better)
+Advisory Prerequisites: Intermediate Python Programming
+Description: Students will learn how to correctly apply, interpret results, and iteratively refine and tune supervised and unsupervised machine learning models to solve a diverse set of problems on real-world datasets. Application is emphasized over theoretical content.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Beginning in Fall 2024 this course must be preceeded or accompanied by SI 602.
+Syllabus: SI 670 Syllabus (Link: https://drive.google.com/drive/folders/1NxS4o8CWPeXbEv1tNL1GGF1WT4BHcfKy?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 671
+Title: Data Mining:  Methods and Applications
+ (Data Mining)
+Units: 3
+Enforced Prerequisites: Preceeded by (SI 507 or waiver) and [(SI 544 or waiver) or BIOSTAT 501 or BIOSTAT 521 or BIOSTAT 601] and [SI 618 or waiver] and preceeded or accompanied by SI 602 OR Graduate standing in Applied Statistics, Master's in Data Science, or EECS; (C- or better) 
+Advisory Prerequisites: Intermediate Python Programming
+Description: With the explosive growth of information generated from different sources, in a variety of formats, and with various qualities, information analysis has become challenging for researchers in many disciplines.  Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets.  This is a seminar course of advanced topics in data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems.  The course will highlight the practical applications of data mining instead of the theoretical foundations of machine learning and statistical computing.  The course materials will focus on how the information in different real world problems can be represented as particular genres, or formats of data, and how the basic mining tasks of each genre of data can be accomplished using the state-of-the-art techniques.  To this end, the course is suitable for those who are consumers of data mining techniques in their own disciplines, such as natural language processing, networks science, human computer interaction, economics, social computing, sociology, business intelligence, and biomedical informatics, etc.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Beginning in Fall 2024 this course must be preceeded or accompanied by SI 602.
+Syllabus: SI 671 Syllabus (Link: https://drive.google.com/drive/folders/12GOVPGVuJwvWlaVl8SCwQsAD0yJn9P8p?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+Additional Requisite: 10X sections: 
+000032 - Graduate Standing
+
+Semester: Fall 2025
+Department: SI
+Course: SI 672
+Title: Applied Clinical Informatics 
+(Applied Clin Inform)
+Units: 3
+Enforced Prerequisites: Preceded by SI 542 and [[SI 506 or waiver) or LHS 610 
+or LHS 650]
+Description: This course explores implementation of information systems in real-world clinical settings. Students will engage with clinicians to understand their workflows within the organizational context. A range of factors that affect the adoption of technology in clinical settings will be discussed.  Students will conduct technology implementation evaluations and develop strategic recommendations.
+Typically Offered: Fall
+Last Offered: Winter 2025
+Syllabus: SI 672 Syllabus (Link: https://drive.google.com/drive/folders/12z61uBAEmOJpFapoVJehTmzrp34Gl5ki?usp=share_link)
+Primary Requisite: 017838-MSI, MHI, GCHI
+
+Semester: Fall 2025
+Department: SI
+Course: SI 673
+Title: Intro to Cloud Computing
+(IntroCloudComp)
+Units: 1.5
+Enforced Prerequisites: (SI 504 or waiver) and (SI 506 or waiver); C- or better
+Description: In this course students will learn about cloud infrastructure, cloud networks, management, methods to compare and contrast computing services, and performance, scalability, and availability of cloud resources for data intensive tasks. Transferring of large datasets around within the cloud to create cloud based workflows will also be covered. At the end of this course, students should be able to set up cloud based workflows for doing common tasks, as well as create and explain costs and proposals. Cloud accounts will be provided to each student to meet course objectives.
+Typically Offered: --
+Last Offered: Fall 2025
+Notes: Planned for first offering in Fall 25
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 676
+Title: Network Services for Libraries, Archives, and Museums
+ (Network Info Servcs)
+Units: 3
+Enforced Prerequisites: [Preceded by: (SI 506 or waiver) and SI 666] and [preceded or accompanied by SI 504 or waiver]; (C- or better)
+Description: This course provides information professionals with skills to thrive in a networked environment. Technical material in the course will be presented in a context that emphasizes its relevance to information professionals. A central theme is programmatic access to open source systems, allowing information institutions to build services beyond their walls.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 676 Syllabus (Link: https://drive.google.com/drive/folders/1QfIB7ryJacrgDqRapt1gmJlBEGKEyyiG?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 678
+Title: Preserving Sound and Motion 
+(Preserv Sound&Motion)
+Units: 3
+Description: The course examines the state of standards and best practices for the digital transformation of audio, video, and motion picture media. Lab components include digitizing sound recordings and manipulating/managing files created in the digitization process. A final segment considers preservation metadata schemes, working with vended services, and managing audiovisual projects.
+Typically Offered: --
+Last Offered: Fall 2020
+Syllabus: SI 678 Syllabus (Link: https://drive.google.com/drive/folders/1FvP2UvURgezXKSrcazdydsJdApyOx55N?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 681
+Title: Internship/Field Experience and Seminar in Practical Engagement 
+(Intern/Field Seminar)
+Units: 1-6
+Advisory Prerequisites: permission of Instructor
+Description: Selected practical experience opportunity for students who perform 60 - 360 hours of work in a summer internship under the supervision of an onsite supervisor. Internship experiences for credit must be approved in advance by the UMSI Career Development Office. Students will develop learning objectives, complete reflective assignments , and design an internship portfolio demonstrating internship outcomes. This course will support students' ability to derive deeper meaning from integrated learning experience with the potential to contribute to life-long career development.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: *Starting in Winter 2024 the course will have variable credit hours ranging from 1 to 6 credits.
+
+Available to MSI/MHI students only. Students are retroactively registered for this course  once their Spring/Summer internship proposal is approved by the Career Development Office.
+
+Syllabus: SI 681 Syllabus (Link: https://drive.google.com/drive/folders/14vyXqMaAsSnJE4KlOPkZj0ZOcfSJw83O?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 682
+Title: Advanced User Research in the Field 
+(UX Field Research)
+Units: 3
+Enforced Prerequisites: SI 622 or waiver; (C- or better)
+Description: Students will work with clients who will provide information problems that will be addressed by conducting research with people in the field. Students will be learn advanced research skills, and professional skills related to working directly with clients and users.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 682 Syllabus (Link: https://drive.google.com/drive/folders/1DLTdII31sJhpzZ2XLG5NwvPxQ4RIzCze?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 684
+Title: Designing Consumer-Health Technologies 
+(Designing ConsHlth Tech)
+Units: 3
+Enforced Prerequisites: SI 554 or ([588 or waiver] and [582 or waiver]); (C- or better)
+Description: The course focuses on the process of designing consumer-health technologies that are based on constructs from theories about human behavior and behavior change.  Using commonly-used theories (e.g., self-monitoring, goal-setting) as examples, students will learn how to generate ideas for possible feature designs, delineate their tradeoffs, and make principled implementation decisions.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 684 Syllabus (Link: https://drive.google.com/drive/folders/14tBIdmC7TWoqaaQx_JLxPW20Gp2r0AHW?usp=share_link)
+Cross Listed: HBEHED 684
+Home Department: SI
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 686
+Title: User-Generated Content 
+(User-Gen Content)
+Units: 1.5
+Advisory Prerequisites: SI 563 or permission of instructor
+Description: This half-semester course analyzes the motivation and incentives for user-generated content. We use social science theories as guidance to study the current incentive structures of online Q&A, microfinance, P2P file sharing, open source, social bookmarking and health information exchange sites,
+as well as potential new design features that could improve the quantity and quality of the contents.
+After completing this course you will be able to:
+(1) have a broad understanding of situations where it may be valuable to explicitly consider individual incentives when engineering systems;
+(2) recognize the class of mechanism that would be appropriate to particular real-world settings involving user-generated content; and
+(3) identify the key design considerations in adapting such mechanisms to particular online communities.
+Typically Offered: Alternating Fall terms
+(even years)
+Last Offered: Fall 2022
+Syllabus: SI 686 Syllabus (Link: https://drive.google.com/drive/folders/1reR3mzQWcXhu02PZhdqGwDpGxD3_ZnIq?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 688
+Title: Immersive Applied Projects in the Social Sector 
+(AppProjS S -GIEP/CID)
+Units: 6
+Description: This course is an innovative, immersive experiential approach to learning and professional development. In this course, selected interdisciplinary teams of graduate students are paired with social, public, and civic sector organizations to study, design, develop and implement solutions to information challenges identified by collaborating organizations. Student teams will leverage their emergent skills in contextual inquiry, needs assessment, product ideation, consultation, interdisciplinary specialization, and the deep understanding of the complex relationships between people, information, and technology, to frame, develop, build, and implement an information product connected to host organizations' social justice work. Students from all areas of UMSI are encouraged to participate to meet the myriad needs of community organizations.  In order to participate, students are required to apply early in the Winter term at umsi.info/mcompass.giep (non-profit projects) and/or umsi.info/mcompass.cidsummerfellows (civic projects).  Once students are accepted into the program, an override will be processed to provide access to add the course to the Winter term schedule.  Email umsi.engagement@umich.edu for more information or with questions.
+Typically Offered: Winter (Coursework completed over summer)
+Last Offered: Winter 2022
+Notes: Formerly GIEP.
+Application Required. Students register for the course in Winter term and complete the program during the summer.
+
+umsi.info/mcompass.giep (non-profit projects) and/or umsi.info/mcompass.cidsummerfellows (civic projects)
+Syllabus: SI 688 Syllabus (Link: https://drive.google.com/drive/folders/1pGRYyE5KGR-Og3kyl4Z2iVI8qrx-y6py?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 690
+Title: Internship/Field Experience and Seminar in Practical Engagement 
+(Intern/Field Exper)
+Units: 1-9
+Advisory Prerequisites: Permission of instructor
+Description: Selected practical experience opportunity for students who perform at least 60 hours of work in an internship. One credit hour is granted for 60 hours of work under the supervision of an onsite supervisor. Internship experiences for credit and enrollment in this course must be approved in advance by the UMSI Career Development Office. Students will develop learning objectives, complete reflective assignments, and design an internship portfolio demonstrating internship outcomes. This course will support students' ability to derive deeper meaning from an integrated learning experience with the potential to contribute to life-long career development.
+Typically Offered: Fall
+Winter
+Spring/Summer
+Last Offered: Fall 2025
+Notes: Available to MSI/MHI students only with internship approved by the Career Development Office. 
+Syllabus: SI 690 Syllabus (Link: https://drive.google.com/drive/folders/16gLLeiXd4pesR4nXg5eATHDoOndBVZsj?usp=share_link)
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 691
+Title: Independent Study 
+(Independent Study)
+Units: 1-3
+Description: Independent Study
+Typically Offered: Availble only with willing advisor
+Last Offered: --
+Notes: Instructor Consent Required. 
+
+A maximum of 3 credits of independent study coursework will count toward the MSI degree. 
+Primary Requisite: na
+
+Semester: Fall 2025
+Department: SI
+Course: SI 697
+Title: Master's Thesis Option Program - 1st Semester 
+(Master's Thesis 1)
+Units: 2
+Description: As a professional program in a research institution, the School of Information recognizes both the value of engaged learning and the value of research-oriented activities. Drawing on the substantial backgrounds of our faculty as research scholars and mentors, UMSI offers an opportunity for master's students to spend part of their second year at UMSI writing a master's thesis.
+Typically Offered: Fall 
+Last Offered: --
+Notes: See MTOP Student Guidelines for more information. 
+
+Must have approved application & advisor to register. 
+
+Available to MSI/MHI students only. 
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 698
+Title: Master's Thesis Option Program - 2nd Semester 
+(MTOP -Sem2)
+Units: 3
+Description: As a professional program in a research institution, the School of Information recognizes both the value of engaged learning and the value of research-oriented activities. Drawing on the substantial backgrounds of our faculty as research scholars and mentors, UMSI offers an opportunity for master's students to spend part of their second year at UMSI writing a master's thesis.
+Typically Offered: Winter
+Last Offered: --
+Notes: Available to MSI/MHI students only. 
+
+Must be graded "Satisfactory" in SI 697 to register. 
+Primary Requisite: 001507-MSI & MHI SI Pgms
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699
+Title: MSI Mastery Courses 
+(MSI Mastery Courses)
+Units: 3
+Description: As the capstone of the MSI program, these courses require a high level of independence from students to demonstrate synthesis of the major theories, methods, and approaches to inquiry and/or schools of practice necessary for entry into a particular career in the information professions. Instructors assume the role of mentor, facilitator, or advisor. The courses are driven by problem analysis, information gathering and sharing, demonstrating solutions, or a combination of these elements.
+
+For topic details, see: https://www.si.umich.edu/programs/courses/mastery-courses
+Typically Offered: As Need By Topic
+Last Offered: See Topic Below
+Syllabus: See Topic Below
+Primary Requisite: na
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699.X01
+Title: UX Research and Design 
+(UX Research & Design)
+Units: 3
+Enforced Prerequisites: (SI 520 or waiver) and (SI 539 or waiver) and (SI 582 or waiver) and (SI 588 or waiver) and (SI 622 or waiver); C- or better
+Description: UX Research and Design practitioners select and apply a range of methods to understand user needs, envision solutions, produce prototypes, and evaluate the user experience of existing and potential products. In the UX Research and Design mastery course, students synthesize their skills and knowledge by completing a semester-long project to design a product to address a well-defined user need, applying appropriate research and design methods along the way. Specific project themes vary from one offering to the next. Example themes from previous semesters include accessibility, museum exhibits, and supporting economic development. 
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: Prerequisites updated beginning FA 23 cohort
+Syllabus: SI 699.X01 Syllabus (Link: https://drive.google.com/drive/folders/1s7elHxtY3mX0e8XD53de8yEqT_QNbuYw?usp=share_link)
+Primary Requisite: 16494 - 699 UX Research & Design
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699.X03
+Title: User-centered Agile Development 
+(User-centered Agile Development)
+Units: 3
+Enforced Prerequisites: (SI 504 or waiver) and (SI 539 or waiver or SI 339) and (SI 579 or waiver) and (SI 582 or waiver) and (SI 588 or waiver) and (SI 622 or waiver) and ([SI 664 or waiver] or SI 669); C- or better
+Description: User-Centered Agile Development is a mastery course for students interested in pursuing a career in software product development with a UX focus. Students work in groups of 4-6 on a semester-long project with an external client, integrating UX research and design methods with agile software development, with the goal of producing and alpha testing a Minimally Viable Prototype by the end of the course.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Prerequisites updated beginning FA 23 cohort
+Syllabus: SI 699.X03 Syllabus (Link: https://drive.google.com/drive/folders/1v3Nd9bgMH57_-dug0NYMOZ0osu96ycix?usp=share_link)
+Primary Requisite: 18882 - 699 UserCentered Agile Devlpmt
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699.X05
+Title: Big Data Analytics 
+(Big Data Analytics)
+Units: 3
+Enforced Prerequisites: (SI 504 or waiver) (SI 507 or waiver) and (SI 544 or waiver) and SI 568 and SI 602 and (SI 618 or waiver) and (SI 670 or SI 671); C- or better
+Description: The Big Data Analytics mastery course requires students to demonstrate mastery of data collection, processing, analysis, visualization, and interpretation. Students work on semester-long projects that deal with industry-scale data sets and address real-world problems, often using real-world data. Students gain experience working in a fast-paced, collaborative environment, while demonstrating independence and leadership. Course projects culminate in the production of professional-quality research reports that are suitable for delivery to industry partners. 
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: Prerequisites updated beginning FA 23 cohort
+Syllabus: SI 699.X05 Syllabus (Link: https://drive.google.com/drive/folders/1NGtjGOswSvgb1VyGwQXNoBRAEeM2ZK3v?usp=share_link)
+Primary Requisite: 16493 - 699 Big Data
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699.X06
+Title: Digital Curation 
+(Digital Curation)
+Units: 3
+Enforced Prerequisites: ​Preceded by: (SI 501 or waiver) and (SI 504 or waiver) and (SI 506 or waiver or SI 106) and SI 666 and SI 667 and SI 676 and (SI 580 or SI 647) and [2 of: (SI 539 or SI 339), (SI 564 or SI 364), SI 585, (SI 622 or SI 422), SI 633] 
+AND
+Preceded or accompanied by SI 510 or preceded by SI 410
+Description: The Digital Curation mastery course allows students to demonstrate their knowledge and skills in digital curation through the completion of a client-based project with a specific outcome. Working independently or in small teams, students work with a client on a digital curation problem, which they solve by applying one or more fundamental digital curation skills.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Prerequisites updated beginning FA 22 cohort
+Syllabus: SI 699.X06 Syllabus (Link: https://drive.google.com/drive/folders/1FgOAHPcF4JanW1k7UgjuIw02nIlO1fHX?usp=share_link)
+Primary Requisite: 16506 - 699 Digital Curation
+
+Semester: Fall 2025
+Department: SI
+Course: SI 699.XX8
+Title: Capstone Projects in Librarianship and Archival Practice 
+(Librarianship&Archives Assessment)
+Units: 3
+Enforced Prerequisites: Preceded or accompanied by SI 510 
+AND 
+Preceded by: (SI 501 or waiver) and (SI 506 or waiver) and SI 623 and (SI 580 or SI 647) 
+AND
+ [(SI 547 and 3 of [SI 538, SI 632, SI 633, SI 643, (preceded or accompanied by SI 626)]) OR (4 of [SI 538, SI 585, SI 632, SI 633, SI 666, SI 667, (preceded or accompanied by SI 626)])] 
+
+
+Description: The Librarianship and Archival Practice mastery courses prepare students for careers in librarianship, archives, and cultural heritage collections management, representation, access, and/or preservation. In the course, students demonstrate their knowledge and skills through completion of a client-based project with a specific outcome. Students work with a client on a problem in archival or library setting. Split into two topics:
+
+Section 018: Connecting Information & Communities
+Section 028: Managing & Sustaining Collections  
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: Prerequisites updated beginning FA 22 cohort
+Syllabus: SI 699.X08 Syllabus (Link: https://drive.google.com/drive/folders/1ITHlAQP_UzWzhZGun8G9PkW1HAmOFOtr?usp=share_link)
+Primary Requisite: 18873 - 699 Librnship&Archival Practic
+
+Semester: Fall 2025
+Department: SI
+Course: SI 701
+Title: Doctoral Foundations Seminar 
+(Doctoral Fnd Sem)
+Units: 3
+Advisory Prerequisites: Doctoral student status
+Description: This course will provide students with a substantial level of understanding of key topics in the interdisciplinary field of information.  This seminar will also provide students with an understanding of the culture of research.  Key components include:  Research as Occupation, Discovery and Synthesis, and Substance and Framing.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Available to Information Doc students only. 
+Syllabus: SI 701 Syllabus (Link: https://drive.google.com/drive/folders/1ub_YJpfoD4JNnuldSeYMgkIoZ9LqMEa3?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 702
+Title: Seminar in Organizational Studies 
+(Sem Orgnztl St)
+
+[Owned by Ross]
+Units: 1-4
+Advisory Prerequisites: Doctoral student status
+Description: This seminar provides a forum for the discussion of research and theory about organizations and organizational processes.  In keeping with its interdisciplinary character, the seminar will consider both macro and micro-processes and their intersection.  Presentations will be made by faculty and advanced graduate students from within the university, as well as from other universities and centers for research on organizations.
+Typically Offered: Fall
+Winter
+Last Offered: Winter 2025
+Syllabus: SI 702 Syllabus (Link: https://drive.google.com/drive/folders/1ezDtvpRdFEfglv8OZkIwoDsBQegtOPcs?usp=share_link)
+Cross Listed: MO 840
+Home Department: MO
+Primary Requisite: 010473 - SI Info Doc
+Additional Requisite: 001586 - Doc Level
+
+Semester: Fall 2025
+Department: SI
+Course: SI 705
+Title: First Semester Experience 
+(First Semester Exp)
+Units: 1
+Description: This required course will expose first-semester students to a wide range of information that will be useful as they navigate the UMSI doctoral program, the research process, and academic culture. The seminar will be led by the Doctoral Program Director but will include visits from other faculty, students, staff, and campus resource representatives.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Available to Information Doc students only. 
+Syllabus: SI 705 Syllabus (Link: https://drive.google.com/drive/folders/1lCzlIoOUuW_hPISU5atZX3NGKyOdMJYX?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 706
+Title: Researching & Writing A Critical Literature Review
+(CriticalLitReview)
+Units: 3
+Description: Learning from existing research is a fundamental part of scholarship. This course will support each participant in building and organizing a personal knowledge base of published research and related resources for a scholarly agenda they choose to pursue, in critically evaluating the knowledge base for what can be learned and whose knowledge counts, and in using the knowledge base to support the learning of others.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 706 Syllabus (Link: https://drive.google.com/drive/folders/1aeI8SOQBAEvoEmDp2iAqoI8fUaQl9lgi)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 710
+Title: Research Sem in Information
+Units: 3
+Advisory Prerequisites: Doctoral student status
+Description:  	
+Special Topics:  Research Seminars in Information
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: Topic Offerings Here: 
+https://www.si.umich.edu/programs/courses/research-seminar-information
+Primary Requisite: 001586 - Doc Level
+
+Semester: Fall 2025
+Department: SI
+Course: SI 719
+Title: Knowledge/Power/Practice in Science, Technology, and Medicine 
+(Science Tech&Med)
+
+[Owned by LSA]
+Units: 3
+Advisory Prerequisites: Graduate standing and permission of instructor.
+Description: The graduate seminar provides a comprehensive introduction to the major themes and issues in the field of Science and Technology Studies (STS, or S&TS). Drawing on scholarship in history, sociology, anthropology, and information studies, we will mix theoretical material with more empirically oriented studies.  The course will focus particularly on the relation between social, political, and cultural contexts and the development of ideas, practices, tools, and objects within science, technology, and medicine.  While some background in science, technology and/or medicine is helpful, this course does not require prior training in the field.  Work for the seminar will include reading approximately 300 pages per week.
+Last Offered: Winter 2025
+Notes: Starting Fall 2021, this course will be setup as a meet-together. It will not be formally listed as a cross-list.
+Syllabus: SI 719 Syllabus (Link: https://drive.google.com/drive/folders/10JMN5KNF25dwZ8ReQrJ7WvlQBfxFbNmq?usp=share_link)
+Cross Listed: HISTORY-619 
+AMCULT 620
+ANTHRCUL 658
+HISTORY 819
+RACKHAM-619
+
+Home Department: HISTORY
+Primary Requisite: 001586 - Doc Level
+
+Semester: Fall 2025
+Department: SI
+Course: SI 721
+Title: Data Mining:  Methods and Applications 
+(Data Mining)
+Units: 3
+Description: With the explosive growth of information generated from different sources, in a variety of formats, and with various qualities, information analysis has become challenging for researchers in many disciplines.  Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets.  This is a doctoral seminar course of advanced topics in data mining.  The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems.  The course will highlight the practical applications of data mining instead of the theoretical foundations of machine learning and statistical computing.  The course materials will focus on how the information in different real world problems can be represented as particular genres, or formats of data, and how the basic mining tasks of each genre of data can be accomplished using the state-of-the-art techniques.  To this end, the course is not only suitable for doctoral students who are doing research in data mining related fields, but also for those who are consumers of data mining techniques in their own disciplines, such as natural language processing, network science, human computer interaction, economics, social computing, sociology, business intelligence, and biomedical informatics, etc.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 721 Syllabus (Link: https://drive.google.com/drive/folders/1NkZOyXZhmdM57RPgxnYxsCTRlyfcNazh?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 724
+Title: Qualitative Methods 
+(Qualitative Methods)
+Units: 3
+Advisory Prerequisites: Doctoral Standing and/or permission of instructor
+Description: The goal of this class is to introduce you to qualitative research methods, with a particular emphasis placed on ethnographic fieldwork and writing, discourse and content analysis. We focus specifically on methodological approaches that cut across the fields of anthropology, science and technology studies, information, media studies, and sociology. The course pairs hands-on research conducted outside of class, data and writing session conducted together in class, and readings and debate on a variety of topics.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 724 Syllabus (Link: https://drive.google.com/drive/folders/1wB1aNlCnwY0K1xeQsQYdERySJVcx7cZv?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 755
+Title: Unorthodox Research Methods 
+(Unorthodox Res Meth)
+Units: 3
+Advisory Prerequisites: Doctoral student status
+Description: Any traditional research method was once unorthodox.  While many are prone to see methods as boring tools (or even as a necessary but unpleasant step on the road to results), any common method was once daring and controversial.  This seminar will cover very recent developments in both qualitative and quantitative social scientific research methods and attempt to address the question of how new research methods are invented, applied, transferred between problems and disciplines, and formalized.  The overall focus of the course will be research design, rather than learning and procedures of a single method.  In addition, we will spend some time trying to think creatively about possible new methods and designs.  Readings in the course will be split between classics and readings concerning very recent innovations in methods.  In discussion of recent methodological trends, particular attention will be paid to internet / new media research, new digital sources of data (sometimes called "big data" or "e-social science"), spatial / geographic methods, visualization as a research method, and unobtrusive methods.  A goal of the seminar is to encourage researchers to conceptualize methodology - whether using new or old methods - as a creative art.
+Typically Offered: Alternating Fall terms
+(even years)
+Last Offered: Fall 2025
+Syllabus: SI 755 Syllabus (Link: https://drive.google.com/drive/folders/1JMiw_EZcm89hBYV6xTSpAAimSDIakwmk?usp=share_link)
+Cross Listed: COMM 755
+STS 755
+Home Department: SI
+Primary Requisite: 001586 - Doc Level
+
+Semester: Fall 2025
+Department: SI
+Course: SI 791
+Title: Independent Study 
+(Independent Study)
+Units: 1-3
+Advisory Prerequisites: Permission of instructor.
+Description: Independent Study 
+Typically Offered: Availble only with willing advisor
+Last Offered: --
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 840
+Title: Research Methods 
+ (Sem-Research Method)
+Units: 3
+Advisory Prerequisites: Doctoral student status
+Description: PhD level introduction to research design from a methods perspective.  Examines various research methods with illustrations drawn from specific studies. Includes discussion of the scientific method and research design, issues of problem selection, data collection, data analysis, and research report evaluation.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 840 Syllabus (Link: https://drive.google.com/drive/folders/1K98O2in0XuemhGe6qZKvunxqdguyUQID?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 860
+Title: Research Methods Course in Experimental Methods 
+(Experimental Meth)
+Units: 3
+Advisory Prerequisites:  	
+SI 840 and a doctoral course in an area of specialization or permission of instructor
+Description: This course will be an introduction to experimental methods and some of the major subject areas that have been addressed by laboratory and field experiments.  We will discuss basic principles and concrete procedures for successful experimentation:  picking an interesting and important problem, creating a laboratory environment, choosing and motivating subjects, designing and conducting experiments, collecting and analyzing the data, and reporting the results.  Students should learn the entire process of experimental research:  how to write a mini-grant proposal, design and conduct an original experiment, analyze the data and write up a publishable paper.
+Typically Offered: --
+Last Offered: Winter 2025
+Syllabus: SI 860 Syllabus (Link: https://drive.google.com/drive/folders/1hocGxuDbE8Z2vNXY4Yl0h7yVPcewgDJM?usp=share_link)
+Primary Requisite: 010473 - SI Info Doc
+
+Semester: Fall 2025
+Department: SI
+Course: SI 901
+Title: Directed Research
+Units: 1-3
+Advisory Prerequisites:  	
+ 	
+Limited to advanced students.
+Description: Directed Research
+Last Offered: Fall 2004, Spring 2017
+Notes: Instructor Consent Required
+
+Semester: Fall 2025
+Department: SI
+Course: SI 902
+Title: Directed Research
+Units: 1-3
+Advisory Prerequisites: Permission of chair.
+Description: Directed Research
+Last Offered: Spring/Summer 2017, Winter 2007
+Notes: Instructor Consent Required
+
+Semester: Fall 2025
+Department: SI
+Course: SI 990
+Title: Diss-Precand
+Units: 1-8
+Advisory Prerequisites: Election for dissertation work by doctoral student not yet admitted as a Candidate.
+Description: Diss-Precand
+Typically Offered: Availble each term with assigned advisor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 995
+Title: Diss-Cand
+Units: 4-8
+Enforced Prerequisites: Candidate
+Advisory Prerequisites: Doctoral student status
+Description: Diss-Cand
+Typically Offered: Availble each term with assigned advisor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 998
+Title: Curriculum Practical Project 
+(Curr Practical Prjct) 
+Units: nan
+Description: This internship/work experience course is designed to provide opportunities to further professional experiences in addition to the required curriculum. Students will work in an internship or obtain a temporary employment opportunity and will apply and add to the practical skills and knowledge acquired in their academic studies. It is available to students in good academic standing. The independent field experience is under the supervision of School of Information faculty instructor. Faculty instructors must be tenure-track faculty member. The student should meet with their faculty instructor regularly to develop learning goals and assignments.
+Typically Offered: Availble each term with assigned advisor
+

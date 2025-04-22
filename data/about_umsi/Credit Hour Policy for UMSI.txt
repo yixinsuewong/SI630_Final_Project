@@ -1,0 +1,181 @@
+﻿FINAL 7/30/24
+University of Michigan School of Information
+Credit Hour Policy
+[30 July 2024] [FINAL]
+
+
+Table of Contents with Bookmarks:
+
+
+Background        1
+Class Types & Definitions        2
+Bachelor of Science in Information (Undergraduate Program)        4
+Master of Science in Information and the Master of Health Informatics (Residential Masters Programs)        5
+Master of Applied Data Science (Online Masters Program)        6
+PhD.        7
+
+
+
+
+
+
+Background
+
+
+UM complies with Title IV student-financial-aid eligibility, the University of Michigan must follow all applicable federal rules and guidance from U-M’s regional accreditor, the Higher Learning Commission (HLC), concerning credit-hour definitions regardless of course modality.[1] The current federal definition for a credit hour calls for students to be completing approximately 45 hours of student work per credit, total (e.g., 1 hour of class; 2-3 hours outside preparation; over 15 weeks). However, it is generally accepted that 50 minutes or more constitutes an “hour” for these purposes. 
+
+
+Class Types & Definitions 
+
+Class types are listed in Wolverine Access and associated with classes based on the characteristics of the course as approved by the different UMSI Academic Program Committees. The definitions below are largely based on the Rackham Graduate School’s Assignment of Credit Hours) 
+
+
+Lecture
+* Definition: The instructor is principally responsible for the preparation of the subject matter and the conduct of the class, including one-way lecture and/or back-and-forth exchange of ideas.
+
+
+Seminar
+* Definition: Students are principally responsible for preparing materials and leading class discussions. Emphasis is on individual research and peer exchange of knowledge.
+
+
+Recitation
+* Definition: The instructor is principally responsible for the preparation of the subject matter and leading students in a two-way analysis of presented material. A Recitation is a stand-alone course, distinct from a Discussion (see below), which usually supplements a lecture course. 
+
+
+Laboratory
+* Definition: Students engage in exercises and/or investigations under the direction and supervision of the instructor.
+
+
+Discussion
+* Definition: Students and instructor engage in two-way communication usually based upon the contents of a lecture.
+
+
+Independent Study
+* Definition: Students receive individual consultation and guidance from the instructor. Total student effort should be comparable to that involved in lecture or seminar courses.
+
+
+Experiential (Internship)
+* Definition: The student’s main effort takes place in a work, clinic, or research setting, other than the usual classroom, laboratory, studio, or library, and under instructor supervision. The instructor’s supervision is generally less direct or less intensive than in a laboratory course, and the work is generally oriented more toward practice and less toward research. Any resulting product should bring the academic point of view to bear on the experience but instructors are given a wide leeway in how to evaluate the breadth and depth of understanding achieved.
+
+
+Special Topics Courses
+Such courses are typically those that departments are uncertain will be offered more than once or where the course content may vary. 
+
+
+“Short Courses” (Not on Course Approval Form)
+* These may be off-campus or on-campus courses of shorter duration than the regular full or half term offerings. They provide departments with flexibility in designing their curricula, although the expectation is that such courses will be designed only when there are sound academic reasons for doing so. Short courses are expected to be as academically rigorous as courses that extend for the full length of the term and follow the standard minimum total of contact hours per credit as the full term class component equivalent. 
+
+
+________________
+Bachelor of Science in Information (Undergraduate Program) 
+
+
+Course credit is largely based on contact hours, which is defined as time spent by students engaged with the course instructor. It is generally accepted that 50-60 minutes is equivalent to one hour in determining the credit hour standard. In addition, it is expected that students complete 2 to 3 hours of additional time in independent preparation (readings, papers, etc.) for each hour of class time spent in most types of courses. 
+
+
+UMSI’s credit hour policy for the different types of undergraduate courses offered is:
+
+
+* Lecture: One contact hour of instruction equals one credit hour.
+* Discussion: One contact hour of instruction equals one credit hour.
+* Recitation: One contact hour of instruction equals one credit hour
+* Seminar: Two-thirds to two contact hours of instruction equals one credit hour.
+* Laboratory: Two contact hours of instruction equals one credit hour. 
+* Independent Study: Contact between instructor and student is required, but not necessarily on a weekly basis. Generally there is less contact between student and instructor (e.g., 1 hour every other week) and more independent learning, research, or other work outside class (4-5 hours per week).
+* Experiential (Internship): Four to eight weekly contact hours in the setting and/or with the instructor per credit. 
+   * Exceptions may be made in relation to contact hours based on the amount of instructor supervision, reading, research, and other academic activities to which the field experience is supplemental.
+
+
+Hybrid and online courses require an equivalent amount of instruction and student work as required by in-person courses.
+
+
+Courses that do not appropriately fall within any of the categories described will be treated individually. The course description must explain the conditions for credit.
+
+
+Courses offered during semesters lasting fewer than the normal 15 weeks will have their credit hours determined mathematically. For example a lecture course meeting 1.5 hours twice per week for seven weeks will be assigned one and a half credits.
+
+
+________________
+Master of Science in Information and the Master of Health Informatics (Residential Masters Programs)
+
+
+Course credit is based on contact hours, which is defined as time spent by students engaged with the course instructor. It is generally accepted that 50-60 minutes is equivalent to one hour in determining the credit hour standard. For each credit earned per full academic term (15 weeks), students are expected to participate in two to three hours of work each week outside class and receive at least:
+
+
+* Lecture: One contact hour of instruction equals one credit hour.
+* Discussion: One contact hour of instruction equals one credit hour.
+* Recitation: One contact hour of instruction equals one credit hour
+* Seminar: Two-thirds to two contact hours of instruction equals one credit hour.
+* Laboratory: Two contact hours of instruction equals one credit hour. 
+* Independent Study: Contact between instructor and student is required, but not necessarily on a weekly basis. Generally there is less contact between student and instructor (e.g., 1 hour every other week) and more independent learning, research, or other work outside class (4-5 hours per week).
+* Experiential (Internship): Four to eight weekly contact hours in the setting and/or with the instructor per credit. 
+   * Exceptions may be made in relation to contact hours based on the amount of instructor supervision, reading, research, and other academic activities to which the field experience is supplemental.
+
+
+Hybrid and online courses require an equivalent amount of instruction and student work as required by in-person courses.
+
+
+Courses that do not appropriately fall within any of the categories described will be treated individually. The course description must explain the conditions for credit
+
+
+Courses offered during semesters lasting fewer than the normal 15 weeks will have their credit hours determined mathematically. For example a lecture course meeting 1.5 hours twice per week for seven weeks will be assigned one and a half credits.
+
+
+
+
+________________
+Master of Applied Data Science (Online Masters Program)
+UMSI has adopted the guidelines issued by the Center for Academic Innovation in its Online Education Compliance - Attendance and Credit Hours that is based on both Federal Distance Education rules and HLC guidance. Much of the text below is quoted from this document. 
+
+
+Course credit in online programs mirrors that of residential programs in that students are expected to spend time in-class and outside of class in approximately a 1:3 (contact hours:work outside class) ratio.[2] Estimating class time is hard as recorded lectures may involve exercises and other activities intended to be completed in conjunction with viewing recordings. Thus, a student’s experience viewing an hour long lecture may last for longer than the hour. In light of this, the U.S. Department of Education has made clear that it does not intend to prescribe “seat time” minimums. In online settings, estimates should reasonably predict the overall time that the average student would need to invest in order to complete the course. Such estimates can include both unsupervised student work, such as homework and research, and more observable forms of academic engagement. It is generally accepted that 50 minutes or more constitutes an “hour” for these purposes, and that overall time investment is at least 37.5 hours per credit over the full session.
+
+
+Moreover, merely documenting that a student has logged into an online class is not sufficient by itself to demonstrate attendance for financial aid and enrollment purposes. Rather, recorded academic engagement, defined below, is the basis for demonstrating attendance.
+
+* submitting an academic assignment;
+* taking an exam or quiz, an interactive tutorial, or other computer-assisted instruction, including interacting with lecture videos;
+* attending a study group that was assigned by the institution; 
+* contributing to an academic online discussion or forum; and
+* Initiating contact with faculty to ask about concepts germaine to the course.[3] 
+
+
+
+
+________________
+PhD.
+UMSI follows the policy that the Rackham Graduate School has set forth in the Assignment of Credit Hours. This is summarized below.
+
+
+Course credit is based on contact hours, which is defined as time spent by students engaged with the course instructor. For each credit earned per full academic term (15 weeks), students are expected to participate in two to three hours of in independent preparation each week outside class and receive at least:
+* Lecture: One contact hour of instruction equals one credit hour.
+* Discussion: One contact hour of instruction equals one credit hour.
+* Recitation: One contact hour of instruction equals one credit hour
+* Seminar: Two-thirds to two contact hours of instruction equals one credit hour.
+* Laboratory: Two contact hours of instruction equals one credit hour. 
+* Independent Study: Contact between instructor and student is required, but not necessarily on a weekly basis. Generally there is less contact between student and instructor (e.g., 1 hour every other week) and more independent learning, research, or other work outside class (4-5 hours per week).
+* Experiential (Internship): Four to eight weekly contact hours in the setting and/or with the instructor per credit. 
+   * Exceptions may be made in relation to contact hours based on the amount of instructor supervision, reading, research, and other academic activities to which the field experience is supplemental.
+
+
+Hybrid and online courses require an equivalent amount of instruction and student work as required by in-person courses.
+
+
+Courses that do not appropriately fall within any of the categories described will be treated individually. The course description must explain the conditions for credit.
+
+
+Courses offered during semesters lasting fewer than the normal 15 weeks will have their credit hours determined mathematically. For example a lecture course meeting 1.5 hours twice per week for seven weeks will be assigned one and a half credits.
+
+
+
+
+
+
+
+
+________________
+[1] UMSI’s definitions and requirements align with the Office of the Provost Guidance on Defining the Academic Credit Hour, the Rackham Graduate School’s Assignment of Credit Hours, and the Center for Academic Innovation’s Attendance & Credit Hours in Online Courses.
+
+
+[2]The U.S. Dep’t of Education acknowledges, however, that not all disciplines or degree types will follow these exact conventions.
+[3] These academic engagement examples were adapted from the U.S. Dep’t of Education FAQ guidance.

@@ -1,0 +1,20 @@
+{
+  "dataset": "dev",
+  "total_questions": 50,
+  "total_scores_calculated": 50,
+  "average_f1": 0.49111763472828374,
+  "median_f1": 0.527536231884058,
+  "min_f1": 0.17647058823529413,
+  "max_f1": 0.7586206896551724,
+  "std_dev_f1": 0.13670129043882673,
+  "average_jaccard": 0.34291074369469504,
+  "median_jaccard": 0.36038961038961037,
+  "exact_match_rate": 0.0,
+  "average_token_overlap": 0.4790147457461699,
+  "average_bleu1": 0.4571743144269401,
+  "average_bleu2": 0.29897480390831943,
+  "average_bleu4": 0.11850884152173961,
+  "average_rouge1_fmeasure": 0.5455278939057968,
+  "average_rouge2_fmeasure": 0.24628151107217922,
+  "average_rougeL_fmeasure": 0.46868881504033927
+}

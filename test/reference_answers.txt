@@ -1,0 +1,85 @@
+Some transfer credits may count if they match U-M's upper-level standards and are approved by BSI advisors, but they must be carefully evaluated for equivalency.
+Yes. Some courses have established grading rubrics for papers, group projects, and presentations, shared via Canvas or the course syllabus.
+Instructors or BSI academic advisors can issue overrides if a course is vital to a student's plan; spots are not guaranteed, so students must request it.
+Typically, a pathway is chosen during junior year orientation, and switching is possible if new requirements can still be met before graduation.
+Many do pursue minors (like Computer Science or Business). It's feasible if you plan carefully with your advisor to handle both BSI and minor requirements.
+Yes. AP credits often free up space for more SI electives, though AP credit usage is subject to U-M's standard AP credit policies.
+Some courses introduce R, SQL, or specialized data visualization platforms. The exact toolkit depends on the instructor and current tech trends.
+While there isn't a formal track, students can do directed research with faculty, earning independent study credit, or apply to Undergraduate Research Opportunity Program (UROP).
+They typically complete it through LSA's upper-level writing courses or specific SI courses that carry upper-level writing designations.
+Advisors provide a default sequence. Some rearrangement is possible, but certain courses (like SI 206) are prerequisites for advanced classes.
+Many do incorporate real clients—e.g., local companies or nonprofits—to give students practical experience in user research or data analysis.
+There is no formal advanced math requirement beyond standard U-M admission math. However, data-focused BSI students find it beneficial to have some familiarity with college-level math.
+Yes. These include user-centered thinking, data handling, collaboration, ethics in information use, and effective communication skills.
+The BSI doesn't have "studios" in the traditional sense. However, certain user-experience courses provide dedicated lab sessions for prototyping.
+Team-based work is common across most terms, although some courses emphasize individual projects, especially if they focus on specialized skill development.
+The Capstone sequence is the main culminating experience; a thesis is not standard, though an honors thesis can be arranged under faculty supervision.
+They must still meet the 60 upper-level requirement, UMSI core, and any incomplete distribution requirements. Advisors map everything out carefully.
+They vary significantly: technical classes may use coding or analytics tasks, while design/ethics courses often use essays or reflective writings.
+Yes, SI 485/487 typically culminates in a public or class-based presentation. External partners often attend to see final deliverables.
+Most group projects span the entire semester with 3–5 students collaborating, though some classes vary in size or project duration.
+Absolutely. Discussions of privacy, security, and ethical data usage are woven throughout, especially in data analysis and design courses.
+Some classes may cap seats, but the school attempts to accommodate most admitted BSI majors across core courses.
+Yes. UMSI's Academic Success team collaborates with mental health resources to help students balance coursework and well-being.
+Professors encourage students to recruit peers or community volunteers to gather user feedback, following IRB guidelines when needed.
+While not BSI-only, UMSI students do form undergrad teams in cross-campus hackathons. Some BSI faculty also advise them.
+Core classes can be larger (60–120 students), whereas advanced electives sometimes have 20–40 students.
+They can mix courses, but the official transcript will reflect the declared pathway if they fulfill that set of required credits.
+The program reviews curriculum each year, updating or introducing special topics courses as technology evolves.
+Not required, but strongly encouraged. Many do so for internships or job searches, especially if they focus on UX.
+Yes. The Engaged Learning Office or CDO occasionally arranges site visits for career exploration in southeast Michigan.
+It varies by instructor. Some core lectures are recorded if the classroom supports it, but not all classes do so.
+BSI students follow the UMSI Academic and Professional Integrity guidelines, plus broader UM standards.
+It's more common for grad students, but BSI undergrads with interest in research can pursue independent studies or volunteer on projects.
+Instructors may grant extended deadlines or alternative formats, especially if recommended by the Office of Services for Students with Disabilities.
+Advisors suggest balancing the schedule: pair project-based classes with reading-heavy ones, not all at once.
+Occasionally, with instructor permission and if they meet prerequisites. Credits typically count as upper-level elective credit.
+UMSI Academic Success offers writing support, or they can visit the UM's Sweetland Center for Writing.
+Yes. Some entrepreneurial pitch competitions exist at U-M and are open to BSI students with innovative info-related ideas.
+Typically by the end of SI 206 or similar. Students often reach proficiency in fundamental Python usage within that semester.
+Many return as guest speakers, mentor BSI undergrads, or attend career panels to share experiences and advice.
+Generally, prerequisites can be completed during fall and winter. Summer enrollment is optional if needed to stay on track.
+Collaboration is common, but final mastery deliverables typically include individual reflections or contributions to document each participant's learning.
+Not automatically. Each course has separate skills to demonstrate; a separate waiver request or test is required for SI 507.
+Yes, if the external certificate's courses align with MSI electives. Students must ensure total MSI credit minimums are still met.
+Not formally. However, advising appointments are strongly recommended to confirm pathway progress.
+Certain special topics or advanced design courses may cover modern frameworks, though offerings vary by semester.
+Yes, faculty focusing on LIS can serve as mentors. Students can connect with them for guidance on library-related coursework.
+Both are internship courses. SI 681 typically covers shorter experiences or fewer credits; SI 690 can accommodate a more extensive internship or bigger credit load.
+Advisors share an ideal progression (SI 506 → 507 → 544 → 618 → 670/671 → 602 → Mastery). Electives differ by interest (e.g., advanced ML vs. visualization).
+Most run the entire 14- to 15-week term, culminating in a final presentation or written report.
+Potentially yes, if it aligns with mastery prerequisites, has an SI faculty sponsor, and addresses the required competencies.
+Yes. The school or U-M often offers short intensives in data tools, especially near the start of fall term, open to MSI enrollees.
+Yes, but the program typically must be completed within five years. Students should confirm any scholarship or visa constraints.
+Big Data and UX tend to see heavy tech recruitment; LIS or info policy may lead to library, government, or social sector roles.
+Projects often use U-M's computing clusters or cloud credits. UMSI ensures that students can access necessary computing power.
+Yes, but that's uncommon; the original grade remains on the transcript, though only one version counts for credit.
+They can combine electives from multiple pathways, do an integrated Mastery project bridging all three areas, and consult with advisors on synergy.
+Required ethics coverage appears in core classes. Additional DEI or ethics workshops may be encouraged but not always mandatory.
+Yes, the CDO occasionally hosts specialized career events. Students can also partner with relevant campus groups.
+They can pick classes from both tracks, but they must still fulfill the Mastery prerequisites for whichever they finalize as their official path.
+Workloads can be substantial, often including case studies, journal articles, and research-based texts, especially in info policy or social computing courses.
+Yes. By completing SI 506 and 507, you build the foundation needed for advanced classes. Faculty also provide extra resources for novices.
+Usually not. SI 544 is the standard stats/analysis requirement. You can request an exception with proof of equivalent background, subject to approval.
+Some instructors arrange site visits. Others bring in guest speakers, depending on the course's focus.
+The UMSI Computing Services team coordinates cluster or AWS/GCP sandbox access for class projects; students request accounts as needed.
+The Academic Success team can connect you to peer tutors, especially if multiple students request help in a specific advanced course.
+That depends on the specific path. Some instructors integrate short reflection papers into the Mastery. Others require a portfolio reflection.
+Most are 3 credits, but short courses or special intensives can be 1-2 credits. The schedule of classes clarifies each.
+They can collaborate, but each must produce individual reflection components to satisfy the Mastery's personal demonstration criteria.
+Not as a primary focus, but certain special topics or big data courses may include IoT as part of data pipeline discussions.
+Check out campus-wide data or hackathon events. The CDO or academic advisors can direct you to multi-school team sign-ups.
+Some courses have lab hours with GSIs. The UMSI Engagement Center also offers group study tables and help sessions.
+Typically, the student and the faculty sponsor share rights, depending on funding sources. Check the UM IP policy for details.
+Each course sets its own reading. Some pathways circulate recommended reading lists among advisers or faculty leads.
+Yes, if all required pathway and mastery courses are completed. Check with the registrar for final clearance.
+Some advanced design or user-centered courses, plus data analytics classes, align well with product management. Students also learn project scoping in group projects.
+Many courses require peer evaluation forms, factoring them into final project scores. Some instructors grade individually based on those evaluations.
+Yes. Some volunteer as workshop leaders at events or serve as discussion leads in undergrad labs, if they have the relevant expertise.
+Yes. UMSI runs end-of-program surveys and occasionally focus groups to shape future improvements.
+Advisors often suggest using a self-compiled e-portfolio or skill matrix to note key deliverables, coding languages, or design methods mastered.
+Yes, an MHI orientation typically covers HIPAA, medical record security, and legal constraints in healthcare data.
+There's no strict clinical rotation, but practicums or internships in clinical settings are common, supervised by professionals with domain expertise.
+It's a joint program. A combined admissions review is performed, involving both UMSI and SPH faculty/staff.
+Courses like health data analytics or advanced health data science center on outcomes, epidemiological methods, and software tools.
+Yes, with permission. Many MHI students add these to strengthen technical skills.

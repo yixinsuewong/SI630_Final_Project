@@ -1,0 +1,189 @@
+# MSI Program Course Guide
+
+## Introduction
+
+This document is editable. Everyone is encouraged to actively contribute their evaluations for mutual sharing!
+
+Also please be careful with your operations, don't delete by mistake!
+
+This document contains evaluations of MSI courses from Chinese senior students, aiming to provide some reference for future students when selecting courses.
+
+However, since everyone's experiences and interests differ, these evaluations are quite subjective.
+
+We hope that future students will continue to contribute, making our document more comprehensive and providing help and information for future juniors!
+
+**Strong recommendation**: When sharing your opinions, please include the **semester** you took the course and the **instructor's name**.
+
+Please write your evaluations in the **Courses Guide** section.
+
+Tips:
+- SIADS courses cannot be selected. ELI courses can be selected but are not counted toward total credits.
+- If you want to take a one-credit course, try to schedule it in the fall semester when there are more choices.
+- MSI does not belong to Rackham Graduate School; it is independently managed by the School of Information.
+
+Note: On 9/30/2023, I completely revised this document based on the latest MSI program requirements and collected other Chinese perspectives about SI courses found online; renamed the document to MSI 101/Rate your SI (carlfan@umich.edu)
+
+This is my own consolidated version of this document. Future maintenance work on SI course evaluation documents will be done in my consolidated version: [MSI 101/ Rate your SI](https://docs.google.com/document/d/1D5OIaluRGQr3JtJ6rqDahVhXHya3X-bk0sNkH8EaPuM/edit?usp=sharing)
+
+## Big Data Analytics
+
+### SI 501: Contextual Inquiry and Consulting Foundations
+Student says: Kentaro is a great person, this course's workload is not heavy, relatively relaxed. Choosing the right client is very important.
+
+Student says: The course workload is small, but the difficulty depends entirely on the client you choose. Overall, the course feels relaxed.
+
+Student says: The professor is extremely nice. Although the workload looks heavy at first glance, only the initial background research report is a big paper. The rest is just preparation for the final group paper, and it actually goes by quickly. Especially after completing 622, looking back at 501 doesn't feel challenging at all (with bitter laughter).
+
+11/01/2022: Kentaro is a clear lecturer, kind person, and capable professor - probably the best professor I've encountered. Overall I learned a lot of very useful knowledge from this course, with comprehensive improvement in listening, speaking, reading, and writing, plus many research skills.
+
+The workload truly depends greatly on your client and team members. In the semester when I was taking 582, 588, and 520 simultaneously, 501 was the course with the largest workload and time commitment. Our group was assigned to a large company, and I was initially happy thinking it would look good on my resume, but it turned into a disaster. The client changed the proposal report 6 days before our 2000-word essay was due, and then sent piles of emails every week from start to finish. The primary contact would take time off at the drop of a hat, and interviews had to be scheduled by them due to NDA requirements. I think when choosing a company, you really need to be clear about what you want to get out of this course. At least based on our experience this semester, clients related to UMich would make communication much easier in many cases, and if there's no NDA, the entire process can be included in your portfolio.
+
+1/15/2023: The previous students all mentioned Kentaro, but I had Melissa (because it wasn't at 8am), and personally I thought Melissa lectured very well. She and her GSI were both very warm and provided a lot of help. Her syllabus is identical to Kentaro's, probably the standard one. The workload for this course is indeed only heavy for the initial background research report, where you choose a topic you want to research based on the client's problems and write 2000 words. But from personal experience, if you encounter a GSI who is easy to talk to, it doesn't matter if your writing isn't very careful or high quality. Communication with the client is very important, as is communication with teammates. This course uses completely random group assignments, so if you encounter teammates with habits different from yours or who slack off, the entire semester will feel like hell. Another noteworthy point is that at the end of our semester, Melissa told us that 501 was going to undergo major changes, so the next cohort might have a completely different experience, in which case our recommendations wouldn't be useful as a reference.
+
+### SI 504: Git, Shell & Server
+If you're not familiar with git before, this might be a bit challenging, but it's required for DS and agile development tracks.
+
+Hang in there :)
+
+To be honest, the workload is quite large, especially when you can't debug.
+
+### SI 506: Programming I 
+Student says: Although this course is described as an introductory course, if you come in with absolutely no Python foundation, it will be very painful. The class moves at a fairly quick pace, but the professor and teaching assistants are extremely nice and very patient in answering questions. I recommend that students first take an introductory course on Coursera before taking this class - you'll enjoy it much more.
+
+Student says: This mainly teaches Python basics, so the workload is relatively small. If you already have a Python foundation, I recommend directly waiving this or taking SI507 instead. No need to waste credits taking this again.
+
+### SI 507: Intermediate Programming 
+Senior says: An introductory course on OOD+API+full stack development, very practical and personally recommended. A fundamental course for transitioning to coding.
+
+Student says: Take it! The professor is easy to deal with. Sometimes there's no homework for a whole month - a perfect course for easy credits.
+
+### SI 544: Introduction to Statistics and Data Analysis
+R language, will introduce basic knowledge of statistics. The course is relatively basic and tool-focused, and it's easy. There are textbooks, and the content taught in class is basically consistent with the textbooks. You might choose to study the materials on your own.
+
+Assignments are few, just a few very simple problem sets + a final project. Apart from the required discussion sections, you barely need to spend time outside of class.
+
+### SI 618: Data Manipulation and Analysis
+Senior says: Mainly teaches pandas, seaborn, and other Python libraries for data processing, with some big data. This is a required course, very practical, and one of the industry-standard technology stacks for data processing. Frequently tested in interviews. It helped me tremendously for my data scientist internship.
+
+### SI 630: Natural Language Processing: Algorithms and People
+Senior says: My personal favorite, probably also the most hardcore of all SI courses. Large workload, fast-paced lectures.
+
+## UX Research and Design
+
+### SI 520: Graphic Design and Visual Communications
+Student says: Vadim and Elena (husband and wife) are both extremely patient and friendly, but their accents are quite difficult to understand, especially Elena. During labs, you basically have to stare at the screen to keep up with the class pace. Vadim's content feels more abstract? Strongly recommended: students with design backgrounds should definitely waive this course, as the workload is quite heavy.
+
+Student says: This course just requires you to do everything on the checklist carefully to get a high score. Innovation generally doesn't add points. The 04 section easily exposes design flaws. This course focuses more on basic exercises to reinforce some fundamental design principles. The workload is quite heavy.
+
+Student says: If you're taking this course with Vadim and Elena (husband and wife), be prepared for listening exercises, as their accents might be difficult for some students to understand. However, both are very kind and warm teachers who are willing to spend time answering students' questions. The weekly workload is quite heavy. Interestingly, when submitting assignments, it's not considered the final grade, because you can resubmit unlimited times until the end of the semester. Each time your assignment is graded, no matter how hard you try, your first submission will likely lose some points, so don't put too much effort into the first submission, but do make sure to submit the assignment before the deadline.
+
+11/01/2022: I feel it's actually quite useful for someone without much graphic design foundation (at least I'm more familiar with PS and AI now), so my experience was pretty good. And since it's a very basic course, Elena is also very patient. It's a course that can help people without a foundation acquire some basic graphic design knowledge. As for workload, I personally feel it's about the same as 501, 582, 588. Perhaps 4-13 hours per week varying (if you use Figma, the time will be much less!), with most weeks around 7 hours. And since these are individual assignments, the schedule is more flexible - no need for group meetings and such.
+
+### SI 529: Online Communities
+Pro: Low workload, the professor (Dr. Nazanin Andalibi) is nice, GSI gives high scores.
+Con: Basically no group activities, overly academic, some papers are boring, taste like chewing wax, and quite long.
+
+Each week requires reading two to three papers about social communities. The paper content can provide experimental conclusions and inspiration for social media platform design. The assignment for the papers is to write a one-page reading response. The early part of the class content mainly involves the professor analyzing the weekly required readings, and the reading responses completed before class also provide ideas for class discussions; in the latter part, the professor invites authors of the papers as guest speakers, providing additional paper background and discussion opportunities.
+
+The more significant assignments are two group projects:
+1. Social Community Study
+   - 3-4 people in a group, first find a social media platform that team members have a common interest in, lasting about 6 weeks: research, register accounts, enter the community to observe, analyze observation results (both qualitative and quantitative), then write a summary report. Note: The professor encourages incorporating theories read from papers.
+
+2. Design or Research Pitch
+   - 3-4 people in a group, first think of a social media platform you want to design, or a social media platform you want to research.
+   - Note: I chose design, so if there are students participating in research pitch, they can supplement below.
+   - After the topic is set, perform operations similar to SI582, from user need findings to prototype, but because less time is given, the group can arrange the time needed for each design stage based on their project and situation, such as reducing the number of interview participants and questions... From the professor's previous examples, the focus is still on writing reports, design only needs to demonstrate your group's concept.
+
+Student says: The workload for this course might be larger than expected. For each class, the lecture is mostly about reading, but occasionally discussions will touch on deeper topics like online ethics, highlighting this course's focus on minority communities online. This course has two major projects, both team-based - the first is research, and the second can be either design or research.
+
+### SI 538: Citizen Interaction Design 
+Senior says: A team of 4 people works on a client-based project for a semester. Apart from regularly submitting stage-by-stage results for the project, there are no other tasks. The workload is moderate (depends on the project). Since most projects are citizen-related topics, I personally feel it's not easy to produce eye-catching designs, with most results leaning toward research.
+
+A four-credit project-based course, the overall process is similar to 582 but with relaxed assignment requirements. Extremely small workload, highly recommended.
+
+The final output completely depends on the project you choose. Some teams only made recommendations similar to 501, while others did very large interaction designs. Projects are self-selected, with three positions available to rank, so choose carefully based on your ideas. Scott is very nice, the overall course tasks aren't many, and grading is lenient.
+
+### SI 539: Web Design: Responsiveness and Accessibility
+Large workload, weekly: submit--code assignments, test--weekly quizzes, read--lots of readings, comment--write comments. You can learn front-end languages along the way, so it's recommended to take this course over others. The professor doesn't lecture much, 80% self-study. End of term: submit your self-built portfolio website for grading.
+
+Student says: If you have programming basics, front-end languages aren't that difficult. One of the best aspects is that you can code your own portfolio.
+
+Student says: There are assignments every week, but actually the most helpful part of this course isn't the lecture but the discussion. In discussion, students usually discuss assignments together and figure things out, which can help those with less programming experience.
+
+Student says: This has been my worst course experience so far. Lots of assignments + meaningless exams + random miscellaneous tasks + poor teaching. All self-learning and Google, the professor basically taught nothing, and the content is too outdated. Strongly recommended: definitely waive this course!!! Even if you have the basics, waive it. There are too many random annoying things.
+
+Senior says: Personally not recommended, but it's required. The overall content is simple and outdated.
+
+Well... With absolutely no prior foundation and while taking 506, I thought Colleen taught quite well, and the course arrangement was also very flexible/free. No need to attend lectures, just show up for discussion, and you can learn from the readings and Google she provides, asking questions when needed. Being forced to make a website was super helpful!
+
+I feel this course's value is in teaching designers not to make sky-high designs, and how to argue with engineers/PMs. If you have front-end basics, you can skip the readings, and the assignments aren't very difficult, but they do take time with many small details that need repeated testing. For me, I learned how to evaluate websites from an accessibility perspective, which is fundamental regardless of how technology changes. I don't recommend using the final project as your portfolio website because your own code's performance won't be that good. 83% is an A, 98% is an A+. Students who aren't obsessed with GPA can spend a bit less time on this.
+
+From the 2022 winter timeline, A is 90%, not the 83% mentioned above. If your regular scores are good enough, you can get an A without doing the extra credit part of the final project.
+
+### SI 582: Introduction to Interaction Design
+Student says: I feel like Tonya's PPT is from centuries ago. The workload isn't heavy, it just teaches the basics of interaction design, covering material you've already encountered when making portfolios - it feels a bit like review. The format is: at the beginning, you individually choose a project topic, and then spend the entire semester doing interaction design projects around this topic. However, I probably wouldn't include this in my portfolio because the quality isn't high.
+
+Student says: Prof Hui's 582 course has a smaller workload, relatively relaxed. Grading for assignments is quite lenient. If you don't do well on an assignment, you have one chance to resubmit, and assignments are generally done in small groups. But regular classes feel like she's just reading from the PPT, feels quite rigid...
+
+Prof Andalibi's class is just reading GSI-prepared PPTs... but the GSI is very helpful with projects. This course's deliverable was also the only design project I used when looking for internships.
+
+If you're going to take 582, I don't recommend taking Tonya's section. Her teaching standard isn't great, and taking her class is purely reading the material and self-study.
+
+Tonya is very nice, but the class is very average, and she'll praise your assignments no matter what you submit.
+
+(2021 fall) Like the comments above, Tonya doesn't really know how to teach design methods. Most of the class time is spent teaching discovery, ideation, and a bit of user research.
+
+### SI 588: Fundamentals of Human Behavior
+Student says: It's truly an easy course, graded on a point system. The more you do, the higher your score, but getting an A is definitely easy.
+
+Student says: This course changed significantly after Fall 2021, with more assignments and a smaller module proportion. Reviews of this course from before Fall 2021 can basically be ignored (sigh).
+
+It's a course where the actual time spent on assignments = the time the professor thinks you'll complete assignments * 3.
+
+### SI 612: Pervasive Interaction Design
+Student says: This mainly introduces IoT. The overall knowledge is different from interactive design, with lots of new knowledge to learn. Personally, I recommend that if you really want to take this course, definitely form your own group in advance, otherwise encountering unsuitable team members will make the workload feel overwhelming.
+
+Student says: Went through a tangled mess of high-level research methodologies, and what we ended up with was roughly middle school science innovation competition level. Halfway through the semester, still in the scoping phase, with no project implementation. Honestly, I'm not sure what the huge time investment in this course was actually doing. Group collaboration time estimated at over 5-6 hours per week. With the terrifying group work load, encountering bizarre teammates can directly break your spirit. From a personal perspective, I didn't learn anything new.
+
+I took this course to learn about IoT design, but was greatly disappointed. First, the entire design process is completely weighted toward research and scoping, spending half a semester on the first three milestones, doing research to validate ideas, then completing presentation, prototype, and video in the last two weeks, with no good opportunity to refine your design. Validating ideas through research methods in the early stages is important, but three or four rounds of research is just wasting time. I personally think more time should be spent learning how to make prototypes and using these prototypes for usability testing for more meaningful iteration. Secondly, because a physical prototype is required for the final project, limited by insufficient programming/modeling/crafting abilities, at least for our group, we could only compromise, and it ended up becoming about completing assignments, omitting many functions that we wanted but couldn't implement. Finally, I personally feel that the professor and GSI don't have a rich knowledge base in IoT, and their suggestions for student projects are completely based on subjective preferences, with many groups being led astray by their feedback. At the same time, I feel they are too conservative about project scope - IoT is a broad field, but they tend to have students make small devices for everyday life, and requiring physical prototypes also limits projects.
+
+Personally, I think the research practice was quite helpful, and you can be exposed to some sort of engineering. The pace is fast, and overall it's about applying what you learned in 622+501 to the IoT field. If you want to do something solid, it's a bit overwhelming. If you encounter good teammates, you might even learn PM-related skills. The work probably can't be included in a portfolio because it's non-digital and quite rough, but the concept and overall process are quite good.
+
+### SI 616: Advanced Topics in Graphic Design and Communication
+Student says: DG again! This is the advanced course for 520, covering some relatively advanced design knowledge, such as design for emotions. The evaluation criteria aren't as rigid as 520, with more tolerance for innovation. The workload is similarly large. Each week, two people form a group to present a designer, and then create a set of brand designs in their style. You can learn quite a bit.
+
+Student says: It was a huge disaster! The major assignments have no rubric at all, with Vadim grading solely based on his mood. No feedback is provided for improvements; you can only redo it. I personally feel that graphic designers are entirely self-cultivating, and this course severely impacts self-confidence and self-esteem. They don't really respect students and put on airs as teachers.
+
+### SI 649: Information Visualization
+Every week there are extensive readings and self-study videos (the professor will go through them again in class), with a large workload but you definitely learn a lot. Besides that, there's a weekly lab - the first 6 weeks are similar to software tutorials, requiring Python, but the provided materials are far from sufficient to complete the assignments (this is quite challenging). After struggling through the first six weeks, each week you'll be randomly assigned to groups to complete a 2-hour workshop, mainly designing visualizations based on different themes. Students who enjoy design thinking will find it interesting and can learn a lot. There will also be two major assignments for midterm and final, one completed individually and one in freely formed groups. The results can serve as a small data viz project. If you're interested in this direction and have some time in the first 6 weeks, it's still recommended.
+
+### SI 658: Information Architecture
+A course that teaches very academic concepts, feeling almost completely unhelpful. Nevertheless, the professor is extremely nice, and the workload is very small. The first half of the semester has weekly readings, with a large volume - sometimes having to read an entire book in a week, but the reading response only requires writing one to two sentences of questions after reading. The second half has group assignments, creating a conceptual design for AR/VR, without needing to make a prototype, just describing it in text and drawing a few pictures. If you encounter proactive teammates, you can complete the assignments by spending an hour during class time each week. Finally, use a poster to showcase the design process and present it to the whole class.
+
+Feels like a very academic course, surprisingly focuses a lot on architecture. The readings are quite interesting. The professor isn't actually a professor; he runs his own company, so he doesn't have many detailed practical contents - his lectures feel like presentations. Students accustomed to looking at rubrics will probably feel confused. The course is extremely relaxed, or "easy," but you can seriously read the readings you're interested in, which will bring new perspectives and ideas.
+
+A very easy and mysterious course. By the end, everyone didn't know what they were doing. Almost no assignments (possibly because our GSI was on strike this semester), but the classroom atmosphere was relaxed, and the professor was humorous and interesting. If your coursework is heavy, I recommend taking this to balance your mood.
+
+## User-Centered Agile Development
+
+### SI 579: Building Interactive Applications
+A good course for transitioning to coding? An introductory front-end course. Mainly teaches JavaScript and React. The content is very basic, but the professor teaches quite solidly, covering material that appears in front-end interview questions. The issue is that students without a coding background might find it challenging, and the professor will accommodate them a lot. Therefore, students with a coding background might find the pace very slow. I recommend students with coding backgrounds take it as an easy course, as the workload is small, while those without coding backgrounds who want to transition should study hard (it might be quite challenging). SI 669's pace is much faster than this course. Stoney is super nice, assignments can be extended upon request, and the exam design is also nice.
+
+### SI 631: Agile Software Development for Content Management Systems 
+This course has nothing to do with programming; it's actually a project management course leaning toward business. In class you'll use Jira, with few assignments and relatively lenient grading.
+
+Mainly learn about agile and how to be a professional employee, with clients invited from within the school.
+
+### SI 664: Database Application Design 
+Senior says: Actually, it has nothing to do with databases, more like data-driven applications. The technology stack is MySQL + Django. The course is very practical. A good course for transitioning to coding.
+
+This course mainly teaches how to use Django to create websites that display data. Recommended for students interested in web development. After completion, you'll have a basic understanding of routes, controllers, views, and the ability to self-learn another framework. This course can be taken casually or solidly, depending on whether you want to learn MVC framework development. The workload isn't large - you can watch videos, then modify code. The auto-grader for assignments allows unlimited submissions, so you don't even need to attend class. Exams have sample examples with identical logic. Most people end up with 100% final grades.
+
+### SI 669: Developing Mobile Experiences
+Senior says: Taught by Mark Newman, who lectures extremely well. The main technology stack is React Native + Firebase. A good course for transitioning to coding.
+
+Student says: The technology updates quickly, and the professor might not notice some small details. Often the code doesn't run -> discover it's because the version changed or there's a detail issue or a small typo from the professor, and he can't take care of everyone. So you need to have a certain ability to "solve strange bugs."
+
+Mark teaches very well! His lecture notes are very clear, and he's extremely patient when helping with debugging. Code review is very necessary!
+
+Mark's notes are really excellent! You can learn a lot of knowledge. The final project requires making an app using React Native and Firebase. However, you'll often encounter weird bugs due to various version issues. After completing this course, your debugging ability will improve significantly :)

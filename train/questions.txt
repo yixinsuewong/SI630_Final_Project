@@ -1,0 +1,400 @@
+What is the core mission of the University of Michigan School of Information, and how does it guide the curriculum?
+How does UMSI’s history influence its current approach to information science education?
+In what ways does UMSI maintain a culture of innovation and adaptability within its programs?
+Can you explain UMSI’s commitment to social impact and ethical use of information?
+What kinds of interdisciplinary perspectives are reflected among UMSI’s faculty?
+How does UMSI incorporate diversity, equity, and inclusion (DEI) values into its academic programs?
+In what ways do students collaborate across different UMSI degree programs, such as BSI, MSI, MHI, and MADS?
+Does UMSI partner with other U-M schools, colleges, or external organizations to advance its mission?
+How does the new Leinweber Computer Science and Information Building reflect UMSI’s educational philosophy?
+What unique traditions or events at UMSI help foster a sense of community among students?
+Does UMSI have a dedicated office or committee focusing on organizational culture and community-building efforts?
+How does UMSI help students understand and contribute to the public good through information science?
+How does the School of Information’s accreditation history shape the quality of its programs?
+What is the Culture and Community Committee, and how does it influence student experience at UMSI?
+How does UMSI define “organizational culture,” and why is it relevant to information students?
+What are the admissions requirements and prerequisites for the Bachelor of Science in Information (BSI) program?
+How competitive is admission into the UMSI BSI program, and what qualities do successful applicants typically demonstrate?
+When and how should undergraduates apply to the BSI program if they are current U-M students?
+What are the main differences in admissions criteria between the MSI, MHI, and MADS programs?
+How important are standardized test scores (e.g., GRE, TOEFL) for MSI or MHI admissions, and are any waivers available?
+Are there minimum required GPAs for admission to the MSI or MHI programs, and how flexible are these thresholds?
+For international applicants, what English proficiency requirements must be met, and are any exemptions offered?
+What qualities do the admissions committee look for in the personal statement of an MSI or MHI applicant?
+How can prospective students highlight relevant professional experience or internships in their application?
+Does UMSI offer application fee waivers, and if so, under what circumstances?
+How can prospective students learn which transcripts or coursework are relevant for evaluating transfer credits?
+How do admissions timelines differ for fall vs. winter start dates, especially for the MSI or MHI programs?
+Which prerequisites must be completed before starting the MSI if an applicant has little or no programming background?
+How can prospective MHI students demonstrate strong suitability for a health informatics focus?
+What components of the MADS application are most critical to ensuring a successful outcome?
+What types of scholarships, grants, or fellowships are available for incoming BSI students?
+Does UMSI offer graduate assistantships (e.g., GSI, GSRA, staff appointments) to MSI or MHI students?
+What are the typical requirements and responsibilities for a GSI (Graduate Student Instructor) role?
+How does the UMSI Merit Scholarship system function, and what criteria are used to evaluate recipients?
+Are there special scholarships or funding for students from underrepresented backgrounds?
+What is the timeline for receiving a financial aid decision after being admitted to an MSI or MHI program?
+How can international students seek funding support, given limitations on US-based financial aid?
+Are there external fellowships, like FLAS or NSF, that UMSI students commonly apply for?
+Does the School of Information provide emergency financial support or short-term loans for unexpected crises?
+Are there dedicated funds to support study abroad or global engagement experiences for BSI students?
+What part-time work opportunities exist on campus for students looking to offset tuition costs?
+How does the UMSI Dean's Office allocate travel or research grants for professional development?
+What steps can students take to secure corporate sponsorship or employer reimbursements for the MADS program?
+Are there scholarships specifically tied to certain specialized pathways, like Data Science or UX?
+What application materials or forms are needed to be considered for UMSI departmental funding?
+What are the core course requirements for BSI students, and how flexible is the curriculum?
+How do BSI pathway options (Information Analysis vs. User Experience) differ in course selection and career outcomes?
+Which introductory programming course(s) are mandatory for students with no coding background entering UMSI?
+Do BSI students need to complete mandatory capstone courses like SI 405/407 and SI 485/487 in a specific sequence?
+How can MSI students choose among the different pathways, such as Big Data Analytics, UX, or Info Policy?
+Which courses must be completed for the MSI mastery prerequisite, and how do students plan them out?
+Are MHI students required to take specific clinical or health-focused courses beyond the SI prefix?
+How does the MADS curriculum structure the progression of data science courses, and are they synchronous or asynchronous?
+How many total credits do MSI students need to graduate, and how many can be non-SI credits?
+Are there recommended electives for MSI students who want a more technical focus, such as advanced machine learning?
+Do BSI students need to fulfill any lab or discussion components that are separate from their lecture courses?
+What is the role of the integrated project (SI 699 or equivalent) for MSI mastery, and how does it capstone the program?
+How can MHI students combine School of Information courses with School of Public Health or Medical School offerings?
+Are there "short courses" or mini-seminars at UMSI, and how do they count toward degree requirements?
+What does the "2 + 2 structure" mean for BSI students, and how do they use their first two years to prepare?
+How do BSI students typically plan out their two-year sequence to ensure they meet all core and elective requirements?
+Is there a recommended timeline for MSI students to complete mastery prerequisites before their intended capstone term?
+When are course schedules typically released, and how should students navigate the early backpacking and registration process?
+How do students use Wolverine Access and the online degree audit tool to track their progress toward graduation?
+Can BSI, MSI, or MHI students take courses at other U-M schools, and how do they confirm credit applicability?
+Where can students find syllabi or sample assignments for specific UMSI courses before registering?
+How do students petition for an overload of credits if they want to enroll in more than 18 (undergrad) or more than the MSI max?
+What is the process for adding or dropping courses without penalty, and what are the relevant deadlines each term?
+How do students meet with academic advisors, and can they request specialized advising for different pathways?
+Are there structured academic success workshops or tutoring services specifically for UMSI courses?
+How do BSI students approach scheduling the required core courses while still leaving space for outside electives?
+Is there a waitlist priority system for high-demand courses, and what steps can a student take to secure a spot?
+How important is early planning for the Capstone project, and do students need to confirm a project in advance?
+If a student wants to take a semester off or go part-time for a term, how does that affect their course progression?
+Which office should students contact for questions about academic holds or registration blocks on their account?
+How does UMSI's Career Development Office (CDO) assist BSI or MSI students with their internship searches?
+Are internships mandatory for the BSI program, and how do students register for credit (SI 390)?
+Which types of internships are eligible for MSI internship credit (SI 681 or SI 690), and what are the prerequisites?
+How do students handle the difference between paid vs. unpaid internships, and does that affect credit?
+What are the typical responsibilities of an "internship supervisor," and how closely must they be involved?
+How does the CPT (Curricular Practical Training) process work for international students seeking internships?
+Are there any specific timeline guidelines for searching for summer internships to ensure visa compliance?
+How do students formulate learning objectives for the internship course requirement at UMSI?
+Does prior work experience count towards the internship course requirements, or must it be newly arranged?
+What does the internship reflection or final assignment typically involve for BSI or MSI students?
+Can students waive the MSI internship requirement if they have extensive prior industry experience?
+Do MHI students have a distinct internship course separate from the MSI's standard internship offerings?
+Are part-time students also required to complete internship credits, and how do they fit that into their schedules?
+What are the steps to enroll in SI 390 (for BSI) or SI 681/690 (for MSI/MHI) once a student has secured a position?
+Can a student earn internship credit in fall or winter if they do part-time work concurrently with classes?
+Can BSI students study abroad, and which semester is recommended for them to go abroad while still graduating on time?
+What are the key steps for BSI students in planning and applying for a winter term study abroad program?
+Does UMSI have its own exchange agreements with partner institutions around the world, such as IE University or others?
+How do students determine which courses taken abroad can be counted as BSI or MSI electives?
+Are there certain mandatory BSI courses (like SI 405 or SI 407) that cannot be replaced by abroad credits?
+Does UMSI offer financial support or scholarships specifically for international study experiences?
+How does the School of Information coordinate with the U-M Education Abroad Office regarding credit transfer?
+Are language prerequisites required for certain UMSI-sponsored study abroad opportunities?
+When should BSI students start planning for study abroad, and how do they align that with the BSI core sequence?
+Does the MSI program allow a full semester abroad, or is that more commonly done through short-term programs?
+How do students handle visas, travel logistics, and accommodation for the official UMSI exchange programs?
+What is the process for obtaining pre-approval of abroad courses, so that they appear correctly on the degree audit?
+Are there any restrictions on going abroad during one's final semester in the BSI or MSI program?
+How does studying abroad factor into the 60-credits-of-upper-level requirement for BSI students?
+Can MHI students integrate study abroad if they want to explore global health informatics programs?
+How do new UMSI students get oriented to campus resources, such as libraries, labs, and study spaces?
+Where can BSI or MSI students find collaborative project spaces or maker labs in the new Leinweber building?
+Does UMSI provide dedicated student lounges, advising centers, and group meeting rooms for collaborative work?
+What wellness or mental health resources are available to UMSI students specifically, such as embedded CAPS?
+Are there any peer mentor programs or buddy systems for first-year BSI or MSI students?
+How does the school accommodate students with accessibility needs, from building access to learning supports?
+What student clubs or organizations exist under the School of Information, and how can new students join?
+Can students use the Engagement Center above Panera (777 North University) for study or group work?
+What is the best way for commuting students to find parking or public transportation near North Quad or Maynard?
+How does UMSI encourage socializing and networking among BSI, MSI, MHI, MADS, and PhD cohorts?
+Are there events like hackathons, data dives, or design jams open to all UMSI students?
+Where can students report facilities-related issues or concerns about building spaces?
+How can students book the Ehrlicher Room or other meeting rooms for group presentations?
+Does UMSI sponsor any intramural sports teams or collaborative events with other units on campus?
+How do remote MADS students engage in the broader UMSI community if they're primarily online?
+What is UMSI's policy on academic integrity and plagiarism, and how are violations handled?
+Which forms of academic misconduct are explicitly prohibited, and what are the usual penalties?
+What happens if a student's cumulative GPA falls below 3.0 in the MSI program?
+Is there a formal process for retroactive withdrawals, and under what circumstances would that apply?
+How does UMSI handle grade appeals if a student disputes the outcome of a course?
+Are late registration fees or late-drop penalties enforced strictly, or can students petition for waivers?
+What is the attendance policy for most SI courses, and do professors track participation?
+Does UMSI have guidelines for safe and appropriate use of AI-based tools in coursework?
+What is the official policy for credit hours, especially how many hours of student work each credit represents?
+Can BSI or MSI students take a leave of absence, and what is the process for returning afterward?
+What conditions must be met for a student to request a pass/fail grading option for an elective course?
+Under which circumstances can a student request an "incomplete" grade, and how do they finish the course?
+How does the school enforce deadlines for group projects vs. individual assignments?
+Are there any special guidelines on intellectual property rights for student work, especially if used in research?
+If a required course is not offered in a certain semester, how do students handle that gap?
+What must BSI students do to apply for graduation, and when should they submit the application?
+How do MSI, MHI, or MADS students confirm they have met all requirements and are cleared to graduate?
+Are there differences in commencement ceremonies for undergraduates vs. graduate students at UMSI?
+Does the UMSI hold its own separate graduation event, or do students attend the main UM commencement?
+If a student finishes all course requirements in December, can they still walk in the spring ceremony?
+Where can soon-to-graduate students find help with job placement or career transitions?
+Does UMSI collect placement data or statistics on how quickly graduates find employment and at what salary levels?
+How do recruiters typically view a BSI vs. an MSI or MHI degree, and does that differ by industry?
+What career fields are typical for MHI graduates, and how do they leverage the U-M brand?
+Are there specialized career fairs or employer showcase events exclusive to UMSI students near graduation time?
+How can students build a strong professional network within the local tech and information industry in Michigan?
+Does the school provide support for graduates looking to move into consulting, entrepreneurship, or startups?
+Which professional organizations do UMSI faculty and alumni commonly participate in, such as ASIS&T or MLA?
+Are there recommended ways for new alumni to stay connected with UMSI, such as mentorship programs or events?
+How does the school keep track of alumni achievements, and are there awards for distinguished alumni?
+Which UMSI office should you email for questions about student funding opportunities?
+What is the street address of the UMSI Engagement Center located above Panera Bread?
+According to the Credit‑Hour Policy, how many total student‑work hours are expected for one credit?
+In what year did the former Department of Library Science become the School of Library Science?
+Which BSI core course must be completed before a student studies abroad?
+Which phone number connects you to UMSI Career Development?
+Name one ramp‑accessible entrance to North Quad that leads to UMSI spaces.
+Which three core values listed by UMSI explicitly mention “public”?
+How many credits is SI 504 “Servers, the Shell, and Git”?
+What minimum cumulative GPA is required for MSI graduation?
+Which SIABRD partner program is located in the Czech Republic?
+What is the official email for UMSI diversity, equity & inclusion inquiries?
+Which handbook appendix details forms of academic misconduct for BSI students?
+What two course numbers form the BSI capstone sequence in the winter term?
+Which short spring course in Architecture has the class number 52795?
+During which semesters is SI 506 offered?
+What is the enrollment cap for the Architecture Fall 2025 course “Geometric Modeling”?
+Who is listed as the instructor for ARCH 409 section 001 in Fall 2025?
+What is the fax number for the UMSI Office of the Dean?
+Where (building and room) is the weekly “how things work” series suggested to take place according to UMSI governance goals?
+What is the name of UMSI’s high‑school summer camp run with Wolverine Pathways?
+How many lecture hours must equal one credit for an undergraduate BSI “Laboratory” class?
+Which SI course is a corequisite for SI 670 in the Big Data pathway?
+What stipend benefit do participants receive after finishing the Community College Summer Institute?
+What is the class component (LEC, LAB, etc.) for ARCH 571 in Fall 2025?
+Which UMSI location houses the Office of Academic & Student Affairs?
+How many credits can BSI students earn for SI 390 in one internship registration?
+What tool should BSI students use to view unofficial degree audits?
+Which two organizations jointly teach SI 507’s prerequisites?
+Who is the assistant dean leading UMSI’s Office of Organizational Culture and Community?
+What is the primary prerequisite grade threshold (minimum letter) for MSI mastery prerequisites?
+Which UMSI building address is immediately across from the Maynard Parking Structure?
+Name one of the “Engaged‑learning enduring goals” listed in UMSI’s mission goals document.
+According to the internship handbook, which national definition does UMSI reference to define internships?
+How many total graduate‑level credits (500 +) must an MSI student earn?
+Where should BSI students email quick internship questions?
+What is the capacity of the ARCH 312 studio in Fall 2025?
+Which coursework is automatically waived for AMDP students in MSI?
+What is the class number of ARCH 655 “Endo Research” section 002 in Spring 2025?
+Which UMSI email should media outlets contact?
+What is the required co‑enrollment (corequisite) for SI 568 “Becoming a Data Scientist”?
+How often does UMSI hold Community Read events?
+Give one example of a BSI study‑abroad “General Rule.”
+Which BSI advising resource is delivered through Canvas?
+What city hosts UMSI’s partner program at IE University?
+Identify one elevator‑accessible entrance for the Ehrlicher Room 3100 in North Quad.
+What is the official phone number for UMSI Facilities?
+Which path requirement forces MSI students to complete two “Selective Requirement” courses?
+How many credits is ARCH 466 “Dimensions” in Fall 2025?
+What is the maximum enrollment listed for ARCH 421 “Geometric Modeling”?
+Which handbook specifies the internship timeline “begin search no later than January”?
+In what semester does SI 618 run?
+Which component type designates a BSI “Discussion” course?
+State one five‑year objective under UMSI’s DEI strategic plan.
+Which email should students use for computing services questions?
+Which U‑M airport is recommended for visitors flying to Ann Arbor?
+What is the name of the UMSI staff office at 309 Maynard St.?
+Who manages employer & alumni relations in the CDO team list?
+What is the SI course number for “Math Foundations”?
+Which BSI path recommends taking SI 388 if SI 206 is already completed?
+What is the summer Architecture course component for ARCH 302 (Int Tran Studio)?
+Where can faculty locate UMSI’s “online directory” of research areas?
+Which public health principle is embedded in MHI internships according to the handbook?
+How many ramp entrances to North Quad are enumerated in the accessibility guide?
+Give the email address for Academic Success support.
+What is the official postal ZIP code for UMSI’s 105 S. State St. address?
+Which office hosts the Inclusive Leaders in Information program?
+What grade must MSI students earn at minimum for SI 699 to count toward graduation?
+Name one goal under “Public engagement” in UMSI’s mission document.
+How many credits is SI 649 “Information Visualization”?
+Identify a seminar‑type ARCH course with a 6–9 PM meeting time in Fall 2025.
+Which document explains retroactive withdrawals for BSI students?
+What’s the latest recommended month for BSI students to finish internship registration review?
+Which phone number reaches UMSI Research Administration?
+What course replaces SI 501 in the updated MSI curriculum?
+Which urban‑design course carries the title “City as Thesis”?
+How many reservable lecture halls will be in the new Leinweber Building?
+Which policy file defines “Experiential (Internship)” as a class type?
+What is the component code for ARCH 714 “Representation”?
+How many credits may MSI students apply toward a graduate certificate beyond their 48‑credit minimum?
+Which UMSI unit spearheads K‑12 outreach initiatives?
+What is the location code for ARCH 713 “Hist of Urban Form” lectures?
+Which email handles UMSI registration and curriculum issues?
+State the command shortcut for searching within the BSI handbook PDF.
+Which Spring Dentistry course has 0‑10 variable credits and the class number 72391?
+According to the Credit‑Hour Policy, how many weeks define a “full academic term”?
+What is the class number of ARCH 214 “Structures I” lecture section 001 in Fall 2025?
+Which annual cultural celebration invites UMSI community play and food?
+Name one of the recommended parking structures near the UMSI Engagement Center.
+Which lab course must MSI Big Data students finish or co‑enroll in before taking SI 670?
+What component label is used for IND‑type tutorial studies courses?
+Who should MHI students contact if their internship supervisor changes mid‑summer?
+Which building hosts UMSI Counseling and Psychological Services (CAPS) offices?
+Give the class number for ARCH 581 Advanced Robotics in Winter 2025.
+How many credits is ARCH 323 “History Arch II”?
+Which BSI study‑abroad document section lists scholarship resources?
+What is the email for UMSI marketing and communications?
+Which UMSI office line should be faxed at (734) 764‑2475?
+Which outreach program guarantees “priority consideration for BSI admission” to completers?
+Under UMSI governance goals, what weekly series demystifies processes like procurement?
+Do MHI practicums typically occur in local Ann Arbor hospitals, or do students sometimes go out of state?
+Does the MHI require knowledge of standard healthcare coding systems (ICD, CPT) in its curriculum?
+Are MHI classes project-based or exam-based?
+How do MHI students handle IRB approvals if they're working with real patient data for a class project?
+Is there a difference in credit requirements between MSI and MHI for summer internships?
+Does MHI explore telehealth systems design or telemedicine solutions?
+For the MHI, do any requirements emphasize user-experience design for patient portals?
+Are MHI students trained in standard health data interoperability frameworks like HL7 or FHIR?
+Can MHI students choose a set of electives that mirror a more public-health or epidemiology focus?
+What is the difference between a general MHI internship and an MHI capstone or culminating project?
+Does MHI accept part-time enrollees, or must it be completed full-time?
+How often are MHI classes taught in the hospital environment vs. a typical campus classroom?
+Are MHI student presentations sometimes judged by clinicians or hospital administrators?
+Do MHI students compete in external health-tech competitions or hackathons that focus on clinical solutions?
+Does the MHI program address global health informatics, or is it primarily U.S.-centric?
+If an MHI student lacks a health background, do they take bridging courses from SPH?
+Can MHI students also join cross-campus labs for specialized research in AI-driven diagnostic tools?
+Is there a recommended sequence of MHI classes for someone aiming at hospital-based IT leadership roles?
+How many students typically enroll each year in the MHI, and is the cohort environment very collaborative?
+Does the MHI emphasize any unique design frameworks that incorporate accessibility for patients with disabilities?
+Can an MHI student study abroad in a global health environment or do fieldwork overseas?
+Are there recommended ways for MHI students to connect with clinicians who can inform user research?
+Do MHI students frequently earn external certifications (like CHDA from AHIMA) while studying?
+How do MHI faculty approach teaching analytics tools like SAS vs. open-source alternatives like R or Python?
+Which MHI courses specifically target decision support systems in healthcare?
+How does the MHI integrate patient safety and risk management into its curriculum?
+If an MHI student is also interested in user experience, can they take advanced UX design courses from the MSI track?
+Do MHI capstones often result in pilot implementations within local clinics?
+Are MHI students required to maintain any additional health clearances or immunizations for on-site hospital work?
+Are ethics committees or healthcare compliance staff ever invited as guest speakers in MHI classes?
+Do MHI students have to track clinical hours the way nursing or medical students do?
+Which campus library resources best support MHI students searching for healthcare data sets or policy journals?
+If an MHI student wants to pivot to research, can they continue into a PhD in Information with a health focus?
+Does MHI emphasize any specialized programming in HPC or cloud-based healthcare analytics platforms?
+How do MHI graduates typically approach entrepreneurial ventures in digital health?
+Does the MADS online format include mandatory synchronous sessions, or is it entirely asynchronous?
+Are MADS students allowed to attend on-campus events, or are they purely online?
+How often do MADS courses get updated to reflect the newest data science libraries or frameworks?
+Does MADS provide a recommended timeline for completing the degree in under two years, or can students spread it out longer?
+Can MADS students retake a module if they struggle with the content mid-course, or must they wait for the next offering?
+Do MADS students engage in group projects or peer reviews, given the online nature?
+Are MADS modules fully integrated with Jupyter notebooks or cloud-based solutions for data analytics?
+Does MADS encourage Kaggle competitions or external data challenges as part of the curriculum?
+If an online MADS student needs tutoring, do they use the same UMSI Academic Success resources as campus students?
+Can MADS students pause after finishing certain blocks of modules, then resume a few months later?
+Do the MADS courses cover time-series data analysis for specialized fields like finance or climate science?
+How do instructors handle project-based final assessments in MADS, given the asynchronous structure?
+Are specialized data science software licenses (SPSS, STATA, etc.) provided to MADS students, or do they rely on open-source only?
+Can MADS students attend the UMSI commencement if they finish all online requirements?
+Are there formal discussion boards or Slack communities to maintain cohort interaction in MADS?
+How are MADS final grades determined—through multiple small projects or one big cumulative assessment?
+If a MADS student also wants an internship, is it possible to earn credit?
+Is the MADS capstone self-paced or do students coordinate with an instructor on set deadlines?
+Do MADS instructors host open Q&A sessions for each new cohort?
+What kind of math background should a MADS applicant have beyond typical undergrad stats?
+Does MADS require research papers, or is it focused on applied data science projects?
+If a MADS student experiences connectivity issues during an exam or timed quiz, how do they proceed?
+Are there any MADS electives focusing on NLP or advanced deep learning?
+Does the MADS program align with new Cloud or DevOps certifications from big industry providers?
+Can MADS coursework be integrated with a personal workplace project for immediate real-world application?
+Do MADS students receive feedback from teaching assistants or automated graders?
+Is there a standard timeline to finish each module in MADS, or can students complete them at different speeds?
+How does the MADS curriculum handle ethics or bias in ML, beyond technical approaches?
+Are MADS instructors mostly UMSI faculty, or do external industry experts also teach?
+If a MADS student fails a module's major milestone, can they re-attempt it?
+How do MADS students handle advanced mathematics if they've only had basic calculus?
+Are there pre-approved credentials from other Coursera specializations that can transfer to MADS credit?
+Does the MADS leadership track student engagement metrics (like discussion posts, quiz attempts) to shape course improvements?
+In MADS, do group projects require synchronous meetings, or can they collaborate entirely asynchronously?
+What is the approach to big data frameworks like Spark or Hadoop in MADS?
+Do MADS courses address domain-specific data sets, like finance or marketing, or remain domain-agnostic?
+Are data engineering pipelines (ETL processes, data warehousing) a focus in MADS as well as machine learning?
+How many practice quizzes or formative assessments do MADS modules usually contain before graded finals?
+Are MADS exams proctored, or do students adhere to an honor code for online test-taking?
+Can MADS participants rely on a single faculty advisor for academic planning, or is it mostly self-guided?
+How large is the typical incoming cohort for the UMSI PhD in Information?
+Which backgrounds are favored for admission—computer science, social sciences, design, or library science?
+Do PhD students have to secure an advisor at admission, or is it assigned after starting the program?
+How many years of funding do PhD students normally receive?
+Do PhD students rotate among different labs or projects before choosing a dissertation topic, akin to some STEM models?
+Are there required PhD seminars on research methods or theory?
+Can PhD candidates teach undergraduate BSI or intro MSI courses as part of their GSI responsibilities?
+Does the PhD program emphasize publication in top-tier conferences or journals, or both?
+Can a PhD student incorporate external professional work or a part-time job into their schedule?
+Do prospective PhD applicants need a master's in a related field, or do strong undergrads also stand a chance?
+How does the summer internship course differ for international placements versus domestic ones?
+What specific career coaching or resources are provided for MHI students with clinical or health IT interests?
+Are specialized workshops on resume building, interviews, or portfolio reviews offered by the CDO?
+How many hours per week must a student commit to an internship in order to meet the credit requirements?
+What is the process for addressing workplace issues during an internship, and how can the CDO help intervene?
+Are there internship or practicum-style study abroad opportunities where students can earn SI 390/681 credit?
+Do students pay U-M tuition or international tuition when participating in official UMSI exchanges?
+How do big data or user experience topics taught in foreign universities align with UMSI's curriculum requirements?
+Are short, faculty-led global immersion programs available for those not wishing to do a full semester abroad?
+Can non-UMSI courses taken abroad still fulfill free elective credits for the BSI or MSI programs?
+What advice do returning study abroad students typically give about culture shock or academic differences abroad?
+Is it possible to do an early summer study abroad, then return for an internship immediately afterward?
+Are there specific staff members at UMSI dedicated to supporting global engagement and international partnerships?
+Does the BSI or MSI record the official name of the partner university's course on the student's transcript?
+What is required in terms of academic standing or GPA to qualify for study abroad programs?
+Do dual-degree students have any special constraints on doing an overseas semester while completing both programs?
+Are there official orientation sessions or pre-departure training that UMSI requires for outbound exchange students?
+What are some common pitfalls that can delay a student's graduation if they fail to plan carefully for abroad courses?
+How does the credit conversion process work if the host university uses a different credit or grading system?
+Can students do a second study abroad or short-term exchange after returning from a prior international program?
+Which academic or cultural celebrations does UMSI host annually, such as Lunar New Year or Diwali events?
+Are there any living-learning communities affiliated with the School of Information for undergraduates?
+Does UMSI provide secure lockers or equipment checkouts for students who need specialized gear?
+Are there designated quiet study areas for students who prefer minimal noise while working on assignments?
+Does the university's central campus have easily accessible counseling and mental health services for grad students?
+How do BSI students stay connected to each other if they're often spread among different campus buildings?
+Which local or campus-wide resources are recommended for stress management or personal well-being?
+Does UMSI host student appreciation events like coffee breaks, free lunches, or "de-stress" weeks?
+Are there affordable on-campus or near-campus housing options that UMSI students commonly use?
+Does UMSI facilitate meetups for diverse student identities, such as international students or student parents?
+How do students find part-time or on-campus jobs to help with living expenses, and which offices hire them?
+Are there meal-plan-friendly dining options near UMSI buildings, or do most students bring lunch?
+Does UMSI coordinate any off-campus retreats or leadership workshops specifically for building class cohesion?
+In what ways do faculty and staff try to maintain approachability and open communication with students?
+Are there recommended strategies to achieve work-life balance while juggling heavy course loads at UMSI?
+Are official transcripts requested via the UMSI Registrar or through the central U-M Registrar's Office?
+How does UMSI enforce the policy that all required courses must be completed with a grade of C- or better?
+What is the typical timeframe for final grades to be posted each semester?
+Are there data retention policies at UMSI regarding submission of course assignments?
+Can students be dismissed from the program for failing to make adequate progress, and how is that determined?
+How does the grievance process work if a student has a complaint about a faculty member's conduct?
+What resources exist if a student feels they've been discriminated against or harassed in a UMSI context?
+When does a student become subject to academic probation, and how can they return to good standing?
+Does the school track professional behavior or "professional integrity" outside of academic coursework?
+Are there any differences in policies for face-to-face instruction vs. short courses or half-semester courses?
+How does withdrawal from one SI course impact the rest of a student's schedule or progression?
+Does UMSI require immunizations or other health documentation for MHI students working in clinical settings?
+What is the official procedure for requesting or implementing an academic adjustment for a documented disability?
+Can students petition for an exemption to the continuous enrollment requirement if personal circumstances arise?
+Are there special rules for how many pass/fail or S/U credits can count toward the 48 credits needed for the MSI?
+Can alumni still use the UMSI CDO services after they graduate, and if so, for how long?
+Does the school offer any continuing education or certificate programs for alumni seeking to upgrade their skills?
+How do students typically showcase their Capstone, internship, or research projects to potential employers?
+Are there on-campus interviews (OCI) for major tech or consulting firms that regularly recruit UMSI students?
+Which resources help graduating students prepare for negotiations on compensation and benefits packages?
+Is there a formal dissertation defense or final public lecture for PhD students completing their degree?
+Do part-time or online MADS students have the same access to career coaching as full-time residential students?
+How do UMSI graduates typically transition from an internship or practicum to a full-time job offer?
+What strategies do alumni recommend for building a long-term career path in data science or UX design?
+How do recruiters value the hands-on, engaged learning approach of the BSI, MSI, or MHI programs?
+What percentage of MHI grads go directly into clinical informatics vs. other healthcare IT roles?
+If a student is seeking a role at an academic library or archive, does the MSI degree suffice or is a specialized track needed?
+What professional licensures or certifications might complement a UMSI degree for certain career paths?
+Does UMSI sponsor gatherings or networking events in major cities to connect alumni and recent graduates?
+Once students have graduated, do they retain access to U-M email accounts, research tools, or computing services?

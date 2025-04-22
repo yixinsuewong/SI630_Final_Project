@@ -1,0 +1,400 @@
+UMSI’s core mission is to create and share knowledge so people can use information and technology to build a better world.
+Its evolution from library science roots shapes a modern, interdisciplinary approach to people-centered informatics.
+UMSI fosters constant innovation by mixing computing, social sciences, and humanities in both teaching and research.
+Ethical and socially engaged uses of information are woven into coursework and fieldwork; each program emphasizes responsible data use.
+Faculty members span fields such as computer science, social sciences, design, public policy, and health, providing diverse perspectives.
+UMSI has a formal commitment to diversity, equity, and inclusion, detailed in its DEI Strategic Plan, and integrated into courses.
+Students in BSI, MSI, MHI, and MADS sometimes share events, engaged projects, and research experiences for cross-program interaction.
+Collaborative agreements exist with other U-M schools (e.g., Public Health, Engineering) and external partners for cross-disciplinary work.
+The upcoming Leinweber Building supports collaborative classrooms, labs, and spaces that reflect UMSI’s team-based learning ideals.
+Annual traditions like orientation, networking socials, and cultural celebrations help build community among students.
+The Office of Organizational Culture & Community (OCC) and the Culture and Community Committee promote inclusion and belonging.
+Public engagement is core: students tackle real-world info challenges (e.g., public libraries, nonprofits) via engaged learning.
+UMSI stems from a continuously accredited library science program but now leads broad, contemporary iSchool education.
+The Culture and Community Committee advises on inclusion, addresses community needs, and supports school-wide initiatives.
+Organizational culture is how UMSI feels and functions; it’s built on shared values, collaboration, and a supportive environment.
+BSI admissions require strong academic performance in foundational coursework; typically students apply in sophomore year.
+It's selective; successful applicants show academic readiness, collaboration skills, and passion for info/tech topics.
+Current U-M undergrads usually apply during winter of sophomore year, following BSI admissions deadlines.
+MSI and MHI weigh prior academic performance, statements of purpose, and potential for interdisciplinary work; MADS is fully online with emphasis on data science background.
+GRE is optional for some programs; TOEFL/IELTS often required for international applicants (waivers available in certain cases).
+MSI typically wants a 3.0+ GPA; each application is reviewed holistically, with some flexibility for strong experience.
+International students must meet UM's English proficiency thresholds; some may qualify for waivers based on prior education in English.
+Personal statements should highlight relevant experiences, career goals, and alignment with the program's mission.
+Demonstrate professional or internship experiences in your résumé and statement; it strengthens your application narrative.
+Need-based or diversity-based fee waivers are sometimes available; applicants should check UMSI admissions info.
+Applicants must submit transcripts from all post-secondary institutions; relevant coursework must be clearly listed.
+MSI/MHI deadlines are typically in winter/early spring for fall admission; check exact dates online, as rolling admissions vary.
+If you lack programming background, you may need to complete basics like SI 506 once enrolled, or show prior coursework.
+MHI applicants should highlight interest in health/healthcare plus some info-tech exposure.
+MADS admissions weigh math, programming, data skills, plus a strong statement on data science career goals.
+BSI students often rely on standard U-M undergrad financial aid, plus some competitive scholarships in the School of Information.
+Graduate assistantships (GSI, GSRA) are open to MSI/MHI students, but positions are limited and competitive.
+GSIs typically assist with teaching duties; they must maintain good academic standing and meet departmental requirements.
+Merit scholarships are awarded during admissions based on academic excellence and other factors; amounts vary by cohort.
+UMSI fosters DEI by offering certain targeted scholarships to underrepresented or marginalized communities.
+If admitted, your departmental funding decision typically arrives around the same time or shortly after admissions.
+International students often rely on personal funds or external sponsorship; most U.S. federal aid is unavailable.
+Some MSI or MHI students secure external fellowships like FLAS or NSF GRFP if their research aligns with those grants.
+Emergency funds or short-term loans might be available via UMSI or central UM for sudden hardships.
+UMSI occasionally offers partial support for BSI study abroad, though students also look at LSA or other U-M grants.
+Many students work campus jobs or URA positions; openings appear on UMSI or UM Student Employment sites.
+The Dean's Office sometimes provides limited travel or research grants for conferences if the student is presenting.
+Employer sponsorship is more common for MADS students, though they still must meet tuition deadlines.
+Certain scholarships target data analytics or UX program tracks; check each year's offerings.
+To be considered for departmental funding, fill out the relevant sections in your admissions application and FAFSA if applicable.
+BSI core requirements include SI 206, SI 302, SI 300, plus SI 405/407 and SI 485/487 senior-level courses.
+The Information Analysis pathway focuses on data manipulation, analytics, and programming; the UX pathway centers on design, evaluation, and user research.
+SI 106 (or SI 101/110 in older listings) or SI 506 for MSI might be mandatory if you lack a programming background.
+BSI students typically complete SI 405/407 (Fall) and SI 485/487 (Winter) in senior year, in sequence with no substitutions.
+MSI pathways include Big Data Analytics, UX, Information Analysis/ Retrieval, Social Computing, etc.; each has unique mastery prerequisites.
+Mastery prerequisites for certain pathways must be done before SI 699 (capstone Mastery). Examples: SI 506/507, SI 544, SI 618.
+MHI includes health-focused classes (e.g., health data, health policy), plus required SI-based informatics coursework.
+MADS uses a modular format with 1-credit or short courses in data science fundamentals and advanced topics, delivered fully online.
+MSI requires 48 total graduate credits (with at least 39 in SI), along with the mastery component.
+Big Data Analytics track might include advanced machine learning courses (SI 670/671) and specialized electives in data mining.
+Some BSI classes have lab or discussion sections (e.g., SI 206: labs for programming practice).
+The "SI 699 Mastery" for MSI is a culminating experience that applies learned concepts to a real or simulated project.
+MHI includes cross-listed courses in public health or medical school areas; students plan carefully with an advisor.
+Yes, UMSI recognizes short courses or half-term classes; they must still meet standard contact-hour guidelines.
+The "2+2" refers to U-M undergrads applying in sophomore year to do junior and senior years in the BSI.
+BSI juniors typically handle core courses in fall (SI 300, 302, 206), plus one pathway elective, finishing core senior year.
+MSI mastery prerequisites must be completed before the capstone term (SI 699). Plan from your first semester with an advisor.
+Course schedules release shortly before backpacking starts each semester. Students use Wolverine Access to backpack, then register.
+You can check progress in Wolverine Access → Student Business → Degree Progress/Graduation → My Academic Requirements.
+Yes, you may take certain Ross, EECS, or Public Health classes if relevant and within credit limitations for your UMSI degree.
+Syllabi are often in the UMSI course catalog or posted by instructors on Canvas. A prior syllabus can be requested from the instructor.
+Overloading generally needs approval if you exceed 18 credits (undergrad) or the typical max for MSI.
+Full refunds or no penalty typically apply only before the drop/add deadline. After that, a "W" or partial refund might apply.
+Students can schedule with BSI or MSI/MHI academic advisors via email or online booking; specialized pathway advisors also available.
+UMSI Academic Success offers tutoring, study groups, and workshops. Students can request help for specific courses.
+BSI must block out time for required classes (SI 405/407 and 485/487) and fill electives in the rest.
+Waitlist management is automated by Wolverine Access; priority is often first-come, first-served, though some instructors override.
+The capstone ideally is planned at least one semester in advance; some projects require early group formation.
+You can go part-time or take a gap semester by filing the appropriate forms; it may delay graduation but is often feasible.
+For holds or blocks, contact umsi.registrar@umich.edu or the Office of Academic and Student Affairs.
+The CDO provides résumé workshops, drop-in coaching, internship postings on CareerLink, and events with recruiters.
+BSI internships are optional. If taken for credit (SI 390), you must register the internship with the CDO, define learning objectives, and complete reflection assignments.
+MSI internship credit typically uses SI 681 or SI 690 if the internship aligns with program goals and is supervised by an info professional.
+Paid vs. unpaid doesn't affect internship credit eligibility—both are approved if the role meets learning and supervision standards.
+The supervisor must be a professional in the field, offering ongoing guidance, skill development, and structured feedback.
+International students use CPT for internship-based credit. They must register for the corresponding SI internship course to remain in compliance.
+Start early to meet the required credit hour threshold; usually, the CDO advises applying by January for a summer internship.
+Students craft learning objectives focusing on skill growth, career exploration, and applying theoretical knowledge in real contexts.
+Prior roles generally do not count unless newly formalized with the CDO for the relevant term.
+BSI and MSI interns submit reflection papers or presentations on their experiences; grading is often pass/fail.
+Some MSI students can waive the internship requirement if they have 2+ years' relevant full-time experience, subject to CDO approval.
+MHI internships typically follow the same process as MSI's, with additional emphasis on health contexts.
+Part-time students follow the same registration but can complete the internship in smaller increments.
+Steps include: secure position → register in CareerLink → get CDO approval → enroll in SI 390/681/690 with the assigned permission.
+Yes, part-time or semester-long roles can count if they total the required contact hours and align with learning objectives.
+Yes, BSI students can study abroad; the recommended time is winter of junior year so they can complete senior core on campus.
+Start planning the summer before BSI junior year. Attend info sessions, confirm course equivalencies, and apply by relevant deadlines.
+UMSI has exchange programs (e.g., IE University in Spain, University of Economics in Czech Republic) plus other global partnerships.
+Students must get prospective abroad courses approved by UMSI advising to ensure they count toward BSI or MSI electives.
+SI 405/407 and 485/487 have no direct equivalents overseas, so they must be taken at UMSI.
+Some scholarships exist (e.g., BSI study abroad funds, or philanthropic grants) to offset costs.
+The U-M Education Abroad Office and the UMSI Global Engagement team coordinate credit transfer; planning is key.
+Many programs have no language prerequisite, but some do; read each program's details.
+You should begin discussing with an advisor as soon as you enter the BSI, ideally by the fall of junior year.
+Full-semester MSI abroad is less common; short summer programs or embedded global courses are more frequent.
+Students must handle their own visa or host university documentation with guidance from UMSI global staff.
+Submit course details to umsi.registrar@umich.edu for pre-approval. Keep syllabi, because final transfer depends on content alignment.
+Studying abroad in your final semester is allowed only if you can still finish all required UMSI courses on campus earlier.
+Each study abroad course's level must be verified to count toward the 60 upper-level BSI credits if it's 300+ equivalent.
+MHI students often have tight schedules; a short global health program could fit better than a full term abroad.
+New students attend orientation sessions, campus tours, and can consult the UMSI Student Life resources for help with labs and study spaces.
+The new Leinweber building includes reconfigurable classrooms, labs, and collaboration spaces designed for group work.
+Students can also use North Quad and the Engagement Center above Panera for advising and group study.
+UMSI partners with Counseling and Psychological Services (CAPS); some staff offices are embedded for easy access.
+Peer mentorship is available through Student Life or clubs. BSI also has peer advisors for first-year transfers.
+UMSI ensures accessible classrooms and labs; any needed accommodations can be arranged via Services for Students with Disabilities.
+Student orgs range from data science, UX, library clubs, to DEI groups; you can find them on Maize Pages or UMSI's website.
+The Engagement Center at 777 North University hosts the CDO and Engaged Learning Office with some lounge space upstairs.
+Public parking includes Maynard Structure and street meters; city bus routes or campus Blue Buses are also common.
+UMSI fosters cross-cohort mingling through hackathons, design jams, volunteering events, and socials.
+Yes, hackathons and data challenges are frequent. Some are co-hosted with other UM departments or community partners.
+Facility concerns can be reported to umsi.facilities@umich.edu or the main building manager.
+The Ehrlicher Room (3100 North Quad) is reservable by emailing the specified contact in UMSI's scheduling instructions.
+UMSI might not sponsor intramural teams officially, but students form teams with peers across UM.
+MADS students have online discussion forums, Slack/Discord channels, and can come to campus events if nearby.
+Academic integrity includes avoiding plagiarism, cheating, and unethical collaboration; infractions can lead to probation or dismissal.
+Misconduct can be unauthorized assistance, copying, or falsifying data; penalties may include failing grades or suspension.
+If your MSI GPA dips below 3.0, you may be placed on academic probation and must improve next term or face further action.
+Retroactive withdrawal requires approval from advisors and a demonstrated reason (medical, personal emergency), per UMSI guidelines.
+A grade appeal starts with the instructor, then escalates to program leadership if not resolved.
+Late adds/drops carry fees after official deadlines; waiver requests go through the registrar but aren't guaranteed.
+Attendance policies vary by instructor, though engaged participation is generally expected.
+UMSI urges transparency about generative AI tools; unauthorized use can violate academic integrity.
+One credit typically equals ~45 total hours of student work over the term, following UM's credit hour policy.
+A leave of absence can be requested if needed; re-enrollment processes vary for BSI vs. MSI.
+Some electives can be taken pass/fail, but major or pathway requirements typically require a letter grade.
+Incompletes are granted if an emergency arises late in the term; you complete remaining work by a set deadline.
+Group deadlines are often universal, though individual extensions must be discussed with the instructor.
+UMSI IP policies indicate students generally retain rights to their own work, but some funded projects have exceptions.
+If a required course is off-cycle, consult the registrar for alternatives or plan to wait until it's next offered.
+BSI seniors apply online via Wolverine Access (apply for graduation) and confirm with advisors by early in their final semester.
+MSI/MHI students use the same process, verifying their degree audit is 100% met. The registrar must sign off.
+Undergrads usually attend a BSI ceremony plus UM Commencement; graduates have a separate UMSI ceremony.
+UMSI typically hosts its own events, but some students also attend the larger university commencement.
+Yes, December finishers can walk in April, although the official diploma date might be December.
+The CDO offers personal career coaching, interview practice, portfolio reviews, plus alumni networking leads.
+Data show high placement rates for UMSI grads in UX, data analysis, information management, and health informatics roles.
+Employers value BSI for foundational info knowledge; MSI/MHI graduates are seen as advanced specialists.
+MHI grads often land in hospital systems, digital health startups, or consulting roles bridging IT and healthcare.
+Yes, there is a spring UMSI Expo or job fair timed for soon-to-graduate MSI, MHI, and BSI students.
+Student organizations, career fairs, and local meetups in Ann Arbor/Detroit help build strong networks.
+Some choose entrepreneurial routes or join early-stage ventures; UMSI fosters those paths via project-based classes.
+Many faculty and alumni join professional groups like ASIS&T, iSchools consortium, MLA (for library folks), or AMIA (for health informatics).
+Alumni can stay active by mentoring, attending events, or connecting with the UMSI Office of Development & Alumni Relations.
+Distinguished alumni honors are awarded at certain intervals; the school tracks achievements for potential awards.
+umsi.funding@umich.edu
+777 N. University, second floor
+45 hours
+1969
+SI 206
+(734) 647‑7650
+South entrance (Thayer & E. Washington)
+Public and scholarly impact; public access to information; public education as a path to mobility
+1.5 credits
+3.0 GPA
+University of Economics, Czech Republic
+umsi.deioffice@umich.edu
+Appendix B
+SI 485 and SI 487
+ARCH 506 section 102
+Fall and Winter
+18
+Nanda
+(734) 764‑2475
+North Quad or new North Campus spaces
+Information Changes Everything!
+Two hours
+SI 602
+A stipend
+LAB
+333 Maynard, Suite 500
+1 credit
+Wolverine Access → My Academic Requirements
+SI 504 and SI 506
+Devon Keen
+C‑
+333 Maynard St.
+Educate students through engaged learning in authentic settings
+National Association of Colleges and Employers (NACE)
+48 credits
+umsi.internships@umich.edu
+138
+SI 681/690 internship waived
+54476
+media.umsi@umich.edu
+SI 618
+Every winter
+Must study abroad in first winter
+BSI Academic Advising Canvas site
+Madrid
+South entrance
+(734) 615‑8831
+MSI degree
+1 credit
+18
+BSI Internship Course Handbook
+Fall and Winter
+DIS
+Fulfill the DEI Strategic Plan
+umsi.computing.questions@umich.edu
+DTW – Detroit Metro
+UMSI Maynard Office
+Laura Marsh
+SI 602
+SI 388
+LAB
+UMSI online directory
+Community health outcomes
+Two
+umsi.academicsuccess@umich.edu
+48109‑1285
+Office of Organizational Culture & Community
+C‑
+Inform public policy
+3 credits
+ARCH 409 section 001
+Appendix A
+May
+(734) 647‑6333
+SI 500
+UD 717
+Two
+Credit Hour Policy
+SEM
+9 credits
+Office of Organizational Culture & Community
+2108 A&AB
+umsi.registrar@umich.edu
+Ctrl + F / Command + F
+DENT 504
+15 weeks
+10019
+Lunar New Year Celebration
+Thayer or Palmer
+SI 618
+IND
+umsi.internships@umich.edu
+333 Maynard St., 5th floor
+29945
+3 credits
+Additional Information & Resources
+umsi.marcom@umich.edu
+Office of the Dean
+Community College Summer Institute (CCSI)
+Weekly “how things work” series
+Most are local (UM hospital or other Michigan sites), but out-of-state or remote practicums are possible if properly arranged.
+Understanding ICD or CPT codes is addressed in some courses, especially those dealing with electronic health records and billing data.
+Typically, they're project-based with real or simulated healthcare scenarios, although some quantitative courses include exams.
+Faculty typically pre-arrange IRB coverage, or students must file an IRB application if new data is collected. Strict protocols apply.
+MHI also uses an internship or field experience, but exact credit loads may vary. Students confirm with the MHI coordinator.
+Yes, telehealth and remote patient monitoring are frequently discussed, sometimes as case studies in advanced courses.
+Yes, courses typically include modules on user interface design for patient-facing applications and how to improve patient engagement.
+Many health informatics courses reference HL7 or FHIR as crucial standards for data exchange in EHR systems.
+Yes, they can take relevant courses from the School of Public Health, focusing on population health or epidemiological methods.
+The internship is experiential. The capstone or final project typically integrates learning from multiple courses to address a real health informatics challenge.
+Both are possible. Students coordinate a suitable schedule with advisors if they need to go part-time.
+Most are on campus or online. Occasionally, some classes meet in medical settings if they involve direct observation or practical demonstrations.
+Yes, for real-world feedback. Partnerships with local healthcare systems let students present to professionals who might implement their ideas.
+Many do, either individually or in teams. UMSI and SPH often share announcements for relevant competitions.
+Core content often centers on U.S. healthcare systems, but some electives or projects explore global contexts and comparative informatics.
+Yes, bridging modules or recommended SPH courses can help them learn medical terminologies, health policy, or fundamental epidemiology.
+Absolutely. Students coordinate with UMSI or SPH faculty engaged in AI or machine learning for clinical data research labs.
+Advisors propose a route that mixes info management, health policy, leadership, and data analytics courses. Plans vary by career goal.
+Cohort sizes vary but remain relatively intimate. Collaboration is highly encouraged for group projects and practicums.
+Yes, accessibility in eHealth platforms is frequently highlighted, ensuring digital health tools serve diverse patient populations.
+With proper planning, short-term study abroad or global health field experiences can be arranged, subject to program constraints.
+Yes. Many class assignments encourage interviews with providers or care teams, facilitated by UM's clinical partners.
+Some do. It's optional but can boost employability. They must balance certification prep with academic loads.
+Instructors vary. Many courses prefer open-source (R, Python), but SAS is introduced in health-data contexts if relevant.
+It's typically covered under advanced health informatics classes dealing with clinical decision-making and EHR integration.
+Many classes incorporate patient safety use cases, exploring how informatics solutions reduce error rates or adverse events.
+Yes, cross-enrollment is feasible, and those UX courses can satisfy some MHI electives if approved.
+Occasionally. If the partner organization is open to it, some student solutions are prototyped or tested in real settings.
+Often yes; immunizations and background checks might be mandatory if the practicum requires direct hospital or patient contact.
+Yes, regularly. Understanding compliance and data governance is integral to the program.
+Not exactly. The MHI focuses on informatics, so there's no standard "clinical hour" tracking, but some practicum sites may require logs.
+Taubman Health Sciences Library is a primary resource, with specialized databases for health policy, EHR research, etc.
+Yes, if they demonstrate research aptitude and find a faculty sponsor; their MHI foundation can be valuable for a health-oriented Info PhD.
+Some advanced classes do, focusing on big data frameworks relevant to large-scale hospital or population-level data.
+They leverage the program's design and analytics background, often collaborating with U-M's entrepreneurial centers to build health-tech solutions.
+Most MADS coursework is asynchronous, with optional live sessions or office hours. Students manage their own pace within weekly modules.
+They can attend events if they can travel to Ann Arbor, but no in-person attendance is required for the degree.
+They're updated frequently, sometimes each semester, to ensure alignment with current industry and research trends.
+A typical plan might be about two years, but students can accelerate or decelerate as needed, up to a set maximum timeframe.
+They can revisit all posted materials at any point. If they fail a major assignment, they might wait until the course next runs to retake it.
+Yes, certain modules foster collaboration or peer feedback using built-in platforms, though group tasks are typically smaller-scale.
+Indeed, many courses rely on Jupyter notebooks and cloud platforms. The Coursera environment also handles auto-grading in some tasks.
+While not required, instructors often recommend Kaggle or similar to sharpen data-wrangling and modeling skills.
+Yes, remote sessions with academic coaches or tutors can be arranged, though scheduling must accommodate time zone differences.
+They can, but re-entry might require re-enrolling in certain modules if the content or schedule has changed.
+Some advanced modules address time-series modeling; coverage depends on electives chosen.
+Students usually submit a final project online by a deadline. Sometimes there's optional real-time feedback sessions.
+MADS primarily uses open-source tools (Python, R) but also grants partial access to some licensed software if needed for certain modules.
+Yes. They can walk in the UMSI ceremony if they meet the graduation timeline and choose to attend in person.
+Indeed, robust online forums and Slack/Discord channels exist for students to discuss problems, share knowledge, and collaborate.
+It varies by module. Many courses use progressive assignments plus a final project or exam, weighting each portion accordingly.
+MADS is not structured like MSI/BSI with internship credits, but students can still do an internship personally; it just won't appear as a course.
+There are structured milestones. It's more guided than standard modules, ensuring peer or faculty check-ins along the way.
+Generally, yes. They provide live or recorded Q&A at the start or mid-way to address students' content-related queries.
+Familiarity with linear algebra and probability is recommended; bridging modules are offered if a student needs refreshers.
+It's heavily applied. Some assignments discuss research papers, but full-blown academic research is optional.
+They contact support or the instructor, who may reset the attempt or provide an alternative arrangement.
+Yes, modules on NLP, deep learning, or big data frameworks appear as advanced electives; availability rotates.
+Some courses incorporate Docker, Kubernetes, or cloud deployment basics, but full certification alignment is optional.
+Yes, many students adapt final projects to solve a problem from their job, bridging theory and practice.
+Both. Automated grading helps with coding tasks, while TAs or instructors provide deeper feedback on final projects.
+Modules have target windows to keep cohorts loosely aligned, but some flexibility allows finishing earlier or slightly later.
+Specific modules discuss fairness, data bias, and ethical frameworks, including case studies of real-world consequences.
+Primarily UMSI faculty, but occasionally recognized industry practitioners develop or co-teach specialized modules.
+They may retake or redo the assignment within a set retake policy, but repeated failure could require waiting for the course's next iteration.
+Many rely on refresher content included in the program's math primer modules or external resources recommended by instructors.
+Some advanced standing or recognized microcredentials might be considered, but UMSI's official policy typically requires direct MADS enrollment.
+Yes, instructors analyze aggregated platform data to refine modules and identify areas where students struggle.
+Usually asynchronous, though some groups self-organize occasional live calls if time zones permit.
+Some advanced modules delve into Spark-based data processing and distributed computing for large-scale analysis.
+While domain-agnostic in core modules, instructors frequently supply domain examples. Students can choose domain-specific final projects.
+Yes, they cover data ingestion, cleaning, transformation, and warehousing fundamentals as part of the advanced data tracks.
+Many contain multiple low-stakes quizzes or labs to let students build confidence before culminating assessments.
+Typically, the platform uses secure exam browsers or an honor system with random checks. The integrity policy clarifies expectations.
+Generally self-directed, but an academic support staff can offer guidance. Students can request advising if uncertain about course sequences.
+Cohort sizes are small, typically between 5 and 10 new PhD students each year, maintaining close faculty mentorship.
+The PhD program values interdisciplinary diversity; no single background is favored. A strong research statement is crucial.
+They typically specify potential advisors in the application. Official matches form after admission, once the student meets the faculty.
+Usually 4–5 years of full funding, including stipends, tuition, and benefits, contingent on satisfactory progress.
+Not necessarily standard rotations, but students can do multiple research experiences or RA positions early to explore interests.
+Yes, usually 2–3 core seminars on information theory, research design, and domain-specific methodologies are required.
+Often yes, they might serve as GSIs for core BSI or MSI classes, building teaching experience.
+Both. Fields like HCI, data science, or social computing might focus on conference proceedings, while library science or policy might target journals.
+Typically discouraged if fully funded, as the program expects full-time commitment. Exceptions need advisor and program approval.
+Many successful applicants do have master's backgrounds, but exceptional undergraduates can be admitted if they show research potential.
+International sites require extra logistics (visas, etc.). The reflection deliverables remain similar.
+MHI career coaching addresses healthcare IT, digital health, and clinical settings, with specialized job leads.
+Yes, the CDO schedules group workshops plus one-on-one sessions for résumés, cover letters, interviews, and portfolios.
+Typically, 1 credit requires around 50 total hours of work (over the term), but confirm with the syllabus for precise hours.
+Raise issues with the CDO; they can mediate with the employer or guide you on next steps.
+Certain programs incorporate internships abroad; ensure it meets SI 390 or SI 681/690 guidelines if you want credit.
+Tuition depends on the specific exchange or provider program. Some programs charge UM tuition, others charge host rates.
+The content of data or UX abroad courses can be matched to BSI/MSI electives if sufficiently rigorous.
+Yes, faculty-led short visits or "global immersion" might be offered sporadically.
+Non-UMSI courses abroad often count as general electives, if they're recognized by UM for credit.
+Students returning emphasize planning ahead, being flexible, and adjusting to different teaching styles.
+Yes, you can do an early summer abroad, then do a late-summer internship; ensure the dates don't clash.
+The UMSI Global Engagement Manager and OCC staff coordinate international partnerships and advise students.
+Your UM transcript lists a generic "Study Abroad" entry; specifics about the host course may appear in your transfer credits detail.
+You typically need a solid GPA (often 3.0+ for exchange) and good academic standing to study abroad.
+Dual-degree students need both programs' approvals if courses abroad must count for both.
+UMSI and the Global Engagement Office hold mandatory pre-departure briefings on safety, culture, and academics.
+Delay risks include courses not transferring properly or missing required BSI/MSI classes, so plan thoroughly.
+Conversions vary by country; U-M sets equivalencies. You often need at least a "C" or equivalent to earn transfer credit.
+Yes, if scheduling and credits allow. Some do a full semester exchange first, then a separate short immersion later.
+UMSI hosts a Lunar New Year celebration, among others, often supported by student orgs and OCC.
+There's no dedicated living-learning dorm for BSI, but some undergrads join communities like the Michigan Learning Communities.
+Equipment checkout or lockers vary by building; some labs have specific gear for class projects.
+Certain floors or corners in North Quad are designated quiet zones; check posted signage.
+CAPS is at multiple campus locations. Graduate students can also use Wolverine Wellness or UHS mental health services.
+BSI students keep in touch via Slack channels, group assignments, and events at North Quad or 777 N. University.
+The university offers workshops on mindfulness and time management, plus a well-being app for students.
+UMSI sponsors coffee breaks and stress-buster events, especially around midterms and finals.
+Central campus dorms or off-campus apartments near Maynard or State Street are popular for BSI and MSI.
+Various student identity groups meet up for lunches or events; UMSI fosters inclusive programming.
+Part-time or on-campus jobs can be found in the library system, labs, dining, or as departmental assistants.
+There are many on-campus dining halls, plus local restaurants. Some classes are near Panera or cozy coffee shops.
+Occasionally, UMSI organizes off-site leadership retreats or orientation experiences.
+Faculty maintain open office hours, Q&A sessions, and encourage email/Canvas communication for a supportive environment.
+Students should use time-management tools, exercise, and campus wellness resources to keep a balanced schedule.
+Official transcripts are requested via U-M's central Wolverine Access portal, not the UMSI registrar.
+A grade of C- or higher meets requirement; below that, you must retake or petition for an alternative.
+Final grades usually post within a week or two after exams, unless the instructor extends deadlines.
+UMSI or instructors typically keep assignment records for at least a term; you can ask if you need references.
+Students who do not meet academic or professional standards risk dismissal, following a formal review process.
+If you have a grievance about faculty conduct, you can file through the official UMSI or UM procedures.
+OIE (Office for Institutional Equity) addresses discrimination or harassment; UMSI supports that process.
+Probation occurs if you don't meet GPA or progression standards; you must create a plan with advisors.
+Non-academic misconduct, like violating professional codes on internship sites, can also trigger discipline.
+Short courses follow the same policy regarding contact hours, grading, and attendance.
+Withdrawing from one course won't remove you from others, but watch for credit minimums if you're on financial aid.
+MHI students placed in clinical contexts may need immunizations or background checks.
+Disability accommodations start with SSD certification; UMSI encourages early requests to coordinate seamlessly.
+With valid reasons, you can request an exemption from continuous enrollment, but it's not automatic.
+Typically only a limited number of pass/fail credits may apply toward the 48-credit MSI total, so confirm with an advisor.
+CDO support for alumni typically extends at least a few months post-graduation; many resources remain open indefinitely.
+UMSI sometimes offers short certificates or executive education; new offerings may appear in partnership with other UM units.
+A culminating portfolio or capstone is often showcased at the end-of-year Exposition; employers attend to see student work.
+Companies like Amazon, Google, Deloitte, and local tech firms do on-campus or virtual interviews with UMSI students.
+The CDO runs negotiation workshops covering salary benchmarks, benefits, and equity considerations.
+PhD graduates must do a final oral defense with a public presentation, after which they finalize their dissertation for library submission.
+MADS students can reach out for 1:1 career help; although fewer on-site events exist, they can join virtual fairs.
+Many interns receive full-time offers; building relationships during the internship is key to securing a return offer.
+Alumni stress continuing skill development, networking in professional groups, and seeking mentors early in one's career.
+Employers value the hands-on, project-based approach that fosters practical problem-solving and real-world readiness.
+MHI alumni are found in roles like clinical data analyst, EHR specialist, health IT consultant, or digital health product manager.
+Library-leaning careers typically require LIS electives (like SI 647) within the MSI or a library certificate endorsement.
+Certifications in project management (PMP), data (e.g., AWS), or UX design can complement UMSI degrees, depending on career goals.
+Yes, the school occasionally organizes events in major cities like Chicago, NYC, SF, connecting alumni and new grads.
+Graduates usually keep their UM email (uniqname@umich.edu) for a while post-graduation; some computing services expire, so confirm availability.

@@ -1,0 +1,20 @@
+{
+  "dataset": "train",
+  "total_questions": 50,
+  "total_scores_calculated": 50,
+  "average_f1": 0.48778499601373165,
+  "median_f1": 0.5080645161290323,
+  "min_f1": 0.11764705882352941,
+  "max_f1": 0.6923076923076924,
+  "std_dev_f1": 0.13350337288843436,
+  "average_jaccard": 0.3348514284044714,
+  "median_jaccard": 0.3416666666666667,
+  "exact_match_rate": 0.0,
+  "average_token_overlap": 0.47913074919576465,
+  "average_bleu1": 0.45244616207735916,
+  "average_bleu2": 0.2744557040878909,
+  "average_bleu4": 0.11843362248423289,
+  "average_rouge1_fmeasure": 0.5434407007961611,
+  "average_rouge2_fmeasure": 0.22657713259805987,
+  "average_rougeL_fmeasure": 0.44129521790483056
+}

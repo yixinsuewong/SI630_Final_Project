@@ -1,0 +1,127 @@
+[
+    {
+        "filename": "data/about_umsi/contact_umsi.txt",
+        "title": "UMSI Contact Information",
+        "category": "About UMSI"
+    },
+    {
+        "filename": "data/about_umsi/getting to umsi.txt",
+        "title": "Getting to UMSI",
+        "category": "About UMSI"
+    },
+    {
+        "filename": "data/about_umsi/organizational_culture_and_community.txt",
+        "title": "UMSI Organizational Culture and Community",
+        "category": "About UMSI"
+    },
+    {
+        "filename": "data/about_umsi/about_umsi.txt",
+        "title": "About UMSI",
+        "category": "About UMSI"
+    },
+    {
+        "filename": "data/about_umsi/history_mission_goals_volunteer.txt",
+        "title": "UMSI History, Mission, Goals, and Volunteering",
+        "category": "About UMSI"
+    },
+    {
+        "filename": "data/about_umsi/Credit Hour Policy for UMSI.txt",
+        "title": "Credit Hour Policy for UMSI",
+        "category": "Academic Information"
+    },
+    {
+        "filename": "data/program/BSI/BSI Study Abroad Guide 2.0.pdf",
+        "title": "BSI Study Abroad Guide",
+        "category": "BSI Program"
+    },
+    {
+        "filename": "data/program/BSI/BSI Internship Course Handbook.pdf",
+        "title": "BSI Internship Course Handbook",
+        "category": "BSI Program"
+    },
+    {
+        "filename": "data/program/BSI/BSI Handbook.pdf",
+        "title": "BSI Handbook",
+        "category": "BSI Program"
+    },
+    {
+        "filename": "data/program/MSI/MADS Student Handbook.pdf",
+        "title": "MADS Student Handbook",
+        "category": "MADS Program"
+    },
+    {
+        "filename": "data/program/MSI/MSI and MHI Internship Handbook.pdf",
+        "title": "MSI and MHI Internship Handbook",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/program/MSI/MHI and MSI Student Handbook.pdf",
+        "title": "MHI and MSI Student Handbook",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/program/MSI/[PUBLIC] Fall 2024 Cohort - MSI Degree Requirements_LAKES.pdf",
+        "title": "MSI Degree Requirements - LAKES Specialization",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/program/MSI/[PUBLIC] Fall 2024 Cohort - MSI Degree Requirements_User-Centered Agile Development.pdf",
+        "title": "MSI Degree Requirements - User-Centered Agile Development Specialization",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/program/MSI/[PUBLIC] Fall 2024 Cohort - MSI Degree Requirements_UX Research and Design .pdf",
+        "title": "MSI Degree Requirements - UX Research and Design Specialization",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/program/MSI/[PUBLIC] Fall 2024 Cohort - MSI Degree Requirements_Big Data Analytics.pdf",
+        "title": "MSI Degree Requirements - Big Data Analytics Specialization",
+        "category": "MSI Program"
+    },
+    {
+        "filename": "data/courses/student_evaluation/MSI_student__course_evaluation.txt",
+        "title": "MSI Student Course Evaluations",
+        "category": "Course Evaluations"
+    },
+    {
+        "filename": "data/courses/soc/umsi_bsi_course.txt",
+        "title": "UMSI BSI Courses",
+        "category": "BSI Courses"
+    },
+    {
+        "filename": "data/courses/soc/umsi_msi_course.txt",
+        "title": "UMSI MSI Courses",
+        "category": "MSI Courses"
+    },
+    {
+        "filename": "data/courses/soc/umsi_siads_course.txt",
+        "title": "UMSI SIADS Courses",
+        "category": "MADS Courses"
+    },
+    {
+        "filename": "data/courses/soc/umsi_studyabroad_course.txt",
+        "title": "UMSI Study Abroad Courses",
+        "category": "Study Abroad"
+    },
+    {
+        "filename": "data/courses/soc/WN2025_open_all.txt",
+        "title": "Winter 2025 Open Courses",
+        "category": "Course Schedules"
+    },
+    {
+        "filename": "data/courses/soc/FA2025_open.txt",
+        "title": "Fall 2025 Open Courses",
+        "category": "Course Schedules"
+    },
+    {
+        "filename": "data/courses/soc/SP2025_open.txt",
+        "title": "Spring 2025 Open Courses",
+        "category": "Course Schedules"
+    },
+    {
+        "filename": "data/courses/soc/SU2025_open.txt",
+        "title": "Summer 2025 Open Courses",
+        "category": "Course Schedules"
+    }
+] 

@@ -1,0 +1,85 @@
+The provided context does not specify whether the BSI program allows students to count any prior learning or non-UM credits toward the 60 upper-level requirement.
+The provided context does not mention any official BSI rubrics used by faculty to evaluate writing or presentation assignments.
+The provided context does not include information on how the Bachelor of Science in Information (BSI) handles registration overrides for closed or waitlisted courses.
+BSI students should declare their chosen pathway (IA or UX) by the end of their first year. They can switch pathways later if they choose to do so.
+The context does not provide specific information regarding the commonality of minors or certificate programs outside UMSI for the Bachelor of Science in Information (BSI) or whether they can fit into the 120-credit total for a bachelor's degree.
+The provided context does not specify whether BSI students can use advanced placement (AP) credits to reduce general education courses and focus more on SI coursework.
+The provided context does not specify any analytical tools taught in the BSI's data analysis coursework aside from Python.
+The provided context does not mention a special research track for undergraduates in the BSI program.
+The provided context does not contain information regarding how BSI students fulfill the advanced writing requirement at U-M.
+The provided context does not specify whether BSI students are given a recommended order for taking core courses or if they can rearrange them.
+The provided context does not specify whether BSI classes incorporate real client-based projects or rely on simulated scenarios.
+The provided context does not contain information regarding BSI admission requirements or the focus of the program on advanced mathematics.
+The provided context does not mention specific learning outcomes or competencies for the BSI program.
+The provided context does not mention practical design studios for prototyping and user testing in the BSI program.
+The provided context does not specify whether all BSI students take part in team-based projects each term or if there are semesters with mostly individual assignments.
+The context does not provide information regarding whether BSI students produce a senior thesis or if the SI 405/407 and 485/487 Capstone is the main culminating project.
+The context does not provide specific information regarding how large block transfers from a community college impact the 120-credit total for a BSI student.
+The provided context does not specify the exam formats for the Bachelor of Science in Information (BSI) program.
+The provided context does not mention whether the BSI requires an oral defense or presentation of the final Capstone.
+The context does not provide specific information about the duration of BSI group projects or the number of students typically working together.
+The provided context does not mention the BSI program or its incorporation of issues related to data security and privacy in the coursework.
+The provided context does not specify whether UMSI caps BSI enrollment if demand exceeds capacity or if they expand seats accordingly.
+The provided context does not mention specialized BSI advising sessions addressing mental health and academic performance synergy.
+The provided context does not contain any information regarding how BSI instructors incorporate user interviews or usability testing for design-based assignments.
+The provided context does not mention whether the BSI sponsors hackathon-like competitions specifically for undergraduates.
+The context does not provide information regarding the typical class size for BSI core courses versus upper-level electives.
+The provided context does not specify whether a BSI student can blend both IA and UX pathways or if they must commit to just one.
+The provided context does not contain information regarding how often BSI course offerings are updated or revised to keep pace with new technology trends.
+The provided context does not specify whether BSI students are required to compile a digital portfolio of their projects before graduation.
+The provided context does not specify whether the BSI supports small-group career treks or site visits to local tech companies.
+The provided context does not contain information regarding whether BSI lectures are recorded for later viewing if a student must miss class due to an emergency.
+The provided context does not specify whether the Bachelor of Science in Information (BSI) has a formal code of conduct distinct from general UMSI or UM policies.
+The context does not provide specific information about whether BSI students typically do research under a faculty member or if that is more common in graduate programs.
+The provided context does not include information about assignment accommodations for BSI students regarding scheduling conflicts or personal hardships.
+The provided context does not contain specific information regarding how Bachelor of Science in Information (BSI) students handle reading-intensive courses versus project-intensive ones in the same semester.
+The provided context does not specify whether BSI students can enroll in certain graduate-level SI courses based on their advanced knowledge.
+The context does not provide specific information on how BSI students can get writing help for research-based or technical topics.
+The provided context does not contain any information regarding on-campus competitions or showcases for BSI students to pitch new app ideas or data solutions.
+The provided context does not specify how quickly a BSI student can expect to master basic coding skills if they come in with no programming background.
+The provided context does not contain information regarding BSI alumni involvement with the program or how it benefits current students.
+The provided context does not specify whether the MSI requires summer enrollment for any mastery prerequisites. Therefore, it cannot be determined from the information given.
+The provided context does not contain information about the MSI Mastery Course (SI 699) or its collaboration policies.
+The provided context does not specify whether waiving SI 506 via a skill-based test allows for automatic waiving of SI 507. Therefore, it cannot be determined from the information given.
+The provided context does not contain information regarding whether MSI students often double-count electives to earn stackable certificates from other UM units.
+The provided context does not specify whether the MSI program requires a mid-program review or check-in with faculty.
+The provided context does not mention any advanced user experience classes in the MSI that incorporate front-end frameworks like React or Vue.
+The provided context does not specify whether MSI students have a dedicated LIS faculty mentor if they are interested in library science.
+The context provided does not include specific information about the differences between SI 681 and SI 690 for MSI internships.
+The provided context does not mention a recommended course sequence for the Big Data Analytics Pathway beyond the official prerequisites.
+The context does not provide information regarding the duration of a typical mastery project during the final semester.
+The provided context does not contain information regarding whether MSI students can incorporate an external (non-SI) research lab project into their Mastery if it meets the path's learning objectives.
+The provided context does not mention any optional advanced bootcamps or intensives for MSI students wanting extra skill depth in Python or data pipelines.
+The context does not provide information regarding whether the MSI allows part-time enrollment to extend beyond two years.
+The provided context does not contain information regarding the recruitment of MSI pathways by big tech, nonprofits, or academia.
+The provided context does not contain information regarding advanced data courses in the MSI, their requirements for high-performance computing resources, or whether UMSI provides such resources.
+The provided context does not specify whether an MSI student can re-take a course they passed with a low grade to strengthen their understanding.
+The provided context does not contain specific information on how MSI students form synergy between design, data, and policy for a custom interdisciplinary path.
+The provided context does not mention any mandatory workshops on professional ethics or anti-bias training in the MSI.
+The provided context does not mention whether the MSI holds networking nights specifically for niche fields like healthcare data or digital archives.
+The provided context does not contain information regarding the combination of the Social Computing sub-focus with the Big Data track.
+The provided context does not specify the reading load for MSI courses, particularly for policy or conceptual classes.
+The context does not provide specific information about advanced programming courses or their accessibility for those who started coding in grad school. Therefore, I cannot answer the question based on the provided context.
+The provided context does not specify whether MSI students have alternative statistics or data classes that fulfill the requirement if a course like SI 544 is full.
+The provided context does not mention any field trips to data centers, libraries, or design agencies for the MSI program.
+The provided context does not contain information regarding how computing labs or cluster accounts are assigned to MSI students for big data or machine-learning projects.
+The provided context does not mention any specialized tutoring or peer mentorship programs for advanced MSI classes like 670 (ML) or 511 (special topics).
+The provided context does not specify whether the MSI requires a final reflective essay separate from the Mastery project.
+The context does not provide specific information about the credit structure for MSI advanced seminars. Therefore, it cannot be determined whether they are always 3 credits or if some run at 1.5 or 2 credits.
+The provided context does not contain information regarding whether two MSI students can share a single Mastery project deliverable. Please refer to the handbook or consult an academic advisor for clarification on this matter.
+The provided context does not mention any MSI courses that delve into the Internet of Things (IoT) or embedded system data collection.
+The provided context does not contain specific information on how an MSI student can join a cross-functional team competition that includes engineering or business students. Please refer to the student handbook or contact an academic advisor for guidance on participation in such competitions.
+The provided context does not mention "study lounge hours" or tutoring labs for coding and data queries for the MSI program.
+The provided context does not contain information regarding the ownership of intellectual property for MSI students' published papers.
+The context does not provide information about recommended advanced reading lists for each MSI pathway or whether reading is assigned at the individual course level.
+The context does not provide specific information regarding early graduation for MSI students who finish the required 48 credits in three semesters. Please refer to the handbook or contact an academic advisor for clarification on this matter.
+The provided context does not specify any MSI courses that specifically train students for product management roles in tech.
+The provided context does not contain information about how instructors in the MSI handle peer evaluations on group assignments.
+The provided context does not contain information regarding opportunities for MSI students to facilitate skill workshops for undergraduates or the broader campus.
+The provided context does not mention whether the MSI gathers exit feedback from graduating students to update the curriculum.
+The provided context does not mention any recommended technique or platform for MSI students to track their competencies across multiple courses.
+The provided context does not mention a special orientation for the Master of Health Informatics program addressing clinical data and privacy laws (HIPAA).
+The provided context does not contain any information regarding the proportion of the MHI curriculum that is anchored in face-to-face clinical experiences.
+The provided context does not specify whether there are separate admissions committees for the Master of Health Informatics (MHI) from the School of Public Health versus the School of Information.
+The provided context does not specify any MHI courses that focus specifically on analyzing patient outcomes or large-scale population health data.
+The context does not provide specific information about SI 507 or its eligibility for MHI students. Therefore, it cannot be determined if an MHI student can take SI 507 for more background on programming.

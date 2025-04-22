@@ -1,0 +1,496 @@
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 500
+Title: Data-Oriented Python Programming and Debugging
+(PythonProg&Debug)
+Units: 4
+Description: This course teaches the effective use of modules, functions, and object methods in data-driven computing using python. Students will learn competent, independent debugging and self-help skills and become proficient in programming for data analysis with common data structures such as arrays and DataFrames using libraries like NumPy, pandas, and SciPy.
+Notes: New course, coming Fall 2025
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 501
+Title: Being a Data Scientist 
+(BeingDataScientist)
+Units: 1
+Description: This course explores what expertise, perspectives, and ethical commitments applied data scientists bring to projects. We will apply that lens to four phases of data science projects: problem formulation; data acquisition; modeling and analysis; and presentation of results. Through this process, students will formulate a statement of who they want to be as data scientists.
+Syllabus: SIADS 501 Syllabus (Link: https://drive.google.com/drive/folders/1mqBhSLlFTaire2B-b31Ipwjnhj-tkwzL?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 502
+Title: Math Methods I
+(Math Methods I)
+Units: 1
+Description: This course covers foundational topics in linear algebra and probability. Important mathematical concepts are introduced or derived in a rigorous manner. Through guided exercises, students will also learn to program with NumPy, the data science library that will be used extensively in subsequent technical courses. 
+Syllabus: SIADS 502 Syllabus (Link: https://drive.google.com/drive/folders/18ndNm4UIAGyFnnzoAF4n17_UtFta3dW0?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 503
+Title: Data Science Ethics 
+(Data Science Ethics)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 501; (C- or better)
+Description: The course introduces the ethical challenges that data scientists face and can help to resolve using case-based reasoning within four domains that are central to data science: data privacy, bias, data provenance, and accountability.
+Syllabus: SIADS 503 Syllabus (Link: https://drive.google.com/drive/folders/1bU3bTinluKpi8fD9AV6ERZAKvA3M3O59?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 505
+Title: Data Manipulation 
+(Data Manipulation)
+Units: 1
+Description: This course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and Data Frame as the central data structures for data analysis, along with understanding of how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses.
+Syllabus: SIADS 505 Syllabus (Link: https://drive.google.com/drive/folders/1bkp9VXIAxLNvH7OGuU0TzzGlqVsGnbn6?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 511
+Title: SQL and Databases 
+(SQL I)
+Units: 1
+Description: This course will introduce the students to beginning and intermediate database concepts. The students will learn the structured query language, the design of data models, loading and normalizing data, how to query databases, and how to measure the performance of various ways of indexing and querying data.
+Syllabus: SIADS 511 Syllabus (Link: https://drive.google.com/drive/folders/1gGOMLDYHt2qQcOB7ovsGLoJjihQDAFhs?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 515
+Title: Efficient Data Processing 
+(EfficientDataProc)
+Units: 1
+Description: This course will introduce students to the basics of the linux command-line interface, debugging concepts, basic algorithmic principles such as memoization, recursion, caching, and generators, as well as efficiency and code profiling.
+Syllabus: SIADS 515 Syllabus (Link: https://drive.google.com/drive/folders/1UeMymyWja2QoMYqS4Mue1DDl6SWs7vyA?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 516
+Title: Big Data: Scalable Data Processing 
+(Big Data)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 505 and (SIADS 511 or waiver); (C- or better)
+Description: This course will introduce students to the use of the Spark data analysis framework for the analysis of Big Data. We will cover the theory and application of MapReduce strategies, the use of Resilient Distributed Datasets in cluster computing, and higher-level abstractions such as DataFrames and SparkSQL, which facilitate efficient analysis of large amounts of data.
+Syllabus: SIADS 516 Syllabus (Link: https://drive.google.com/drive/folders/1caAhIpPa0HkY967Xtife6LaSFs1tN_6r?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 521
+Title: Visual Exploration of Data 
+(Visual Expl of Data)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 505; (C- or better)
+Description: Students will learn the challenges in exploring and representing analytic data visually with a focus on understanding how statistical measures can be applied.
+Syllabus: SIADS 521 Syllabus (Link: https://drive.google.com/drive/folders/10Fo39WjeROhs6Hht-oFvvlrD269vE5og?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 522
+Title: Information Visualization I 
+(Info Vis 1)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 505; (C- or better)
+Description: This course will introduce information visualization-visual representations of data through interactive systems. Specific focus will be on the role of visualization in understanding data, multidimensional data, and understanding how perception, cognition, and good design enhance visualization. The course will introduce APls for visualization construction.
+Syllabus: SIADS 522 Syllabus (Link: https://drive.google.com/drive/folders/1f9gIXCzQorq9_bNr8AmkSX4NL9Zh7hGs?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 523
+Title: Communicating Data Science Results (Communicating Data)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 505 and SIADS 522; (C- or better)
+Description: Data scientists need to be able to present their analyses to clients and stakeholders, sometimes "translating" to those without statistical or data fluency. You will learn strategies for effective visual, written, and oral communication and create a technical report and oral presentation for your professional portfolio.
+Notes: Starting in Winter 2025, SIADS 505 will be an enforced prerequisite for this course. 
+
+If you run into any issues registering for this course, please email umsi.registrar@umich.edu
+Syllabus: SIADS 523 Syllabus (Link: https://drive.google.com/drive/folders/1LJQ6WDvR8tb1-UJR_-s6cnhyekIdsyZ_?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 524
+Title: Uncertainty 
+(Uncertainty)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 502 and 505 and 522; (C- or better)
+Advisory Prerequisites: SIADS 521
+Description: This course will introduce strategies and techniques for effective uncertainty communication, with a particular focus on uncertainty visualization. A coherent framework for understanding the communication of uncertainty from statistical models will be introduced, as well as strategies for communicating, uncertainty about model specifications themselves.
+Notes: Starting in Winter 2025, SIADS 505 will be an enforced prerequisite for this course. 
+Syllabus: SIADS 524 Syllabus (Link: https://drive.google.com/drive/folders/135VyfbLkSvh4olSPo_JJZ7-IPKjACClL?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 532
+Title: Data Mining I 
+(Data Mining I)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 502 and 505 and 602*; (C- or better)
+Description: This course will introduce basic concepts and tasks of data mining. It focuses on how to formally represent real world information as basic data types (itemsets, matrices, and sequences) that facilitate downstream analytics tasks. Students will learn how to characterize each type of data through pattern extraction and similarity measures.
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 532 Syllabus (Link: https://drive.google.com/drive/folders/10fZk2Mv41b2C5xS6WZq29FxOt_ZHR3rK?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 542
+Title: Supervised Learning 
+(Supervised Learning)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 502 and 505 and 602*; (C- or better)
+Description: Students will learn how to correctly apply, interpret results, and iteratively refine and tune supervised machine learning models to solve a diverse set of problems on real-world datasets.  Application is emphasized over theoretical content.
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 542 Syllabus (Link: https://drive.google.com/drive/folders/1OmiMSwromNoJQhir3Sw0MALu211WK2VJ?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 543
+Title: Unsupervised Learning 
+(Unsupervisd Learning)
+Units: 1
+Enforced Prerequisites: SIADS 502 and 505 and 602* and 542; (C- or better)
+Description: Students will learn how to correctly apply, interpret results, and iteratively refine and tune unsupervised machine learning models to solve a diverse set of problems on real-world datasets. Application is emphasized over theoretical content.
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 543 Syllabus (Link: https://drive.google.com/drive/folders/1sttShV5bqE5RkP_KytZ_zaGWWEnYVaiw)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 570
+Title: Special Topics
+Units: 1
+Description: Special Topics in Information
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 571
+Title: Business SQL
+(Business SQL)
+Units: 1
+Enforced Prerequisites: preceded or accompanied by SIADS 505; (C- or better)
+Description: This class will teach you how to handle complex SQL queries from business logic. Students will be presented with a variety of business needs and a database, students will have to respond to the business need using the database to answer the business question. This will cover using pandas to query a database as well.
+Notes: New SpringSummer 2024!
+
+Starting Winter 2025, this course will be run on Canvas instead of Coursera
+Syllabus: SIADS 571 Syllabus (Link: https://drive.google.com/drive/folders/11Hr0gfeN9Xq4D8a4rA8Y2wz8kUrtio8m)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 576
+Title: Generative AI in Business
+(Business & Gen AI)
+Units: 1
+Description: This qualitative course introduces students to possibilities, risks and impact of generative AI in business
+use cases. Data scientists will analyze ideas, assess benefits and risks (related to operations, consumers,
+society and environment), and make informed decisions about development, use and governance of
+generative AI systems.
+Notes: Starting Winter 2025, this course will be run on Canvas instead of Coursera
+Syllabus: SIADS 576 Syllabus (Link: https://drive.google.com/drive/folders/1Q8ZBF5fsheyxJqn_JsFotsy1zko9fveU)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 593
+Title: Milestone I
+(Milestone I)
+Units: 2
+Enforced Prerequisites: SIADS 501 and 503 and 505 and (SIADS 511 or waiver) and 515 and 516 and 521 and 522; (C- or better)
+Description: Students will engage in a portfolio project which covers data analysis, manipulation, and visualization, as well as a comprehensive exam on learning to date.
+Notes: Replaced SIADS 591 & 592 beginning Fall 2022
+Syllabus: SIADS 593 Syllabus (Link: https://drive.google.com/drive/folders/1WzdzTr3q462Jr1C6-sYLp3s4KD3hffW8?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 601
+Title: Qualitative Inquiry for Data Scientists
+(Qual for Data Sci)
+Units: 1
+Description: Qualitative research methodologies are useful to data scientists as a way to gain insight into data sets, to generate hypotheses about data, and to synthesize analysis outcomes. The course will overview basic qualitative research skills including interview protocols, semi-structured interviews, qualitative analysis through affinity diagrams, and synthesis for written reports.
+
+Syllabus: SIADS 601 Syllabus (Link: https://drive.google.com/drive/folders/1GYJbMkFduFKXX99FKNwx0LVMJHm6Egad?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 602
+Title: Math Methods II
+(Math Methods II)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 502 (C- or better)
+Description: As a natural continuation of Math Methods I, this course covers more advanced topics in linear algebra and statistics in addition to some introductory optimization. Beyond rigorous mathematical definitions and derivations, students will also learn and explore important applications built upon selected concepts. The assessments in this course will explicitly encourage students to write efficient code that re-implements the mathematical ideas taught in the lectures. 
+Notes: This is an Elective course.
+Syllabus: SIADS 602 Syllabus (Link: https://drive.google.com/drive/folders/1OKFrhFiWQ9jAY5uhC4caNj2IYU19npX8?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 611
+Title: Database Architecture & Technology 
+(Adv Db Arch & Tech)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 511 or waiver; (C- or better)
+Advisory Prerequisites: SIADS 505
+Description: This course will cover advanced techniques in representing and indexing data in JSON and full-text fields.  We will also review and cover the performance of database operations across all types of SQL queries.  We also compare and contrast relational and non-relational approaches to database and discuss when to use various different database technologies.
+Syllabus: SIADS 611 Syllabus (Link: https://drive.google.com/drive/folders/1PCEIceDFNIJXWy3im0N7m8pBSmnJyBkT?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 622
+Title: Information Visualization II 
+(Info Vis II)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 505, 521, and 522; (C- or better)
+Description: This course extends our understanding of information visualization. Leveraging the topics covered in Information Visualization I, we introduce interactive techniques that can be used broadly for visualization. The course will also introduce techniques for visualizing specific data types: temporal, network, hierarchical, and text.
+Syllabus: SIADS 622 Syllabus (Link: https://drive.google.com/drive/folders/1fAbhxZ_FJgjM7VnRij6_9mwegzYrmrfW?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 630
+Title: Causal Inference 
+(Causal Inference)
+Units: 1
+Advisory Prerequisites: SIADS 502, 505, and 602
+Description: This course introduces common methods of causal inference. Students will learn how to think about appropriate research designs to estimate causal effects. Topics include randomized experiments, regression discontinuity, instrumental variables, and differences-in-differences. We will go through examples using python. Familiarity with basic concepts in probability and statistics is desirable.
+Syllabus: SIADS 630 Syllabus (Link: https://drive.google.com/drive/folders/19BctB7i7CLAB2FWCZXY_Bq-_nBOhiJW8?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 631
+Title: Experiment Design and Analysis 
+(Exp Design Analysis)
+Units: 1
+Advisory Prerequisites: SIADS 502, 505, and 602
+Description: This course introduces experiment design for laboratory and field experiments. We will discuss the logic of experimentation, and the ways in which experimentation has been -- and could be -- used to investigate social and technological phenomena. Students will learn how to design experiments and analyze experimental data.
+Syllabus: SIADS 631 Syllabus (Link: https://drive.google.com/drive/folders/1mwBvYYx9p5NUwKyK-NGIsJLuQkWJZXgD?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 632
+Title: Data Mining II 
+(Data Mining II)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 502 and 505 and 532 and 602*; (C- or better)
+Description: This course extends Data Mining I and introduces additional data representations and tasks involved in mining real world data, with a particular focus on sequence modeling, time series analysis, and mining data streams. It introduces how to extract patterns, compute similarities/distances of data, and conduct other relevant data mining tasks under these data representations.
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 632 Syllabus (Link: https://drive.google.com/drive/folders/15VV4ziJS48kxquT2wYgaPnTBnprqjbiS?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 642
+Title: Deep Learning I 
+(Deep Learning I)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 502, 505, 542, and 602*; (C- or better)
+Description: This course will introduce basics of neural networks and deep learning. It will focus on developing an understanding of what kind of real-world data problems are amenable to deep learning models. Students will develop familiarity with various commonly used deep learning methods such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Generative Adversarial Networks (GANs) via hands-on coding exercises and multichoice quizzes. 
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 642 Syllabus (Link: https://drive.google.com/drive/folders/1dh2x-bhN2efUobNIMuHxOpLSZBLtNWIy?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 643
+Title: Machine Learning Pipelines 
+(Mach Lrng Pipelines)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 502, 505, 532, 542, and 602*
+and 
+preceded or accompanied by (SIADS 511 or waiver) and SIADS 632; (C- or better)
+Description: Students will gain an understanding of how machine learning pipelines function and common issues that occur during the construction and deployment phases. Students will learn how to prototype, test, evaluate, and validate pipelines. By the end, students should be able to build an end-to-end pipeline for supervised machine learning tasks.
+Notes: 
+Starting in Winter 2024 SIADS 643 must be preceded or accompanied by SIADS 511 or 511 waiver.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024.
+
+Syllabus: SIADS 643 Syllabus (Link: https://drive.google.com/drive/folders/17QO5ekJbhY3tAjifXbzG-DiRkjLdhDq3?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 644
+Title: Reinforcement Learning Algorithms 
+(Reinf Lrng Algrthm)
+Units: 1
+Enforced Prerequisites: (preceded by SIADS 502 and 505 and 532 and 542 and 602*) and (preceded or accompanied by 642 and 632); (C- or better)
+Description: This course covers the basic principles of reinforcement learning and popular modern reinforcement learning algorithms. Students will develop familiarity with both model-based and model-free reinforcement learning algorithms, including Q-learning, Actor-Critic algorithms, and multi-armed bandit algorithms.
+Notes: This is an Elective course.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 644 Syllabus (Link: https://drive.google.com/drive/folders/13ThUjoUI9rzzh1TwxV5vcqVoJZFhvSj7?usp=share_link)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 647
+Title: Deep Learning II
+(Deep Learning II)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 542 and preceded or accompanied by SIADS 543 and SIADS 642 (C- or better)
+Description: This course covers advanced topics in neural networks and deep learning. It will focus on developing
+an understanding of what kind of real-world data problems are amenable to deep learning models.
+Students will develop familiarity with various advanced deep learning methods such as Transformers
+and their variants, Pre-trained Language Models (PLMs), Large Language Models (LLMs). They will also
+learn how to finetune such models by parameter updates as well as by Instruction Tuning and
+Reinforcement Learning with Human Feedback (RLHF) via hands-on coding exercises and multichoice
+quizzes. Students will also learn the details of Diffusion models for image generation.
+Notes: Starting Winter 2025, this course will be run on Canvas, instead of Coursera
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 652
+Title: Network Analysis 
+(Network Analysis)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 502 and 505 and 542 and 602*; (C- or better)
+Advisory Prerequisites: SIADS 503
+Description: This course will introduce students to basic network analysis techniques, with an emphasis on developing programming skills to manipulate an analyze real network data using Python. The course includes topics such as network evolution, link prediction, network centrality, models of information diffusion on networks, and community structure.
+
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 652 Syllabus (Link: https://drive.google.com/open?id=1VNvDdtWyp0wBO0qAKJw0mFOqhijNmg71&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 655
+Title: Applied Natural Language Processing 
+(Applied NLP)
+Units: 1
+Enforced Prerequisites: (preceded by SIADS 502 and 505 and 532 and 542 and 602*) and (preceded or accompanied by 515 and 632); (C- or better)
+Advisory Prerequisites: SIADS 543
+Description: This course introduces students to working with language data and how to turn unstructured text into structured information for use with other data science areas. Students will learn how to use common techniques and software libraries for analyzing the semantics and syntax of language.
+Notes: *SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 655 Syllabus (Link: https://drive.google.com/open?id=1kpEJ2DePN0eEW1BYu7Gh5tJLtgkQRbCA&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 673
+Title: Intro Cloud Computing for Data Science
+(Cloud Computing)
+Units: 1
+Enforced Prerequisites: SIADS 502 and 505 and (SIADS 511 or waiver) and 542 and 602* and 643; (C- or better)
+Description: This course will serve as an introduction to cloud computing and teach students about cloud infrastructure, cloud networks, management, methods to compare and contrast computing services, and performance, scalability, and availability of cloud resources for data related tasks. Transferring of large datasets around within the cloud to create cloud based pipelines will also be covered. At the end of this course, students should be able to set up cloud based workflows for doing common data science tasks.
+Notes: This is an Elective course.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+
+Starting Winter 2025, this course will be run on Canvas, instead of Coursera
+Syllabus: SIADS 673 Syllabus (Link: https://drive.google.com/open?id=14-FPF8jefR92vMaiVrDhfxyDJvUIjNwQ&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 676
+Title: Applications of Generative AI
+(Apps Generative AI)
+Units: 1
+Enforced Prerequisites: Preceded by 542 and preceded or accompanied by 543
+Description: The course introduces students to important methods, infrastructure frameworks, and concepts for
+creating applications with generative AI, with particular focus on using high-level Large Language Model
+services such as OpenAI’s GPT-4 and Meta’s LLama2. Some content on generative image processing will
+also be included.
+
+Notes: Starting Winter 2025, this course will be run on Canvas, instead of Coursera
+Syllabus: SIADS 676 Syllabus (Link: https://drive.google.com/drive/folders/1tVdm_5JTikrnWz9DLsVOg7f_P3WeSW5g)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 680
+Title: Learning Analytics and Educational Data Science (Learning Analytics)
+Units: 1
+Enforced Prerequisites: SIADS 501 and 502 and 503 and 505 and 521 and 532 and 542 and 602* and 630 and 632; (C- or better)
+Advisory Prerequisites: SIADS 522, SIADS 523, and SIADS 631
+Description: The course examines the application of data science to better understand and improve learning. Anchored in the fields of learning analytics and educational data mining, this course analyzes the uniqe opportunities and challenges associated with applying data science methods to data stemming from schools, universities, and myriad learning opportunities.
+Notes: This is a Data Science Application course.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 680 Syllabus (Link: https://drive.google.com/open?id=1GGMB5AbUswGRJ6KsRjVmRY4ppCX5fIJ3&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 681
+Title: Health Analytics
+(Health Analytics)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 696 (C- or better)
+Advisory Prerequisites: SIADS 655
+Description: This course analyzes successful deployments and case studies of health analytics. Students will learn how to recognize the role of data analytics in healthcare settings and will be given a broad healthcare challenge to identify the appropriate technical tools to bear on the task. Students will gain experience with consumer informatics / mobile health,  electronic health records, medical imaging and public health datasets. They will also gain domain expertise in the areas of stress and physical activity, pharmaceuticals, lung disease and epidemiology.  
+Notes: This is a Data Science Application course.
+Syllabus: SIADS 681 Syllabus (Link: https://drive.google.com/open?id=1rWO5Y0ddM28YHijQ6g4c9-z0xMJndnpO&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 682
+Title: Social Media Analytics (Soc Media Analytics)
+Units: 1
+Enforced Prerequisites: (Preceded by SIADS 501 and 502 and 503 and 505 and 515 and 521 and 532 and 542 and 602* and 655) and (preceded or accompanied by 522 and 630 and 632 and 652); (C- or better)
+Description: This course will introduce concepts and approaches to mining social media data. It focuses on obtaining and exploring those data, mining networks, and mining texts from social platforms. Students will learn how to apply previously learned data mining concepts in the context of social media data.
+Notes: This is a Data Science Application course.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 682 Syllabus (Link: https://drive.google.com/open?id=12n88eKQgIwXyRH7cNPbSZzg_q3j6gyK2&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 685
+Title: Search and Recommender Systems (SE and RecSys)
+Units: 1
+Enforced Prerequisites: Preceded by SIADS 501 and 502 and 503 and 505 and 515 and 532 and 542 and 543 and 602* and 630 and 632 and 655; (C- or better)
+Advisory Prerequisites: SIADS 611 and 652
+Description: This course introduces concepts, methods, and applications of information retrieval, with a focus on search and recommendations. Students will learn algorithms, evaluation metrics, and tools for indexing, ranking, and filtering text data and understand the context of popular industrial applications, including Web search, ads ranking, feeds ranking, and recommender systems.
+Notes: This is a Data Science Application course.
+
+*SIADS 602 is not a required prerequisite for any student who began the program before Fall 2024
+Syllabus: SIADS 685 Syllabus (Link: https://drive.google.com/open?id=1JZTawGz_yWnMwdGViMAPK-4rVye2Qjhe&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 687
+Title: Introduction to Sports Analytics
+(Sports Analytics)
+Units: 1
+Enforced Prerequisites: Preceded or accompanied by SIADS 696 (C- or better)
+Advisory Prerequisites: SIADS 642
+Description: In this course students will study how supervised machine learning techniques are applied in the domain of sports analytics including in individual sporting events, team events, and emerging wearable sensor technologies. Students will engage in applying their knowledge of machine learning through a hands-on competition in one or more sports analytics domains.
+Notes: This is a Data Science Application course.
+Syllabus: SIADS 687 Syllabus (Link: https://drive.google.com/open?id=1V9oGgd0eOCHGblZG1isUY2h-exmt67Sh&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 688
+Title: Data Science for Social Good 
+(Social Good)
+Units: 1
+Enforced Prerequisites: preceded by SIADS 501 and 503 and 505 and (SIADS 511 or waiver) and 515 and 516 and 521 and 522 and 
+preceded or accompanied by [SIADS 593 or (SIADS 591 and 592)] and 630 and 631); (C- or better)
+Description: This course analyzes the motivations and incentives for people to contribute to public goods. Students will learn how to apply causal inference techniques and social science theories to nudge pro-social behavior and evaluate the impact of such interventions. Application domains include energy conservation, safe driving, contributions to open content (Wikipedia), and open source software.
+Notes: This is a Data Science Application course.
+
+Starting Winter 2025, this course will be run on Canvas, instead of Coursera
+Syllabus: SIADS 688 Syllabus (Link: https://drive.google.com/open?id=1hlYEos2ySiu-QromVKTCKjnt-pedHW_V&usp=drive_copy)
+
+Semester: Fall 2025
+Department: SIADS
+Course: SIADS 691
+Title: Independent Study
+Units: 1
+Description: Independent Study
+Notes: Instructor Consent Required
+
+This is an Elective course.
+
+Semester: Fall 2025
+Department: SIADS 
+Course: SIADS  696
+Title: Milestone II
+(Milestone II)
+Units: 2
+Enforced Prerequisites: SIADS 501 and 502 and 503 and 505 and (511 or waiver) and 515 and 516 and 521 and 522 and 593 and 524 and 532 and 542 and 543 and 602 and 630 and 632 and 642 and 643; (C- or better)
+Description: This course represents a key assessment point for fundamental data analytics skills and practices applied to realistic data science problems. Students will complete project-based work with guidance from the instructor, as well as a comprehensive exam.
+Notes: Replaced SIADS 694 & 695 beginning Fall 2022
+
+SIADS 696: Milesone II is a 2-credit, 8-week course that spans Sessions 1-2.
+
+Beginning Winter 2025, 502, 522, and 602 will be enforced prerequisites for this course.
+Syllabus: SIADS 696 Syllabus (Link: https://drive.google.com/drive/folders/1O2_ITwfvJkb7nXHHb1hLQk3FjCaJ3aZ8)
+
+Semester: Fall 2025
+Department: SIADS 
+Course: SIADS  699
+Title: Capstone
+(Capstone)
+Units: 3
+Enforced Prerequisites: SIADS 593 and 502 and 524 and 532 and 542 and 543 and 602 and 630 and 632 and 642 and 643 and one of (680 or 681 or 682 or 685 or 687 or 688) and [preceded or accompanied by SIADS 696 ; (C- or better)
+Description: This is a project-based course in which students propose and build end-to-end data science projects in their domains of interest. Students are asked to demonstrate mastery of data science concepts and methods from their MADS training and produce a creative, original, and technically rigorous portfolio piece. Projects will be supervised by instructors with regular peer review.
+Notes: Replaced SIADS 697 beginning Fall 2022
+
+SIADS 699: Capstone is a 3-credit, 12-week course that spans Sessions 2-4. At least one Data Science Application course must be completed prior to starting Capstone.
+
+Beginning Winter 2025, SIADS 642 will be a prerequisite for this course.
+Syllabus: SIADS 699 Syllabus (Link: https://drive.google.com/open?id=1yF8TnifBFG0UyyYM8n1d0SZSfaNO-pcy&usp=drive_copy)
+

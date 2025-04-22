@@ -1,0 +1,717 @@
+Semester: Fall 2025
+Department: SI
+Course: SI 101
+Title: Introduction to Programming with Python
+(IntroProg w Python)
+Units: 4
+Previous Number: 106
+Programs, Information and People
+Description: This course introduces students with no/limited previous programming experience to topics including variables, loops, functions, file I/O, data structures, and APIs. You will learn to manipulate images and get data from the web. Group work is required, but students will also apply skills in an independent project.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 106 Syllabus (Link: https://drive.google.com/drive/folders/1tbF0jA5D1JDxqDXVrqNY-xn3hQbk3HHU)
+Cross Listed: ALA (LSA) 118
+Home Department: SI
+
+Semester: Fall 2025
+Department: SI
+Course: SI 110
+Title: Introduction to Information Studies
+(Intr to Info Studies)
+Units: 4
+Previous Number: 110
+Description: This course will provide the foundational knowledge necessary to begin to address the key issues associated with the Information Revolution. Issues will range from the theoretical (what is information and how do humans construct it?), to the cultural (is life on the screen a qualitatively different phenomenon from experiences with earlier distance-shrinking and knowledge-building technologies such as telephones?), to the practical (what are the basic architecture of computing networks?). Successful completion of this "gateway" course will give you the conceptual tools for an initial understanding of the politics, economics, and culture of the Information Age, providing a foundation for later study in Information or any number of other disciplines. You will be more thoughtful about thorny information issues, and more "information literate" than you were before.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 110 Syllabus (Link: https://drive.google.com/drive/folders/1TO8RifI_xqn-sa6yCLVVE13PgYz9tPuL?usp=share_link)
+Cross Listed: ALA (LSA) 119
+STS (LSA) 110
+Home Department: SI
+
+Semester: Fall 2025
+Department: SI
+Course: SI 201
+Title: Data-Oriented Programming 
+(Data-Oriented Prog)
+Units: 4
+Previous Number: 206
+Enforced Prerequisites: Preceded by one of: (SI 101 [SI 106] or waiver), EECS 182, EECS 183, ENGR 101, ENGR 151
+Description: Students develop their core programming and software development skills, to build competency and literacy in important areas that includes basic data structures, debugging and testing, using distributed code repositories, pattern matching, and programmatic gathering and processing of data. Applications in assignments and labs are oriented around data manipulation.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 206 Syllabus (Link: https://drive.google.com/drive/folders/1GuCTiU8XjjURXLpYxD_cJybSXbI9oi5x?usp=share_link)
+Primary Requisite: 011318-UINF Fall Term Only, 
+NA Winter Term
+
+Semester: Fall 2025
+Department: SI
+Course: SI 207
+Title: Introduction to UX Design for Non-Majors
+(IntroUX-NonMajors)
+Units: 3
+Previous Number: 207
+Description: User Experience Design is a discipline that revolves around enhancing the interaction between users and digital products or services. It encompasses a broad range of elements, including usability, accessibility, visual aesthetics, and overall user satisfaction. Throughout this course, we will delve into the fundamental principles of UX design, exploring topics such as user research, information architecture, interaction design, prototyping, and usability testing. We will also examine the importance of understanding user needs and preferences, and how to apply this knowledge to create designs.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: New in Winter 2025
+
+Not for students in the BSI program
+
+Semester: Fall 2025
+Department: SI
+Course: SI 210
+Title: Career Exploration in Information
+(Info Career Explor)
+Units: 1
+Previous Number: --
+Enforced Prerequisites: BSI Students Only
+Description: This course introduces students to career opportunities in information fields. Students will reflect on their interests and goals, explore various career paths they could pursue with a BSI degree, discover and start to build a professional network, and learn about the skills and experiences needed to make progress toward their career goals.
+Typically Offered: Winter
+Last Offered: --
+Notes: New in Winter 2026
+
+BSI Students Only
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 261
+Title: Introduction to Statistics with Applications
+(IntroStats-Apps)
+Units: 3
+Previous Number: --
+Description: This course introduces students to foundational statistical concepts using Python, with a focus on practical applications in information analysis and user experience research and design. Topics include descriptive statistics, probability, distributions, hypothesis testing, and data visualization. Students will gain hands-on experience analyzing real-world data relevant to information systems. This course prepares students for advanced work in data-driven decision-making and user experience evaluation.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: New in Fall 2025
+
+Semester: Fall 2025
+Department: SI
+Course: SI 300
+Title: Career and Internship Studio: Design Your Success 
+(Career/Intern Studio)
+Units: 1
+Previous Number: 300
+Enforced Prerequisites: BSI Students Only
+Description: In this course, students will engage in a synthesis of knowledge and skill formation as well as practice in internship/career readiness and professional development.
+This course will integrate practice, as well as peer coaching and facilitation in small group activities and reflection. Students will also be exposed to various industry and alumni speakers.
+At the end of this course students will be able to articulate and implement professional development and career readiness skills that provide for the foundation of success in the internship search, the internship experience, as well as future professional environments.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: This is a 7 week course. 
+
+Only open to students in the BSI program.
+Syllabus: SI 300 Syllabus (Link: https://drive.google.com/drive/folders/1imD8oI7aQuFQmjTeI7atNkYtWVZwscUk?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 303
+Title: Introducion to Qualitative Methods
+(Intro Qual Methods)
+Units: 3
+Previous Number: 422
+Needs Assessment and Usability Evaluation
+Description: This course provides students with foundational skills for understanding user behavior and experiences through qualitative research. The course covers methods such as interviews, observations, and thematic analysis. Students will learn how to collect, interpret, and apply qualitative data to inform user-centered design decisions. This hands-on course prepares students for optionally taking advanced research and evaluation in user experience design and information systems.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 422 Syllabus (Link: https://drive.google.com/drive/folders/1iWt93rwGyTfIQ2sfMB0ldGUF6J0M62Bm?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 305
+Title: Introduction to Information Analysis
+(Intro to IA)
+Units: 3
+Previous Number: 305
+Enforced Prerequisites: Preceded or accompanied by (SI 201 [SI 206] or waiver or EECS 280 or EECS 281) and (SI 261 [STATS 250] or waiver)
+Description: In this course students will work with real-world data to practice core principles of information analysis. They will work on a structured project to learn how to draw insights from data, and how the field of information analysis works.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: BSI Students Only
+Syllabus: SI 305 Syllabus (Link: https://drive.google.com/drive/folders/1yW1YkC5rtl5NPgAHHWCgvkModDjFcxkv)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 307
+Title: Introduction to Design
+(Intro Info Design)
+Units: 3
+Previous Number: 307
+Introduction to User Experience Design
+Description: This course provides students with a foundational understanding of design principles within the context of user experience (UX). The course covers key concepts such as visual design, interaction design, and design thinking. Students will explore the role of empathy, creativity, and problem-solving in creating user-friendly products. Through hands-on projects, they will learn to design effective, intuitive interfaces, preparing them for more advanced work in UX design and development.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: BSI Students Only
+Syllabus: SI 307 Syllabus (Link: https://drive.google.com/drive/folders/1ScivKWhQEPrUTtHd2-V6At2aN9Y34_9N)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 310
+Title: Introduction to Information Ethics
+(Intro Ethics)
+Units: 3
+Previous Number: 302
+Description: This course explores the ethical challenges and opportunities that arise from the use of information technologies in modern society. The course will introduce theoretical frameworks and apply them to topics such as privacy, intellectual property, surveillance, and generative AI. Students will critically analyze case studies to understand how to apply ethical principles to the design, use, and governance of technologies.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 302 Syllabus (Link: https://drive.google.com/drive/folders/17BhStegmDX2n2iOBz8WT4Z5stP4uR9C7)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 311
+Title: Special Topics in Information 
+(Spec Topics in Info)
+Units: 1-3
+Previous Number: 311
+Description: Special Topics in Information
+For details about the topics offered each term, please see: https://www.si.umich.edu/programs/courses/special-topics-courses
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 311 Syllabus (Link: https://drive.google.com/drive/folders/1Is4n2ecoOaUV_iaGvtl_3aEOq7wuenn7?usp=share_link)
+Additional Requisite: Some Topics: 
+011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 312
+Title: Information Environments and Work 
+(Info Environs & Work)
+Units: 3
+Previous Number: 310
+Enforced Prerequisites: Preceded by: (SI 110 or waiver)
+Description: This course looks at information's role in organizations, including psychological, economic, management and sociocultural perspectives. Explores sense-making and effective communication, including the importance of "story-telling." Covers key humanistic perspectives and ethical issues related to information. Goes into the nature of requirements and helps students learn to "swim in a sea of data" in organizations. The course focuses on the importance of working at the frontier.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 310 Syllabus (Link: https://drive.google.com/drive/folders/1JlukRbEzzgBv9iI0VF1bJ-ARf_P4LRIM?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 313
+Title: Introduction to Quantitative Methods
+(Intro Quant Methods)
+Units: 3
+Previous Number: --
+Enforced Prerequisites: Preceded by (SI 261 [STATS 250] or waiver) and (SI 201 [SI 206] or waiver)
+Description: This course provides students with a foundational understanding of quantitative techniques used to analyze data. Topics include basic statistics, probability, data collection, and interpretation. Students will learn to apply mathematical and statistical tools to solve practical problems, with a focus on understanding patterns and making data-driven decisions. This course is ideal for those seeking to build skills in quantitative analysis across various fields.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: New in Fall 2025
+
+Semester: Fall 2025
+Department: SI
+Course: SI 315
+Title: Models of Social Information Processing 
+(Models of Social Inf)
+Units: 4
+Previous Number: 301
+Enforced Prerequisites: Preceded or accompanied by: (SI 201 [SI 206] or waiver) or EECS 280 or 281
+Advisory Prerequisites: SI 261 OR STATS 250/206 OR DATASCI 101
+Description: This course focuses on how social groups form, interact, and change. We look at the technical structures of social networks and explore how individual actions are combined to produce collective effects. The techniques learned in this course can be applied to understanding friend systems like Facebook, recommender systems such as Digg, auction systems such as Ebay, and information webs used by search engines such as Google. This course introduces two conceptual models, networks and games, for how information flows and is used in multi-person settings. Networks or graph representations describe the structure of connections among people and documents. They permit mathematical analysis and meaningful visualizations that highlight different roles played by different people or documents, as well as features of the collection as a whole. Game representations describe, in situations of interdependence, the actions available to different people and how each person's outcomes are contingent on the choices of other people. It permits analysis of stable sets of choices by all the people (equilibrium's). It also provides a framework for analysis of the likely effects of alternative designs for markets and information elicitation mechanisms, based on their abstract game representations. Assignments in the course include problem sets exploring the mechanics of the models and essays applying them to current applications in social computing.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 301 Syllabus (Link: https://drive.google.com/drive/folders/1SBhaFjCnM8vsrmBgiEDjq965R_4_ynCn?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 316
+Title: Interpersonal and Psychological Implications of Social Media 
+(Media: Others & Self)
+Units: 3
+Previous Number: 315
+Description: This course provides students with a strong theoretical foundation for approaching the ways in which new social media platforms can shape how interpersonal relationships are initiated, maintained, and developed as well as the implications of these tools for psychological processes.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 315 Syllabus (Link: https://drive.google.com/drive/folders/1yY7M9FRrsFTHSD74YbwE0FEWXGCdWDyb?usp=share_link)
+Primary Requisite: 019374-UINF or UMSI Minor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 322
+Title: Graphic Design 
+(Graphic Design)
+Units: 4
+Previous Number: 320
+Description: The conceptual part of the course covers the graphic design theory discourse. Students will reinforce the practical application of critical thinking; will learn how to apply it to a broader cultural, technological, and social context. Students will develop their aesthetic sensibilities and design skills through mastering visual language vocabulary, understanding principles of effective visual communication, solving creative problems, and developing analytical thinking, promoting thus their ability to respond professionally to rapidly changing needs of the modern world. While studying the elements of color, layout and grids, typography, illustrations, and web/digital design, students will build their own portfolio, in the hands-on part of the course, students will explore issues at the intersection of visual information and technology. They will work on versatile tasks related to digital graphic productions for web: file formats and images, background textures, collages, UI elements, grid-based website mockups for CSS frameworks. The tools and features of Adobe Creative Suite will allow students to get the necessary skills, providing them with hands-on experience, and familiarizing them with the standard professional tasks of the always-changing world of digital environment.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 320 Syllabus (Link: https://drive.google.com/drive/folders/1ZkMwCwc0MBHkVTFKZYG9NetgWs68zAJi?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 325
+Title: Mathematics for Information Analysis
+(Math for IA)
+Units: 3
+Previous Number: 325
+Description: This course will cover mathematical concepts in linear algebra, optimization, probability, and statistics that are useful for information analysis. Students will become comfortable with basic math concepts and how they can be used to solve problems. A few important advanced topics and Python functions will also be covered.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 325 Syllabus (Link: https://drive.google.com/drive/folders/1aCBSwXX3KibVKmzjteSvKHEIBuupMmjQ)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 332
+Title: Privacy & Surveillance in Digital Era
+(Privacy & Surveil)
+Units: 3
+Previous Number: --
+Description: Ubiquitous technology, pervasive data collection, machine learning and artificial intelligence have led to an unprecedented ability for individuals and organizations to watch, observe, and surveil. This course will examine the intersections of observation, surveillance and privacy from a variety of interdisciplinary perspectives, and, informed by the past and present, critically explore potential future scenarios and outcomes.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Prior to Fall 2025 this course was offered as SI 311.149
+Syllabus: SI 332 Syllabus (Link: https://drive.google.com/drive/folders/1lCPhZLIoQEsFIE-t7DPVTLxPqpKO-GiM)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 334
+Title: Persuasion and Social Influence 
+(Persuade & Soc Influ)
+Units: 3
+Previous Number: 334
+Description: Social Influence is one of the most pervasive and powerful mechanisms for behavior change whether you are an informatics professional who is building up your design tool-box, designing a new information system or managing a team. In this course we will learn why and under what conditions an individual's thoughts and actions can be influenced by those around them. The primary goal of this course is to introduce you to some of the theories and key research findings in the field of persuasion and social influence through the lens of economics and social psychology. The second goal is to have you applying the tools of influence from day one of the course: you will learn techniques for persuasive speaking, writing and designing. All written and oral assignments will use short and targeted exercises to gain fluency in applying the techniques and ideas of persuasion. Finally, the course will culminate in an application of these techniques in two case studies (one covering a management problem and one a design challenge). Though we will rely on theories, and learn about the key research findings, this course is suitable for anyone with any background but tailored directly to the needs of informatics students. The class will be heavily directed toward applying what we learn to practice and real world situations. Class meetings include a mixture of lecture and exposition through the use of experiments, an assortment of group activities and class discussion so that you can see and test some of the theories and techniques of social influence first hand.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 334 Syllabus (Link: https://drive.google.com/drive/folders/1er5gCM7N730sDIlxSKLXE0w7C3wny7JR?usp=share_link)
+Primary Requisite: 011318-UINF
+Additional Requisite: 19374-UNIF or UMSI minor, after 3rd week of registration
+
+Semester: Fall 2025
+Department: SI
+Course: SI 336
+Title: Social Media in Organizations 
+(Social Media in Orgs)
+Units: 3
+Previous Number: 335
+Description: This course will address the technical, social, and psychological factors related to how organizations adopt and use social media technologies. Emphasis will be placed on how organizations can leverage social media to communicate with external stakeholders as well as support internal organizational processes such as collaboration, knowledge management, and innovation.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 335 Syllabus (Link: https://drive.google.com/drive/folders/1GWc4WQlPHzqfEREmGxBnOH6iy4qXKRbQ?usp=share_link)
+Primary Requisite: 019374-UINF or UMSI Minor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 338
+Title: Web Design, Development, and Accessibility 
+(WebDesign,Dev,Access)
+Units: 4
+Previous Number: 339
+Enforced Prerequisites: Preceded by one of: (SI 101 [SI 106] or waiver), (SI 201 [SI 206] or waiver), EECS 182, EECS 183, EECS 280, EECS 281, ENGR 101, or ENGR 151
+Description: This course provides a hands-on approach to learning responsive, accessible front-end programming for Web Design. Topics covered include HTML5, CSS3 (including Bootstrap framework), JavaScript, and the POUR design principles of accessible design.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 339 Syllabus (Link: https://drive.google.com/drive/folders/1bJbu6ryitkdgTVJuQ6iRT1CS8W5OlaFo?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 345
+Title: Data Manipulation 
+(Data Manipulation)
+Units: 3
+Previous Number: 330
+Enforced Prerequisites: Preceded by: (SI 201 [SI 206] or waiver) or EECS 280 or EECS 281
+Advisory Prerequisites: SI 261 OR STATS 250/206 OR DATASCI 101
+Description: Data analysis is crucial to application evaluation, as well as understanding users' information needs. When the data required are numerous we need an automated way to gather, parse, and summarize the data. In this course, you will learn to use Python and its modules to accomplish these tasks.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 330 Syllabus (Link: https://drive.google.com/drive/folders/1Ws4PtAxMhn8vWNSL_ZYggIXpNi5ehJYy?usp=share_link)
+Primary Requisite: 018983- UNIF & UT
+
+Semester: Fall 2025
+Department: SI
+Course: SI 347
+Title: Human-Computer Interaction
+(Hum-Comp Interaction)
+Units: 3
+Previous Number: 388
+Putting the H in HCI: Human Perception, Cognition and Mental Processes
+Description: This course explores the principles of designing intuitive and effective interfaces between humans and digital systems. The course emphasizes the psychological, social, physiological, and technical factors that influence user experience. Through hands-on design work, students will design and assess interactive systems, preparing them for advanced work in user experience design and development.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 388 Syllabus (Link: https://drive.google.com/drive/folders/1Dm75q8AvK5NIwGICfUGLOP1vqV60xymG?usp=share_link)
+Primary Requisite: 011318-UINF
+Additional Requisite: 19374-UNIF or UMSI minor, after 3rd week of registration
+
+Semester: Fall 2025
+Department: SI
+Course: SI 350
+Title: UX Field Research in the Public Sector
+ (UX Public Field Rsrc)
+Units: 3
+Previous Number: 350
+Enforced Prerequisites: Preceded by: (SI 110 or waiver)
+Description: Students work with governmental departments and nonprofit agencies to conduct user research around an information need determined by their partner organization. Students work in teams to collect direct user data, using multiple UX research methods. The deliverable is a recommendations report supported by evidence to our partner organizations.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 350 Syllabus (Link: https://drive.google.com/drive/folders/1_MgLZ-TV0ZmSvRZA-BYH5n60Ih2jEDjb?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 357
+Title: Introduction to Development
+(IntroDevelopment)
+Units: 3
+Previous Number: 364
+Building Data-Driven Web Applications
+Enforced Prerequisites: Preceded by (SI 201 [SI 206] or waiver) or EECS 280 or EECS 281
+Description: This course offers students a foundation in coding and software development with a focus on user experience design. The course covers key programming concepts, web technologies, and front-end development, introducing languages such as HTML5, MySQL, PHP, JavaScript, and Python. Students will learn to build interactive, user-friendly interfaces and understand the technical aspects of creating digital products. This course prepares students for more advanced work in user-centered design and development.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 364 Syllabus (Link: https://drive.google.com/drive/folders/13wriW8CQvX9clf1NmFYcdnPwa4s7Iyv6?usp=share_link)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 364
+Title: SQL and Databases
+(SQL I)
+Units: 1.5 OR 3
+Previous Number: --
+Description: This course will introduce the students to beginning and intermediate database concepts to prepare the student to use databases as part of a data analysis workflow. The students will learn data modelling, SQL Syntax, understanding how to evaluate different database systems for suitability, how to evaluate and improve the performance of database operations, how to use a database in a multi-step analysis process.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Notes: Prior to Fall 2025 this course was offered as SI 311.049/SI 311.050
+Syllabus: SI 311.049/050/564 Syllabus (Link: https://drive.google.com/drive/folders/10TKrnrRwFQdsnhfScEWaTMMvW3GxlGfr)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 378
+Title: Building Interactive Applications
+ (Bldg Interactive App)
+Units: 3
+Previous Number: 379
+Enforced Prerequisites: [Preceded by (SI 201 [SI 206] or waiver) or EECS 280 or EECS 281] and [Preceded or accompanied by SI 338 [SI 339]]
+Description: This course introduces tools and techniques for building user interfaces that are reactive and response. It covers a variety of design heuristics for creating interfaces that are usable and accessible. It also teaches software design patterns to implement user interfaces at scale.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 379 Syllabus (Link: https://drive.google.com/drive/folders/1Vyb9XKD25koTJBe1I3cKpQMIKljyRmZC)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 385
+Title: Data Exploration 
+(Data Exploration)
+Units: 3
+Previous Number: 370
+Enforced Prerequisites: Preceded by SI 345 [SI 330] and (SI 261 [STATS 250] or waiver)
+Description: The exploratory data analysis and visualization course aims to help students get started with their own data acquisition and exploratory analysis. Exploratory data analysis is crucial to evaluating and designing solutions and applications, as well as understanding information needs and use. Students in this course will learn basic concepts of information visualization and techniques of exploratory data analysis, using scripting, text parsing, structured query language, regular expressions, graphing, and clustering methods to explore data. Students will be able to make sense of and see patterns in otherwise intractable quantities of data. In this course students will be able to work with the Pandas, seaborn, and scikit-learn packages of Python.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 370 Syllabus (Link: https://drive.google.com/drive/folders/1s2tgTUe-EiCU8fNsPRV_9g-rZP8f4DWB?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 390
+Title: Internship Experience and Seminar in Practical Engagement
+(Internship)
+Units: 1
+Previous Number: 390
+Description: Optional practical experience opportunity for BSI students who perform at least 60 hours of work in a summer internship. Internship experiences for credit and enrollment in this course must be approved in advance by the UMSI Career Development Office. In this course, students will develop learning objectives, complete reflective assignments, and design an internship portfolio demonstrating internship outcomes. This course will support students' ability to derive deeper meaning from an integrated learning experience with the potential to contribute to life-long career development.
+Typically Offered: Fall
+Winter
+Spring
+Summer
+Last Offered: Fall 2025
+Notes: For BSI Students only.
+Syllabus: SI 390 Syllabus (Link: https://drive.google.com/drive/folders/1r3Gazm8Vyz3ERVWWEv_vXi9ShZPIKa7v?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 394
+Title: Introduction to Automotive UX
+(Auto UX)
+Units: 3
+Previous Number: --
+Description: Taught by industry professionals who currently work in the automotive industry, this course provides hands-on experience with the best practices and theory that exist within Automotive User Experience (UX) design space. Students will be asked to create designs of their own to convey their understanding. The primary context for this class will be the in-vehicle digital interfaces, but other devices such as mobile, web, and physical devices (ex. Charging stations, key fobs) will be referenced. This class will not cover exterior automotive design.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Notes: Prior to Fall 2025 this course was offered as SI 311.150
+Syllabus: SI 311.150 Syllabus (Link: https://docs.google.com/document/d/1hPCXTCVWlCK2Y6NLRrvadEhuStaGlNWZJmfYHp2UC8U/edit?tab=t.0)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 402
+Title: Ethics and Information Technology 
+(Ethics&Info Technlgy)
+Units: 4
+Previous Number: 410
+Enforced Prerequisites: Jr or Sr level standing
+Description: Applies an emergent philosophy of information to a variety of new technologies that are inherently social in their design, construction, and use. Learning modules include: social media interaction; remembering/forgetting; and game design ethics. By collaborating on building a wiki community, students explore ethical/unethical information behaviors and test information quality metrics.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Notes: This course is a ULWR
+Syllabus: SI 410 Syllabus (Link: https://drive.google.com/drive/folders/1qVXw1STQkI0HnI85bLGMFS4cuzf_EOmx?usp=share_link)
+Cross Listed: AMCULT 410
+ DIGITAL 410
+STS 410
+Home Department: SI
+Primary Requisite: 019374-UINF or UMSI Minor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 403
+Title: Advanced Qualitative Methods
+(Adv. Qual Methods)
+Units: 4
+Previous Number: --
+Enforced Prerequisites: Preceded by SI 303 [SI 422]
+Description: This course builds on skills from the introductory course, focusing on advanced techniques that may include in-depth interviews, ethnography, and participatory design. Students will refine their abilities in qualitative data collection, analysis, and synthesis, applying these skills to real-world information studies projects. Hands-on experience with methods such as grounded theory will prepare students to tackle complex user experience and information systems research challenges.
+Typically Offered: Winter
+Last Offered: --
+Notes: New course in Winter 2026
+
+Semester: Fall 2025
+Department: SI
+Course: SI 405
+Title: Data Mining
+(Data Mining)
+Units: 4
+Previous Number: --
+Enforced Prerequisites: Preceded by SI 325, SI 345 [SI 330], and SI 385 [SI 370]
+Description: This course introduces students to techniques for discovering patterns and insights in large datasets. Building on skills in data manipulation, exploration, and mathematical analysis, students will learn methods such as classification, clustering, association rule mining, and anomaly detection. The course emphasizes practical applications in areas like user behavior analysis, recommendation systems, and business intelligence. By the end, students will be able to extract meaningful insights to support data-driven decisions in information studies.
+Typically Offered: Winter
+Last Offered: --
+Notes: New course in Winter 2026
+
+Semester: Fall 2025
+Department: SI
+Course: SI 407
+Title: Advanced Design
+(Advanced Design)
+Units: 4
+Previous Number: 482
+Interaction Design Studio
+Enforced Prerequisites: Preceded by (SI 307 or SI 207) & SI 347 [SI 388]
+Description: This course builds on foundational UX principles, focusing on the creation of sophisticated, user-centered interactive systems. Students will explore advanced design techniques, including prototyping, iterative testing, and user feedback integration. Emphasis is placed on solving complex design problems through collaborative, research-driven approaches. Projects will challenge students to push creative boundaries while maintaining usability and accessibility, preparing them for professional UX design roles.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 482 Syllabus (Link: https://drive.google.com/drive/folders/1vz-dIgNBgu7vv9E3YIkoons3bL0QD1GO?usp=share_link)
+Primary Requisite: 019374-UINF or UMSI Minor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 411
+Title: Advanced Special Topics in Information
+(AdvSpecTopicInfo)
+Units: 2025-01-03 00:00:00
+Previous Number: --
+Enforced Prerequisites: Varies by topic
+Description: Special Topics in Information
+For details about the topics offered each term, please see: https://www.si.umich.edu/programs/courses/special-topics-courses
+Typically Offered: Fall
+Winter
+Last Offered: --
+Notes: New course
+
+Semester: Fall 2025
+Department: SI
+Course: SI 413
+Title: Advanced Quantitative Methods
+(AdvQuant:Experiments)
+Units: 4
+Previous Number: 340
+Experiment Design and Analysis
+Enforced Prerequisites: Preceded by (SI 261 [STATS 250] or waiver) and (SI 313 or SI 305)
+Description: This course builds on foundational skills from the introductory course, focusing on advanced statistical techniques in information studies. Students may explore topics including survey design, experimental methods (e.g., A/B testing), and server log analysis. Emphasis is placed on analyzing large datasets, performing regression and multivariate analyses, and generating data-driven insights. This course equips students with practical skills for applying quantitative methods to user experience, product design, and business decisions
+Typically Offered: Winter
+Last Offered: Winter 2025
+
+Semester: Fall 2025
+Department: SI
+Course: SI 425
+Title: Introduction to User Modeling 
+(Intro to User Modeling)
+Units: 3
+Previous Number: 425
+Enforced Prerequisites: Preceded by (SI 261 [STATS 250] or waiver)
+Description: This course introduces techniques to model user behavior from economic theory, behavioral economics, and computer science. Students learn to model preferences using observational and experimental data and evaluate the effectiveness of pricing and monetization strategies for digital products in the presence of network effects, changing digital advertising landscape, novel AI technologies, and privacy preferences. Student teams analyze case studies about user modeling in real world companies.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 425 Syllabus (Link: https://drive.google.com/drive/folders/1hvgXx5-8ZvLDwvLEmcUBo6_Q2LujYPMg?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 428
+Title: Online Communities: Analysis and Design of Online Interaction 
+(Online Communities)
+Units: 3
+Previous Number: 429
+Description: This course gives students a background in theory and practice surrounding online interaction environments. For the purpose of this course, a community is defined as a group of people who sustain interaction over time. The group may be held together by a common identity, a collective purpose, or merely by the individual utility gained from the interactions. An online interaction environment is an electronic forum, accessed through computers or other electronic devices, in which community members can conduct some or all of their interactions.
+Typically Offered: Fall
+Winter
+Last Offered: Fall 2025
+Syllabus: SI 429 Syllabus (Link: https://drive.google.com/drive/folders/1vNPX7rNcu7b2xc-h0RSqi-qmBCaI7O4b?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 432
+Title: Information Technology and Global Society
+ (IT & Global Society)
+Units: 3
+Previous Number: 430
+Description: In this course, students will examine recent and current global events featuring information technology, and through both discussion and introspection, construct their own personal hypotheses of technology and society. Along the way, students will hear about the way in which information technology is touching the remotest places in the world, gain an introduction to formal theories of technology and society, and stress-test their critical thinking skills.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 430 Syllabus (Link: https://drive.google.com/drive/folders/1Xg0TiNmFSXu31gs00f-Sw7zSsIc6baDP?usp=share_link)
+Cross Listed: STS 430
+Home Department: SI
+
+Semester: Fall 2025
+Department: SI
+Course: SI 434
+Title: Algorithms and Society 
+(Algorithms and Society)
+Units: 3
+Previous Number: 431
+Description: Algorithms are a set of rules for computers to follow. Algorithms affect myriad aspects of everyday life, from facial recognition to privacy to policing to social media. This course will examine the ways that algorithms impact individuals and communities, especially in ways that may not be obvious to people who are consumers of algorithmic technologies. We will investigate concepts of bias, discrimination, fairness, ethics, and justice, especially as they relate to attributes like gender, race, or health. Students will be tested via quizzes and will be given an opportunity to explore new ideas
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 431 Syllabus (Link: https://drive.google.com/drive/folders/1O9n0RhlKYOKlH2wXPMZC-bbDiRULQ41w?usp=share_link)
+Primary Requisite: 019374-UINF or UMSI Minor
+
+Semester: Fall 2025
+Department: SI
+Course: SI 436
+Title: Exploring Computational Thinking Through Making 
+(Making for Info Prob)
+Units: 3
+Previous Number: 435
+Description: This course uses making activities to introduce students to problem-solving skills associated with computational thinking. Students will utilize their foundational knowledge of computational thinking and making/tinkering to design solutions to a wide-variety of information problems. The course structure will include a combination of lectures, hands-on making activities, and small group presentations.
+Typically Offered: --
+Last Offered: --
+Syllabus: SI 435 Syllabus (Link: https://drive.google.com/drive/folders/1PtfqtpmtagiV-45yr4vVBWytWEF9IU84?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 457
+Title: Advanced Development
+(Adv Development)
+Units: 4
+Previous Number: --
+Enforced Prerequisites: Preceded by (SI 201 [SI 206] or waiver) and SI 357 [SI 364]
+Description: This course builds on foundational skills in web and database technologies, focusing on creating scalable, high-performance multi-user applications. Students will deepen their expertise in advanced database management, server-side programming, and web frameworks. Emphasizing real-world problem-solving, the course covers topics like optimization, security, and API integration. Students will develop complex applications using a combination of technologies such as MySQL, HTML5, PHP, JavaScript, Python, and mobile platforms.
+Typically Offered: Winter
+Last Offered: --
+Notes: New course
+
+Semester: Fall 2025
+Department: SI
+Course: SI 465
+Title: Applied Machine Learning
+(AppldMachineLearning)
+Units: 4
+Previous Number: --
+Enforced Prerequisites: Preceded by SI 325, SI 345 [SI 330], and SI 385 [SI 370]
+Description: This course introduces students to practical machine learning techniques for solving real-world problems in information studies. Building on skills in data manipulation, exploration, and mathematical analysis, students will learn to implement supervised and unsupervised algorithms, including regression, classification, and clustering. Emphasis is placed on model evaluation, tuning, and the ethical implications of machine learning. By the end, students will be able to apply machine learning models to support data-driven decision-making.
+Last Offered: Fall 2025
+Notes: New course
+
+Semester: Fall 2025
+Department: SI
+Course: SI 478
+Title: UX Research at Scale
+(UX Research at Scale)
+Units: 3
+Previous Number: 467
+Enforced Prerequisites: Preceded by SI 303 [SI 422] & SI 347 [SI 388]
+Description: This course provides a framework for developing and executing research programming to understand user needs and evaluate products and services in enterprise settings. Qualitative and quantitative research strategies and methodologies in common use will be covered, including remote unmoderated research, analysis of experience analytics, A/B testing, and advanced survey methods, among others.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 467 Syllabus (Link: https://drive.google.com/drive/folders/1T1InREMAL-v9ZtBd-RCX0SjwjjWhFR1q)
+
+Semester: Fall 2025
+Department: SI
+Course: SI 485
+Title: Information Analysis Capstone I 
+(IA Capstone I)
+Units: 2
+Previous Number: 405
+Enforced Prerequisites: Preceded or accompanied by SI 305, 310 [302], 315 [301], 345 [330], 385 [370], and 425
+Description: Students will learn about team development, positive group dynamics, professional interactions with clients, assessing project needs, development of initial project ideas, surveying related industry organization and technology, related information fields, decision-making, and working through challenging, conflicting, or ambiguous problems. On completion of the course, student teams will have created a cherent high-level project plan identified in collaboration with a client.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 405 Syllabus (Link: https://drive.google.com/drive/folders/1rfves8i6BkPmYMiIVk706YYHFCdraDUm?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 487
+Title: User Experience Design Capstone I 
+(UX Capstone I)
+Units: 2
+Previous Number: 407
+Enforced Prerequisites: Preceded or accompanied by SI 303 [SI 422], 307, 310 [302], 313, 347 [388], and 357 [364]
+Description: Students will learn about team development, positive group dynamics, professional interactions with clients, assessing project needs, development of initial project ideas, surveying related industry organization and technology, related information fields, decision-making, and working through challenging, conflicting, or ambiguous problems. On completion of the course, student teams will have created a cherent high-level project plan identified in collaboration with a client.
+Typically Offered: Fall
+Last Offered: Fall 2025
+Syllabus: SI 407 Syllabus (Link: https://drive.google.com/drive/folders/1lc2F3_br2AY_xfxuC36xAG0gHt_wc3R3?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 491
+Title: Independent Study 
+(IndStudy)
+Units: 1-8
+Previous Number: 491
+Description: Independent Study
+
+Semester: Fall 2025
+Department: SI
+Course: SI 495
+Title: Information Analysis Capstone II
+(IA Capstone II)
+Units: 4
+Previous Number: 485
+Enforced Prerequisites: Preceded by SI 305, 310 [302], 315 [301], 345 [330], 385 [370], 425, and 485 [405]
+Description: Advance project course for the Information Analytics Path. Students will apply skills learned in the Path to create a data-centered project that includes requirements analysis, data manipulation and analysis, and evaluation needs of a client. Example project settings include: analyzing customer/user interaction data for a commercial enterprise; constructing new datasets for business intelligence; or applying large-scale predictive analytics to improve a business or educational outcome.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 485 Syllabus (Link: https://drive.google.com/drive/folders/1TTaF8wmddigFxf1cpp6_FRmBeEWvbJ_j?usp=share_link)
+Primary Requisite: 011318-UINF
+
+Semester: Fall 2025
+Department: SI
+Course: SI 497
+Title: User Experience Design Capstone II
+ (User Exp Capstone II)
+Units: 4
+Previous Number: 487
+Enforced Prerequisites: Preceded by SI 303 [SI 422], 307, 310 [302], 313, 347 [388], 357 [364], and 487 [407]
+Description: Advanced project course for the User Experience Path. Students will apply skills learned in the Path to create a project that includes aspects of requirements analysis, design, and evaluation needs of a client. Example project settings might include: constructing a website for an academic unit or organization, building a mobile health application, constructing a commercially viable product, or designing a patient-facing or clinical support system.
+Typically Offered: Winter
+Last Offered: Winter 2025
+Syllabus: SI 487 Syllabus (Link: https://drive.google.com/drive/folders/1GsZanxORXMOjkO2-VV4kjReLlQlUXXK_?usp=share_link)
+Primary Requisite: 011318-UINF
+

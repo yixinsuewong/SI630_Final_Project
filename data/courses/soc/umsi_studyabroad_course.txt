@@ -1,0 +1,90 @@
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 301
+Title:         
+Study Abroad - IE University, Espana 
+(IE Uni ES)
+Units: 1-18
+Description: 	
+Study Abroad - IE University, Espana
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 302
+Title:         
+Study Abroad - University of Economics, Czech Republic 
+(Uni of Econ CZ)
+Units: 1-18
+Description:         
+Study Abroad - University of Economics, Czech Republic
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 303
+Title:         
+Study Abroad - University of New South Wales, Australia 
+(Uni of New S Wales A)
+Units: 1-18
+Description: 	
+Study Abroad - University of New South Wales, Australia
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 304
+Title:         
+Study Abroad - Uppsala University, Sweden 
+(Uppsala Uni E)
+Units: 1-18
+Description: 	
+Study Abroad - Uppsala University, Sweden
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 305
+Title: Study Abroad - Norwegian University of Science and Technology, Norway (
+Nor Uni SciTec NO)
+Units: 1-18
+Description: Study Abroad - Norwegian University of Science and Technology, Norway
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 306
+Title: Study Abroad - Queen Mary University of London, UK 
+(Queen Mary UK)
+Units: 1-18
+Description: Study Abroad - Queen Mary University of London, UK
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 307
+Title: Study Abroad - University of Tsukiba, Japan 
+(Uni Tsukuba JP)
+Units: 1-18
+Description: Study Abroad - University of Tsukuba, Japan
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 308
+Title: Study Abroad - Dublin City University
+(Dublin City U)
+Units: 1-18
+Description: Study Abroad at Dublin City University, Ireland
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 309
+Title: Study Abroad - Thessaloniki, Greece
+(Thessaloniki)
+Units: 1-18
+Description: Study Abroad in Thessaloniki, Greece
+
+Semester: Fall 2025
+Department: SIABRD
+Course: SIABRD 330
+Title:         
+Study Abroad - University of Vic in Barcelona 
+(Uni of Vic-ES)
+Units: 1-18
+Description: 	
+Study Abroad - University of Vic in Barcelona
+
