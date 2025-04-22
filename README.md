@@ -28,32 +28,6 @@ The project requires Python 3.8+ and the following main dependencies:
 - tqdm
 ```
 
-## Project Structure
-
-```
-├── data/                       # Document corpus and metadata
-│   ├── metadata.json           # Metadata for all documents
-│   ├── *.txt                   # Text documents
-│   └── *.pdf                   # PDF documents
-├── train/                      # Training data
-│   ├── questions.txt           # Training questions
-│   └── reference_answers.txt   # Reference answers for training
-├── dev/                        # Development data
-│   ├── questions.txt           # Development questions
-│   └── reference_answers.txt   # Reference answers for development
-├── test/                       # Test data
-│   ├── questions.txt           # Test questions
-│   └── reference_answers.txt   # Reference answers for test
-├── data_insights_figures/      # Generated data analysis visualizations
-├── main.py                     # Main RAG system implementation
-├── models.py                   # Pipeline models definitions
-├── evaluation.py               # Evaluation metrics implementation
-├── fix_bm25.py                 # Fixes for BM25 implementation
-├── haystack_adapter.py         # Compatibility layer for haystack versions
-├── run_rag.py                  # Helper script to run the system
-└── data_insights.py            # Data analysis script
-```
-
 ## Data
 
 The project uses a corpus of UMSI-related documents:
