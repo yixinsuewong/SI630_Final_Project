@@ -26,35 +26,6 @@ The project requires Python 3.8+ and the following main dependencies:
 - matplotlib
 - numpy
 - tqdm
-
-### Installation Steps
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd <repository-directory>
-```
-
-2. Install dependencies:
-
-There are two methods to run the project:
-
-#### Method 1: Using the compatibility layer
-
-```bash
-python3 run_rag.py
-```
-
-This script attempts to install the required dependencies and includes a compatibility layer for different haystack versions.
-
-#### Method 2: Direct installation
-
-```bash
-# Install Rust compiler (required for tokenizers)
-brew install rust
-
-# Install main dependencies
-pip install farm-haystack==1.21.0 torch transformers pandas
 ```
 
 ## Project Structure
@@ -87,7 +58,7 @@ pip install farm-haystack==1.21.0 torch transformers pandas
 
 The project uses a corpus of UMSI-related documents:
 - **25 documents total** (15 text files, 10 PDFs)
-- **635 question-answer pairs** (400 training, 150 development, 85 test)
+- **470 question-answer pairs** (400 training, 85 development, 85 test)
 - Documents categorized primarily as MSI Program, About UMSI, Course Schedules, BSI Program
 
 Documents include:
@@ -97,26 +68,6 @@ Documents include:
 - UMSI contact and location information
 - Degree requirements
 
-## Usage
-
-### Running the RAG System
-
-The system can be run in different modes:
-
-1. **Development mode** (evaluate on development set):
-```bash
-python3 run_rag.py --mode dev --data_dir data --dev dev/questions.txt dev/reference_answers.txt --model baseline
-```
-
-2. **Test mode** (run on test set):
-```bash
-python3 run_rag.py --mode test --data_dir data --test test/questions.txt --model embed_retriever
-```
-
-3. **Evaluation mode** (evaluate existing predictions):
-```bash
-python3 run_rag.py --mode eval --eval dev/reference_answers.txt dev/prediction.txt
-```
 
 ### Command Line Arguments
 
@@ -153,31 +104,8 @@ The system is evaluated using the following metrics:
 - **Recall**: Measures if the prediction contains the required information
 - **Exact Match (EM)**: Measures exact string match between prediction and reference
 
-## Troubleshooting
-
-### Common Issues
-
-1. **Missing Haystack Module**:
-   - Use the `run_rag.py` script which includes a compatibility layer
-   - Or install `farm-haystack==1.21.0` with Rust compiler support
-
-2. **Tokenizers Installation Error**:
-   - Install Rust: `brew install rust`
-   - Update pip: `pip install --upgrade pip`
-
-3. **Dependency Conflicts**:
-   - Create a dedicated virtual environment
-   - Use the compatibility layer in `haystack_adapter.py`
-
-## License
-
-[Specify your license information here]
 
 ## Acknowledgments
 
 - The University of Michigan School of Information
 - Libraries used: farm-haystack, transformers, pytorch
-
-## Citation
-
-[Add any citation information if applicable]
